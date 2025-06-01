@@ -1,42 +1,71 @@
-# Ecommerce Sales Analysis
+# 🛒 E-Commerce Sales Analysis Dashboard
 
-Objective:
-To analyze an e-commerce sales dataset, uncover key business insights, and visualize them in an interactive Power BI dashboard.
+A data analysis and visualization project exploring a mock e-commerce dataset using Python and Power BI.
 
-1. Dataset Acquisition
-    Created a mock CSV dataset simulating e-commerce transactions.
+## 📁 Project Overview
 
-    Fields included: Order ID, Product, Category, Sales, Profit, Discount, Order Date, and more.
+This project analyzes sales, profit, and customer behavior from a simulated e-commerce store. It combines data cleaning in Python, exploratory data analysis (EDA), and an interactive dashboard built in Power BI.
 
-2. Data Cleaning & Preprocessing (Python)
-    Loaded data using pandas:
+---
 
-    Removed duplicates
+## 📊 Key Features
 
-    Handled null values (dropped or filled based on context)
+- Cleaned and preprocessed transaction data with Python (Pandas)
+- Visualized key trends and patterns with Matplotlib and Seaborn
+- Built an interactive Power BI dashboard with:
+  - Sales trends over time
+  - Top-selling products and categories
+  - KPI summary cards and slicers
 
-    Converted date fields to datetime format
+---
 
-    Verified numerical columns and scaled if necessary
+## 🧰 Tools Used
 
-3. Exploratory Analysis (Python)
-    Used matplotlib and seaborn for visual exploration:
+- **Python** (Pandas, Matplotlib, Seaborn)
+- **Power BI**
+- **Excel** (initial review)
+- **GitHub** (version control)
 
-    Sales and profit distribution
+---
 
-    Correlation between discount and profitability
+## 🧼 Data Cleaning Steps
 
-    Category-wise performance
-   
-4. Visualization & Dashboard (Power BI)
-    Imported cleaned CSV into Power BI
+- Removed duplicate records
+- Handled missing values
+- Converted dates and numeric fields
+- Verified and normalized data types
 
-    Created key visuals:
+---
 
-    KPI cards: Total Sales, Profit, Average Profit Margin, Orders
+## 📈 Python Visualizations
 
-    Time series: Monthly Sales Trend
+- Sales distribution by category
+- Monthly sales and profit trends
+- Profit margin analysis
+- Correlation between discount and profitability
 
-    Bar/Column Charts: Sales by Category, Profit Margin by Category
+---
 
-    Built slicers for dynamic filtering: Category, Date
+## 🧮 Power BI Dashboard
+
+- KPI Cards: Total Sales, Orders, Profit, Avg. Profit Margin
+- Time Series Chart: Monthly Sales
+- Bar Charts: Sales by Category, Region
+- Dynamic filters (slicers) for Category, and Order Date
+
+---
+
+## 📂 Files Included
+
+- `ecommerce_mockup.csv` – Dataset
+- `cleaning_script.py` – Python notebook for cleaning & EDA
+- `ecommerce_visuals.pbix` – Power BI dashboard file
+- `README.md` – This file
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repo  
+2. Open the `.py` file to explore the data in Python  
+3. Open `dashboard.pbix` in Power BI Desktop to view the dashboard
