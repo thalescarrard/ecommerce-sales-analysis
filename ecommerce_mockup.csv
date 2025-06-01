@@ -1,0 +1,1001 @@
+Order ID,Order Date,Product,Category,Sub-Category,Sales,Quantity,Discount,Profit,Region,Segment,Profit Margin,Price per Unit,High Discount,Month
+8dab70ed-356c-4021-a86f-17ddb9170d22,2024-10-06,Toward Office Supplies,Office Supplies,Paper,282.28,4,0.1,45.3,East,Home Office,0.1604789570639082,70.57,No,2024-10
+88a767dc-1074-4963-a84e-084bdd7c5104,2025-04-08,Miss Office Supplies,Office Supplies,Art,427.7,1,0.0,35.41,East,Home Office,0.08279167640869768,427.7,No,2025-04
+236faa5b-6f39-4af2-a6fd-3b60a98b535e,2024-09-24,Left Office Supplies,Office Supplies,Art,206.85,9,0.3,17.18,East,Home Office,0.08305535412134397,22.983333333333334,Yes,2024-09
+2abef066-38cb-48e3-bb5c-e4dbd3fed141,2024-12-21,Any Office Supplies,Office Supplies,Binders,701.16,6,0.2,51.41,East,Consumer,0.07332135318614867,116.86,No,2024-12
+f1c17aa4-1783-4a6c-bc71-032c125d6693,2025-01-13,Front Furniture,Furniture,Chairs,105.75,6,0.2,18.09,East,Corporate,0.17106382978723403,17.625,No,2025-01
+dfff4366-0c6a-4784-979b-5addec67f333,2024-06-20,Catch Office Supplies,Office Supplies,Binders,88.01,5,0.2,12.02,East,Corporate,0.1365753891603227,17.602,No,2024-06
+93c708f7-ed22-486b-9105-ef2f98ccf49b,2025-02-13,May Office Supplies,Office Supplies,Paper,235.62,5,0.0,42.01,East,Home Office,0.1782955606485018,47.124,No,2025-02
+dd796729-595d-496d-942c-beeae35b883c,2024-06-16,Argue Technology,Technology,Accessories,639.33,6,0.1,67.47,Central,Corporate,0.10553235418328562,106.555,No,2024-06
+f0adc461-9203-4331-93a5-be2f09c1434a,2024-06-03,Threat Technology,Technology,Copiers,937.29,2,0.1,121.96,Central,Home Office,0.13011981350489177,468.645,No,2024-06
+a56b03b3-4e0f-480f-a69f-ca1221d7918b,2025-04-25,Seven Technology,Technology,Phones,277.25,9,0.1,42.33,South,Corporate,0.152678088367899,30.805555555555557,No,2025-04
+b1268d95-79b6-49ea-8b64-b83071e02485,2024-11-08,Claim Technology,Technology,Phones,407.15,2,0.1,76.13,East,Corporate,0.18698268451430677,203.575,No,2024-11
+b45d8b5e-f8a3-4a30-8542-f0c06e74d827,2025-02-02,Guess Office Supplies,Office Supplies,Art,658.88,7,0.3,47.06,Central,Consumer,0.07142423506556582,94.12571428571428,Yes,2025-02
+6666e1aa-aaa1-4fbd-83cb-1c8246dbbbcf,2025-02-11,Possible Technology,Technology,Phones,588.74,10,0.3,61.41,Central,Home Office,0.10430750416142949,58.874,Yes,2025-02
+21aba4f2-82ba-4fc2-abf5-13886d7b3ddf,2025-02-20,Provide Technology,Technology,Copiers,758.22,2,0.1,109.27,South,Consumer,0.1441138455857139,379.11,No,2025-02
+e690b67d-a43c-43b4-b6af-cc4844b422b0,2024-10-30,Different Office Supplies,Office Supplies,Binders,387.8,8,0.2,75.88,East,Corporate,0.19566787003610106,48.475,No,2024-10
+78cc5a73-3d82-4fb7-b6a3-0f825f959bd0,2024-11-30,News Technology,Technology,Copiers,885.94,5,0.2,59.12,East,Home Office,0.06673138135765401,177.18800000000002,No,2024-11
+39c11498-5fd0-4e1b-a31d-6edcce6dfdcb,2025-05-15,Past Furniture,Furniture,Chairs,954.28,5,0.1,120.38,South,Consumer,0.12614746196085005,190.856,No,2025-05
+97d2c6c5-ad03-4439-be0d-811fb23c96b5,2025-02-22,Never Technology,Technology,Copiers,512.59,4,0.1,54.38,Central,Home Office,0.10608868686474571,128.1475,No,2025-02
+878a0485-7db7-4ebc-963a-3d3507f24cfd,2024-06-14,Return Technology,Technology,Copiers,330.91,1,0.0,62.66,East,Home Office,0.18935662264664105,330.91,No,2024-06
+ca8c35f7-8e59-447a-a6f1-aa41d4cc2870,2025-02-01,Follow Furniture,Furniture,Chairs,879.23,2,0.0,140.49,East,Consumer,0.15978754137142728,439.615,No,2025-02
+9fcf85de-4768-4fbb-9809-e40aa0f7fceb,2024-10-08,But Technology,Technology,Copiers,663.15,9,0.1,59.52,West,Consumer,0.08975344944582675,73.68333333333334,No,2024-10
+87dc2a3c-727f-49d3-a9ae-492058e4a71f,2025-05-20,Father Office Supplies,Office Supplies,Binders,757.71,4,0.2,83.23,West,Home Office,0.10984413561916828,189.4275,No,2025-05
+620dde11-3ac3-4a6a-a764-621eb041acbc,2024-10-14,Somebody Office Supplies,Office Supplies,Art,900.62,8,0.0,78.52,Central,Corporate,0.08718438409095956,112.5775,No,2024-10
+0743d59a-7704-4aac-8986-6451b02f3db2,2024-08-12,Stand Technology,Technology,Accessories,558.38,10,0.1,28.52,East,Home Office,0.05107632794870876,55.838,No,2024-08
+fc40a9ba-2925-4ccc-9b48-08b1312bfeb1,2025-01-01,Thus Office Supplies,Office Supplies,Art,76.73,1,0.2,4.65,East,Consumer,0.0606021112993614,76.73,No,2025-01
+2a2f54a5-733c-4a00-8ebd-cbf137e4ac8f,2025-02-07,Say Technology,Technology,Accessories,543.84,10,0.3,47.01,South,Consumer,0.08644086496028243,54.384,Yes,2025-02
+a8f74615-7d1b-4ec0-b053-8a68ce48a78b,2024-12-25,Purpose Furniture,Furniture,Tables,105.96,7,0.2,12.03,West,Consumer,0.11353340883352209,15.137142857142857,No,2024-12
+414a2b8b-e29f-4ed4-bef0-332d9a141509,2025-02-22,Could Furniture,Furniture,Bookcases,656.92,2,0.0,72.52,East,Home Office,0.11039395969067771,328.46,No,2025-02
+d1bf3db0-ca65-40b5-aaf3-040f28bb7558,2024-11-18,Few Furniture,Furniture,Chairs,198.31,8,0.1,22.47,West,Consumer,0.11330744793505118,24.78875,No,2024-11
+ea1adc3e-93a1-4ece-b996-bdddc78db1b7,2025-05-17,Society Furniture,Furniture,Tables,448.7,9,0.0,25.84,West,Consumer,0.05758858925785603,49.855555555555554,No,2025-05
+ef839cfa-f3fe-4d33-b769-45cc4bd00728,2025-05-08,Late Office Supplies,Office Supplies,Paper,174.65,8,0.3,14.33,East,Consumer,0.08204981391354137,21.83125,Yes,2025-05
+4e691045-4851-4cf6-9f19-5b238e7371bd,2025-05-20,Reveal Furniture,Furniture,Chairs,12.13,7,0.2,2.29,West,Corporate,0.18878812860676009,1.7328571428571429,No,2025-05
+5deeae58-45d8-4377-9cd2-d8c098867d50,2024-12-24,Effect Furniture,Furniture,Tables,957.74,9,0.3,70.13,South,Home Office,0.0732244659302107,106.41555555555556,Yes,2024-12
+22f3647d-4869-4b26-8194-ee77aaefd8a5,2024-07-18,Huge Furniture,Furniture,Chairs,738.38,1,0.2,43.25,East,Home Office,0.0585741758985888,738.38,No,2024-07
+8c00fb26-1da6-4d39-91a0-3a0f191e73b4,2025-05-26,At Office Supplies,Office Supplies,Binders,961.17,2,0.1,57.94,West,Consumer,0.060280699564072955,480.585,No,2025-05
+5a7bd3dd-a291-49f8-8d23-a06ddb635d54,2024-09-26,Ok Technology,Technology,Copiers,128.69,10,0.1,17.61,West,Corporate,0.13684046934493743,12.869,No,2024-09
+3bc094c3-2a1a-4ebc-a99e-bbe2aa3e0c99,2024-11-02,Table Technology,Technology,Copiers,660.8,10,0.2,125.69,East,Corporate,0.1902088377723971,66.08,No,2024-11
+37ac53ee-79e4-4e97-b228-8c85e0c2255e,2025-03-24,Big Technology,Technology,Copiers,272.96,3,0.2,32.37,Central,Consumer,0.1185888042203986,90.98666666666666,No,2025-03
+321a6b6a-442c-447d-82c6-702ff677132b,2025-01-13,Opportunity Technology,Technology,Phones,998.47,2,0.0,130.45,South,Home Office,0.13064989433833765,499.235,No,2025-01
+dd19f5f7-f8fe-4ca6-a75b-ad5256bc46c2,2024-08-29,Actually Office Supplies,Office Supplies,Binders,882.06,4,0.2,81.81,West,Corporate,0.09274879259914293,220.515,No,2024-08
+fe7b3969-b736-414b-a335-7d96d1fde2fb,2024-10-08,Century Furniture,Furniture,Bookcases,984.01,9,0.0,147.78,Central,Home Office,0.1501814005955224,109.33444444444444,No,2024-10
+448dd1ca-f8b8-4b0f-9c91-c815d84fe7d4,2024-07-31,Give Office Supplies,Office Supplies,Binders,271.82,2,0.1,24.7,East,Consumer,0.09086895739827827,135.91,No,2024-07
+ed7a2bef-50d0-4db0-ad49-7e4e3234c977,2024-10-07,Necessary Office Supplies,Office Supplies,Paper,690.62,5,0.3,60.55,Central,Consumer,0.08767484289479019,138.124,Yes,2024-10
+30b24d8a-ae1b-43fb-9964-c9ae80d62c35,2024-06-10,Want Technology,Technology,Phones,53.65,6,0.1,7.81,South,Corporate,0.1455731593662628,8.941666666666666,No,2024-06
+b0896358-6008-4396-919b-17665c0746cf,2024-12-22,Center Furniture,Furniture,Chairs,708.61,9,0.0,47.32,South,Home Office,0.06677862293786427,78.73444444444445,No,2024-12
+e12fa4ca-1ae2-4876-8c97-90826ac6b633,2024-09-13,Hotel Office Supplies,Office Supplies,Paper,586.68,3,0.3,40.55,East,Corporate,0.06911774732392446,195.55999999999997,Yes,2024-09
+46cf17b4-2c1e-4568-aa90-3db6669499b9,2024-08-28,Mouth Furniture,Furniture,Tables,217.98,4,0.0,22.46,East,Corporate,0.10303697586934582,54.495,No,2024-08
+f03693db-5253-4b1d-80ce-5445eab0ea9f,2024-10-17,Drive Office Supplies,Office Supplies,Binders,865.96,3,0.3,46.52,West,Consumer,0.05372072613053721,288.65333333333336,Yes,2024-10
+5ae17098-7380-4c06-b851-e961238c8b4d,2025-02-23,Budget Office Supplies,Office Supplies,Binders,865.42,4,0.2,63.94,South,Home Office,0.07388320122021677,216.355,No,2025-02
+1f74be6a-6ca0-4be7-8c26-e8b5da8fad4b,2025-01-10,Maybe Office Supplies,Office Supplies,Paper,860.01,4,0.1,148.34,South,Consumer,0.17248636643759957,215.0025,No,2025-01
+58904b51-730c-44cb-bcf8-65afee64506c,2025-04-30,Each Furniture,Furniture,Tables,230.69,4,0.3,22.89,Central,Consumer,0.09922406692964585,57.6725,Yes,2025-04
+dc55f172-04be-43a5-9fde-658d16806ba1,2024-09-29,Make Technology,Technology,Accessories,514.31,9,0.2,98.17,Central,Home Office,0.19087709747039724,57.145555555555546,No,2024-09
+49b0efc2-32c6-4d17-ba7a-a1259c55af27,2024-07-02,Building Technology,Technology,Accessories,962.91,5,0.0,63.8,West,Home Office,0.06625749031581352,192.582,No,2024-07
+97038995-0bc2-41f9-9cdd-e9da7796abb3,2024-07-04,Door Furniture,Furniture,Tables,610.15,9,0.0,65.76,Central,Corporate,0.10777677620257314,67.79444444444444,No,2024-07
+3f066b5a-82c6-4d44-b4f7-0e9c59d49541,2024-12-08,Natural Office Supplies,Office Supplies,Paper,711.7,1,0.1,74.47,Central,Consumer,0.10463678516228747,711.7,No,2024-12
+d5425108-21c7-45e7-aeb8-6ceb896b78f6,2025-02-08,Tell Technology,Technology,Copiers,320.78,2,0.2,40.44,Central,Home Office,0.12606770995697986,160.39,No,2025-02
+2e67877b-9370-4222-a078-16d3e7bd01f0,2024-06-21,Former Office Supplies,Office Supplies,Binders,700.24,9,0.1,55.16,Central,Corporate,0.07877299211698846,77.80444444444444,No,2024-06
+9c332eba-cd91-4645-9960-023cc335bde8,2025-03-22,Number Office Supplies,Office Supplies,Binders,573.41,7,0.0,54.81,West,Home Office,0.09558605535306326,81.91571428571429,No,2025-03
+d1f6052a-7163-4aa9-8fb9-037165ffc93b,2024-07-24,Before Technology,Technology,Accessories,447.37,4,0.3,75.63,Central,Corporate,0.16905469745400897,111.8425,Yes,2024-07
+0909b262-932b-4520-a09b-f4f73801a0df,2024-12-14,Behavior Office Supplies,Office Supplies,Paper,520.3,10,0.2,33.3,East,Corporate,0.06400153757447627,52.029999999999994,No,2024-12
+75ce6292-c1f1-4580-8ea1-bb49971428e9,2025-05-06,Realize Technology,Technology,Copiers,808.5,3,0.0,46.03,Central,Consumer,0.0569325912183055,269.5,No,2025-05
+a2a68fb9-022b-429d-8708-69735c47a53b,2025-03-26,Offer Furniture,Furniture,Bookcases,420.3,10,0.1,66.3,East,Corporate,0.15774446823697358,42.03,No,2025-03
+9134e3d3-4259-424e-be59-bbfb7f4a4976,2024-06-26,Summer Furniture,Furniture,Tables,156.1,1,0.0,26.03,South,Consumer,0.16675208199871877,156.1,No,2024-06
+a7ef2f1e-717f-4a49-8592-074d2705fa6f,2024-07-04,Attention Technology,Technology,Phones,561.83,2,0.3,39.33,South,Consumer,0.07000338180588433,280.915,Yes,2024-07
+e9d1e2d9-6927-430b-915a-81640b700d5d,2024-11-04,Main Furniture,Furniture,Bookcases,616.53,9,0.3,107.64,Central,Corporate,0.1745900442800837,68.50333333333333,Yes,2024-11
+b6912b2d-ca33-4113-97c5-28ce824b262d,2024-08-13,West Office Supplies,Office Supplies,Binders,862.88,8,0.2,140.45,West,Home Office,0.16276886704987947,107.86,No,2024-08
+7ea7fa95-3353-47ef-8558-407f77a8f41e,2024-10-05,Wife Office Supplies,Office Supplies,Binders,246.85,8,0.0,38.76,South,Home Office,0.1570184322463034,30.85625,No,2024-10
+0da31e22-ca63-459e-95bc-def96f955d64,2025-02-07,Protect Technology,Technology,Accessories,894.1,2,0.1,64.93,Central,Corporate,0.07262051224695225,447.05,No,2025-02
+6704f45d-7dbd-4cf6-a7bc-8e739be9463a,2025-02-11,Store Furniture,Furniture,Bookcases,221.81,7,0.3,22.1,West,Home Office,0.09963482259591543,31.687142857142856,Yes,2025-02
+9561d8ed-df34-48a3-b54a-a50eda61a428,2024-07-11,Here Furniture,Furniture,Tables,834.56,7,0.0,148.98,East,Consumer,0.17851322852760737,119.22285714285714,No,2024-07
+972de13f-2a4f-45ca-90d8-66ae64da1d57,2024-08-21,Republican Office Supplies,Office Supplies,Binders,943.31,5,0.3,167.93,South,Consumer,0.17802207121730929,188.66199999999998,Yes,2024-08
+0028a2f4-b69e-4537-8231-d9c4bfd79d79,2025-01-29,According Furniture,Furniture,Bookcases,227.23,7,0.3,12.35,West,Corporate,0.0543502178409541,32.46142857142857,Yes,2025-01
+856f5a50-16a9-4060-8622-0f38beeaa9b1,2025-03-05,Source Furniture,Furniture,Bookcases,173.39,8,0.1,34.18,South,Home Office,0.19712786204510066,21.67375,No,2025-03
+a0c25398-6d1f-4434-896f-1f967b856453,2024-11-22,Rule Office Supplies,Office Supplies,Paper,568.75,1,0.0,83.27,South,Home Office,0.1464087912087912,568.75,No,2024-11
+50a2c471-d11a-408c-83f7-dd12b26bd61e,2025-03-24,Page Technology,Technology,Accessories,267.55,6,0.1,31.63,West,Consumer,0.11822089329097364,44.59166666666667,No,2025-03
+fe764a04-94ac-4b71-bbca-8007a6db3371,2024-08-20,Consumer Furniture,Furniture,Tables,259.75,2,0.3,13.74,Central,Corporate,0.05289701636188643,129.875,Yes,2024-08
+2e677485-7468-4a3c-89c6-28ef28dc3d50,2025-03-17,Kind Office Supplies,Office Supplies,Paper,653.64,1,0.0,125.79,Central,Consumer,0.19244538277951168,653.64,No,2025-03
+009d957d-2dc3-4af5-8830-00467e9d5d8b,2025-05-23,White Technology,Technology,Phones,134.96,2,0.1,16.16,West,Consumer,0.11973918197984587,67.48,No,2025-05
+fa381073-b6aa-4112-9a86-486280c3993c,2025-04-23,Rate Furniture,Furniture,Tables,611.18,2,0.1,119.0,West,Home Office,0.19470532412709843,305.59,No,2025-04
+5eda0686-5493-4143-a817-6a68d8cd1231,2025-01-25,Network Technology,Technology,Copiers,580.04,7,0.3,110.92,East,Corporate,0.19122819115923043,82.86285714285714,Yes,2025-01
+a2c64bca-fe6e-4e6c-b96f-a508ea5000fc,2025-01-29,Region Technology,Technology,Phones,700.22,5,0.0,118.64,West,Consumer,0.16943246408271687,140.044,No,2025-01
+eeff8ef3-3652-4480-8c74-e0a7a4497280,2024-12-28,Because Office Supplies,Office Supplies,Paper,434.09,6,0.0,54.65,Central,Home Office,0.12589555161372065,72.34833333333333,No,2024-12
+25b0bb71-5fe9-4983-8c4a-096ba35e7a59,2024-10-17,Unit Furniture,Furniture,Chairs,114.48,6,0.3,17.87,South,Corporate,0.15609713487071977,19.080000000000002,Yes,2024-10
+b5a8b046-ee4c-40d5-b484-7ab4b287311a,2025-01-26,Manager Furniture,Furniture,Chairs,810.12,9,0.3,97.0,Central,Home Office,0.11973534784970127,90.01333333333334,Yes,2025-01
+3d9822c7-ee16-4203-a734-b400b3cdbfec,2024-12-06,Sell Office Supplies,Office Supplies,Art,853.2,2,0.2,155.49,Central,Corporate,0.1822433192686357,426.6,No,2024-12
+c52f27ce-e96e-40bc-8790-24e5eed0d0b8,2024-08-11,Such Technology,Technology,Accessories,38.41,6,0.1,4.73,South,Corporate,0.12314501431918773,6.401666666666666,No,2024-08
+b1089668-cf01-4880-a880-d86920ca2bb0,2024-11-09,Today Furniture,Furniture,Tables,881.52,5,0.0,112.39,Central,Corporate,0.12749568926399854,176.304,No,2024-11
+e942bb1e-26f1-4d12-a1f1-0018cc82db43,2024-08-16,Organization Technology,Technology,Phones,412.36,9,0.1,63.33,West,Home Office,0.15357939664370937,45.81777777777778,No,2024-08
+f930d5a5-e7d7-4dc4-8f00-97ad7aee3d2f,2024-09-12,Fight Office Supplies,Office Supplies,Art,795.0,2,0.2,66.18,South,Corporate,0.08324528301886794,397.5,No,2024-09
+9037c874-d3a9-4ab4-b7cc-cdcff9d7402f,2024-08-10,Box Office Supplies,Office Supplies,Paper,585.74,8,0.2,66.67,Central,Home Office,0.11382183221224434,73.2175,No,2024-08
+560efb09-bc62-41fa-9bc4-c708e5172c9d,2024-11-13,Lead Office Supplies,Office Supplies,Art,705.83,5,0.2,61.91,Central,Corporate,0.08771233866511766,141.166,No,2024-11
+1c571dc6-8213-4ac6-a9f4-a7f17b4f707a,2025-02-03,Single Technology,Technology,Copiers,128.36,9,0.1,10.11,West,Corporate,0.07876285447179805,14.262222222222224,No,2025-02
+5cabb585-6ec4-4de6-a724-1a2a08a6ba6e,2024-09-19,Security Office Supplies,Office Supplies,Binders,593.69,9,0.2,117.0,Central,Home Office,0.19707254627836074,65.96555555555557,No,2024-09
+7809a1e5-e813-47f9-9e5f-cb9841009ffb,2025-03-13,Production Technology,Technology,Accessories,187.65,1,0.1,17.1,West,Corporate,0.09112709832134293,187.65,No,2025-03
+fff82b28-21c9-40b7-a668-ea2c7185462c,2025-01-20,Campaign Technology,Technology,Copiers,944.65,8,0.0,170.89,Central,Home Office,0.18090297993966017,118.08125,No,2025-01
+21b3f6f1-9870-40b9-8b34-04fc64ebdf14,2024-06-21,But Office Supplies,Office Supplies,Binders,446.06,3,0.0,39.2,South,Corporate,0.08788055418553559,148.68666666666667,No,2024-06
+dbf3ff1d-efec-4011-a4d1-ef9002c763e2,2024-07-21,Which Furniture,Furniture,Chairs,496.83,10,0.0,36.15,East,Corporate,0.07276130668437897,49.683,No,2024-07
+269d8f63-9e3a-4fff-bc84-fb384a5778a1,2025-03-17,Purpose Office Supplies,Office Supplies,Binders,127.27,7,0.1,21.17,East,Consumer,0.16633927869882928,18.181428571428572,No,2025-03
+4acbbc04-9dd6-4f9f-8c71-74b55e9eb02f,2024-11-28,Arm Furniture,Furniture,Tables,861.56,7,0.2,116.56,South,Corporate,0.1352894749059845,123.08,No,2024-11
+e0a078a6-019a-4fcc-b687-3df4cdcda3f8,2025-01-28,Business Technology,Technology,Copiers,629.26,5,0.0,46.29,East,Consumer,0.07356259733655404,125.852,No,2025-01
+984c38b7-8688-419a-ac5a-4e3fdd1c72dd,2024-06-10,Feel Technology,Technology,Copiers,12.65,8,0.3,1.19,East,Consumer,0.09407114624505929,1.58125,Yes,2024-06
+66fb998e-af66-4343-b470-75359fa95785,2024-11-18,Find Technology,Technology,Accessories,861.01,2,0.1,162.37,Central,Home Office,0.1885808527194806,430.505,No,2024-11
+92003485-76fd-4ddd-b9b9-07861feadf50,2025-01-07,Usually Office Supplies,Office Supplies,Art,123.63,4,0.1,23.03,West,Corporate,0.1862816468494702,30.9075,No,2025-01
+2fa26d2c-902c-41a7-b709-4f8fc580fddb,2024-07-03,Class Technology,Technology,Phones,794.7,10,0.2,92.08,East,Consumer,0.11586762300239083,79.47,No,2024-07
+c371cf9d-23c9-4a0c-9265-5dc546415d66,2024-09-27,Any Furniture,Furniture,Bookcases,408.48,5,0.3,47.25,Central,Home Office,0.11567273795534665,81.696,Yes,2024-09
+b48685e2-4767-4b47-be90-b2c7bc77ad1e,2024-09-07,Environmental Office Supplies,Office Supplies,Paper,329.1,5,0.0,20.96,South,Home Office,0.0636888483743543,65.82000000000001,No,2024-09
+0de2ee6f-b5c2-4fe3-97a7-b65f67c9c0c7,2025-04-23,Me Office Supplies,Office Supplies,Art,823.21,10,0.0,135.39,East,Home Office,0.1644659321436814,82.321,No,2025-04
+914c6857-a119-464b-8211-95aeadf3d9e7,2024-12-07,Book Technology,Technology,Accessories,189.67,10,0.3,27.54,South,Corporate,0.14519955712553384,18.967,Yes,2024-12
+bbf02f12-9857-4e09-bdfb-d8655332bc02,2025-02-06,Career Furniture,Furniture,Chairs,414.26,6,0.0,74.01,South,Corporate,0.1786559165741322,69.04333333333334,No,2025-02
+f22a31b9-345f-4352-99fe-6d65f6fd2b16,2024-10-04,Art Furniture,Furniture,Tables,665.96,7,0.0,78.73,South,Corporate,0.11822031353234429,95.13714285714286,No,2024-10
+1896edb5-164c-410a-aba7-f005a7247028,2024-10-30,Add Furniture,Furniture,Tables,970.48,7,0.0,144.26,Central,Consumer,0.1486480916659797,138.64000000000001,No,2024-10
+0bc082a0-4654-484c-94bc-793ab3ae16b6,2024-07-25,Social Office Supplies,Office Supplies,Binders,195.71,6,0.3,28.15,South,Consumer,0.143835266465689,32.61833333333333,Yes,2024-07
+36143eeb-0515-4e8e-8cd4-3ee6153450ee,2024-09-04,Its Technology,Technology,Phones,139.7,5,0.3,25.44,Central,Home Office,0.1821045096635648,27.939999999999998,Yes,2024-09
+e36fdb93-0b8a-43f2-864d-3a7dcab8156d,2024-11-28,Sense Furniture,Furniture,Chairs,612.78,4,0.1,59.2,East,Home Office,0.09660889715721793,153.195,No,2024-11
+6a8df6eb-1d77-4084-bda0-4cd543740ea2,2025-01-03,Individual Technology,Technology,Copiers,232.45,2,0.3,44.64,South,Consumer,0.19204129920412993,116.225,Yes,2025-01
+312bb025-6b4a-409c-b428-c7fbdedccbc1,2024-06-27,Thank Office Supplies,Office Supplies,Paper,298.94,5,0.3,52.38,South,Home Office,0.17521910751321337,59.788,Yes,2024-06
+4662d5fc-065d-4096-8aec-ba52ff193165,2025-05-07,Life Furniture,Furniture,Chairs,153.2,4,0.1,27.52,South,Home Office,0.17963446475195824,38.3,No,2025-05
+f6d22b64-c0ff-405d-969a-75af3bda40c5,2024-12-16,Read Furniture,Furniture,Tables,274.5,1,0.2,43.62,Central,Home Office,0.1589071038251366,274.5,No,2024-12
+b164fc22-e307-4b51-a77c-094d501ac031,2025-01-15,Skin Office Supplies,Office Supplies,Art,452.08,8,0.2,45.15,South,Consumer,0.09987170412316404,56.51,No,2025-01
+5b8f1f02-99f0-4a4b-a6ad-9706c0b0b297,2024-08-14,My Office Supplies,Office Supplies,Binders,870.91,4,0.3,74.06,South,Corporate,0.08503748952245353,217.7275,Yes,2024-08
+6cc762b5-2d20-4dda-ac60-ef0454a92c65,2024-10-28,Watch Furniture,Furniture,Chairs,478.25,7,0.3,94.82,Central,Home Office,0.19826450601150025,68.32142857142857,Yes,2024-10
+938df3b4-04f4-494c-8f9f-05029831c7f3,2024-08-30,Left Office Supplies,Office Supplies,Paper,134.98,10,0.2,24.36,South,Consumer,0.18047118091569123,13.498,No,2024-08
+394fee8d-50ac-402e-a366-2c3e09fe24f5,2024-11-05,Begin Furniture,Furniture,Chairs,725.22,7,0.1,44.4,South,Consumer,0.06122280135682965,103.60285714285715,No,2024-11
+7600d02f-b400-4b65-8f46-e409a502d1ce,2024-08-25,Hard Furniture,Furniture,Tables,89.51,6,0.3,17.29,South,Home Office,0.19316277510892635,14.918333333333335,Yes,2024-08
+e25492d6-8e38-4fc9-93b3-15d97ab5f493,2024-11-19,Interview Office Supplies,Office Supplies,Art,45.54,2,0.1,6.59,South,Home Office,0.14470794905577514,22.77,No,2024-11
+cef31032-345f-4e62-9255-c39d149a68fc,2024-06-01,Or Furniture,Furniture,Chairs,978.55,2,0.3,73.35,East,Corporate,0.07495784579224363,489.275,Yes,2024-06
+2b47857d-d212-48d8-95ad-0fef609683c2,2024-08-22,Pick Furniture,Furniture,Chairs,798.18,5,0.2,84.79,East,Corporate,0.10622917136485506,159.636,No,2024-08
+4439ec32-f83b-4d50-aba9-33d4bec0fdbe,2024-07-23,Thing Technology,Technology,Phones,684.98,3,0.1,52.24,South,Home Office,0.076265000437969,228.32666666666668,No,2024-07
+ddfa7328-892f-43cd-845c-64c9957c2cea,2024-08-11,Everybody Office Supplies,Office Supplies,Binders,913.7,3,0.1,108.89,West,Corporate,0.11917478384590127,304.56666666666666,No,2024-08
+e8c7f5ca-b718-4495-b8f8-b471c31c1e91,2025-01-10,Cause Furniture,Furniture,Tables,19.3,8,0.2,2.93,Central,Home Office,0.15181347150259067,2.4125,No,2025-01
+43b44976-11db-4d26-bb97-32c7e5728c59,2024-11-21,Especially Technology,Technology,Phones,987.78,5,0.3,151.67,South,Corporate,0.15354633622871489,197.55599999999998,Yes,2024-11
+25df1ba7-c254-4af9-a54d-a38bb2f17227,2024-10-24,Hair Furniture,Furniture,Tables,854.8,2,0.1,91.64,West,Corporate,0.10720636406176884,427.4,No,2024-10
+4055e1bd-9e52-4843-9800-69a5c796a20b,2025-05-17,Most Furniture,Furniture,Bookcases,302.28,7,0.2,15.48,Central,Home Office,0.05121079793568877,43.18285714285714,No,2025-05
+5b22ec44-3934-4251-b4e7-1c1124959a0f,2024-08-16,Support Office Supplies,Office Supplies,Art,747.72,5,0.1,105.47,East,Home Office,0.14105547531161397,149.544,No,2024-08
+f0a04541-4e58-4ecf-ab2e-af4c7615cc1e,2024-07-17,Wind Furniture,Furniture,Chairs,258.12,3,0.0,47.88,West,Home Office,0.18549511854951187,86.04,No,2024-07
+5d15998f-5e62-49af-9cb5-1e6519eff372,2025-04-06,Fear Office Supplies,Office Supplies,Paper,43.03,6,0.1,2.73,Central,Corporate,0.0634441087613293,7.171666666666667,No,2025-04
+2876456d-187d-422b-aa4e-94eb88116724,2024-10-23,Wind Furniture,Furniture,Tables,208.79,9,0.2,27.07,South,Consumer,0.12965180324728195,23.198888888888888,No,2024-10
+055d630e-0427-498e-8fab-3beb67be1da4,2025-05-23,Really Furniture,Furniture,Chairs,967.71,5,0.2,165.13,Central,Corporate,0.17063996445216023,193.542,No,2025-05
+9f6fcbd1-acb1-4598-b6e7-44542abd817e,2024-08-01,Teacher Furniture,Furniture,Chairs,861.54,7,0.2,54.75,West,Consumer,0.06354899366251132,123.07714285714285,No,2024-08
+f920e068-cb1a-42d9-9518-51625f9e253b,2024-10-25,Agency Furniture,Furniture,Chairs,132.35,6,0.2,18.22,Central,Home Office,0.1376652814506989,22.058333333333334,No,2024-10
+83b3e88b-121f-4e94-b45a-08603a06d7f5,2025-01-17,Whole Office Supplies,Office Supplies,Binders,241.48,1,0.2,45.23,East,Home Office,0.18730329633924134,241.48,No,2025-01
+efe129a1-2b8d-4058-8751-abcae981f329,2024-06-09,Common Technology,Technology,Copiers,825.62,5,0.3,55.73,East,Home Office,0.06750078728712967,165.124,Yes,2024-06
+3fc1ecc1-000f-4d5e-a9d9-8c3185886923,2024-12-02,Newspaper Technology,Technology,Phones,124.96,4,0.1,13.53,Central,Corporate,0.10827464788732394,31.24,No,2024-12
+23b41dce-cf29-4ec0-8ec9-03dc88a09777,2024-09-06,Decide Furniture,Furniture,Bookcases,744.85,3,0.3,110.42,South,Home Office,0.14824461300933073,248.28333333333333,Yes,2024-09
+ad977439-31f5-49dc-84d5-c169f13b03c8,2024-07-14,Threat Furniture,Furniture,Bookcases,42.39,6,0.1,4.94,South,Corporate,0.1165369190846898,7.065,No,2024-07
+58783218-a269-4eff-85df-8b82f3cbf390,2025-03-18,Drive Technology,Technology,Accessories,373.66,6,0.0,41.0,East,Home Office,0.10972541882995236,62.27666666666667,No,2025-03
+fb6ca854-39bb-4cf4-8880-08a79d86c664,2024-12-03,Work Technology,Technology,Phones,666.14,10,0.0,38.36,South,Consumer,0.057585492539105894,66.614,No,2024-12
+bd69a86d-b225-4e76-a002-c269342f0e8a,2024-07-01,Son Furniture,Furniture,Chairs,213.15,9,0.1,29.41,West,Home Office,0.1379779498006099,23.683333333333334,No,2024-07
+97a0dac6-0bb8-49f2-86c9-5ee1c9b68a17,2024-11-27,End Technology,Technology,Accessories,12.81,3,0.1,1.68,West,Home Office,0.13114754098360654,4.2700000000000005,No,2024-11
+968675ee-77f9-42df-8c97-d716f746bf27,2025-01-25,Movie Technology,Technology,Phones,24.71,4,0.2,1.29,East,Consumer,0.05220558478348847,6.1775,No,2025-01
+1bb2735b-5796-4e9c-a345-a8eb224f9f6e,2025-02-26,Foreign Furniture,Furniture,Chairs,426.75,2,0.0,51.82,West,Home Office,0.12142940831868776,213.375,No,2025-02
+d85d44b1-e065-47c1-9097-7665a188b97a,2024-08-05,Serious Furniture,Furniture,Bookcases,508.8,10,0.0,80.94,East,Corporate,0.15908018867924528,50.88,No,2024-08
+676780d2-c2f7-4d86-9472-4e6d265fa8f6,2025-03-16,Between Office Supplies,Office Supplies,Art,646.91,1,0.0,129.24,Central,Corporate,0.1997804949683882,646.91,No,2025-03
+eba778f3-8919-4869-bb2a-060bc5782a03,2024-07-29,Bit Furniture,Furniture,Tables,715.28,8,0.0,132.25,East,Corporate,0.18489262945979199,89.41,No,2024-07
+5e0960dc-d978-413e-bb1d-7c552bf6498f,2024-08-15,Help Furniture,Furniture,Bookcases,134.93,10,0.2,14.46,West,Consumer,0.10716667901875046,13.493,No,2024-08
+af42e828-6263-456b-8b1a-593a9d1c2fa4,2024-07-26,Commercial Office Supplies,Office Supplies,Art,510.5,7,0.0,86.26,Central,Corporate,0.16897159647404505,72.92857142857143,No,2024-07
+b7da95d6-af74-4adc-b029-991fdc6539c8,2024-07-27,Rock Technology,Technology,Copiers,457.04,4,0.3,46.09,West,Corporate,0.10084456502713111,114.26,Yes,2024-07
+ffc22889-142a-4a47-b312-ea272f0ac657,2025-03-10,Source Furniture,Furniture,Tables,104.13,7,0.2,15.6,South,Home Office,0.149812734082397,14.875714285714285,No,2025-03
+b5801da3-a4b8-411e-b7ac-c963fcf7a1cb,2024-09-15,Own Furniture,Furniture,Chairs,100.31,2,0.0,11.51,South,Consumer,0.11474429269265277,50.155,No,2024-09
+a140cacc-8a5f-4bcf-b87a-8322e2da831f,2025-02-27,Difficult Office Supplies,Office Supplies,Art,560.81,10,0.2,84.4,Central,Consumer,0.150496603127619,56.080999999999996,No,2025-02
+7ff775aa-64d3-4dd1-a62c-48d1617e7316,2024-06-08,Measure Furniture,Furniture,Tables,60.93,5,0.2,6.26,South,Home Office,0.10274085015591662,12.186,No,2024-06
+94ff036b-ce65-4e41-84f8-9d6f12c2610a,2024-11-13,Every Office Supplies,Office Supplies,Art,660.17,4,0.0,67.68,West,Consumer,0.10251904812396809,165.0425,No,2024-11
+fe98c9d7-0684-46a4-bd24-240b1778230d,2025-02-09,Could Office Supplies,Office Supplies,Binders,578.36,7,0.0,81.75,East,Corporate,0.14134794937409226,82.62285714285714,No,2025-02
+7cbb7198-303b-4c97-84a6-47914587ec0a,2025-03-26,Century Office Supplies,Office Supplies,Art,188.61,5,0.2,19.36,Central,Consumer,0.10264567096124276,37.722,No,2025-03
+54d52c4d-4988-4592-849b-50bf5aa4b906,2024-11-10,Political Technology,Technology,Phones,150.46,1,0.0,24.36,South,Consumer,0.1619034959457663,150.46,No,2024-11
+48baed86-b032-4c6a-9133-4d5d31c11c68,2024-08-04,Establish Technology,Technology,Accessories,347.49,6,0.2,54.99,South,Corporate,0.15824915824915825,57.915,No,2024-08
+03c2f5f6-b1ca-40e2-ae3e-1dd72f49b2f1,2024-11-11,Get Office Supplies,Office Supplies,Art,164.02,10,0.0,24.78,East,Consumer,0.1510791366906475,16.402,No,2024-11
+ad58b045-c86f-481f-95a0-efaf1deb39f9,2024-06-28,Child Furniture,Furniture,Tables,611.01,7,0.2,50.31,South,Corporate,0.08233907792016498,87.28714285714285,No,2024-06
+9d55211a-7d47-4ca8-a1c7-90dcd4c187be,2024-07-10,Size Office Supplies,Office Supplies,Paper,119.78,10,0.3,15.46,Central,Corporate,0.1290699615962598,11.978,Yes,2024-07
+2f0f9066-9bba-40f5-90f6-2a00b4a9b75c,2024-12-17,Yes Furniture,Furniture,Chairs,984.6,1,0.0,79.42,West,Corporate,0.08066219784684135,984.6,No,2024-12
+17c97d5f-ef70-4d2c-a64e-5db0b73d9506,2024-09-22,Include Technology,Technology,Phones,334.84,1,0.3,54.26,Central,Corporate,0.16204754509616534,334.84,Yes,2024-09
+301f8cb2-8b7b-4117-ac38-4a518c773d3d,2025-05-12,Benefit Technology,Technology,Phones,706.63,9,0.2,42.97,South,Home Office,0.060809758996929086,78.51444444444445,No,2025-05
+48aff26e-a0c8-4f7a-89d2-86a7e48c106f,2024-08-27,Art Office Supplies,Office Supplies,Paper,465.16,2,0.2,63.43,South,Consumer,0.1363616820018918,232.58,No,2024-08
+85a41da4-b43d-484a-b809-69115693e3bd,2024-07-17,Life Office Supplies,Office Supplies,Binders,124.02,1,0.2,9.4,South,Corporate,0.07579422673762297,124.02,No,2024-07
+d72052e5-b511-4257-a061-502fd4e49967,2025-03-16,Front Office Supplies,Office Supplies,Binders,442.34,2,0.1,51.02,Central,Consumer,0.11534114029931727,221.17,No,2025-03
+a8b6b0b9-8fa1-479f-99c6-66ef3e1eaa88,2025-04-13,Manage Furniture,Furniture,Bookcases,871.82,6,0.1,87.15,East,Corporate,0.09996329517560965,145.30333333333334,No,2025-04
+c478d824-12fa-4f36-abbe-8f041cf5c831,2024-08-08,Home Technology,Technology,Phones,514.85,6,0.2,81.92,East,Home Office,0.15911430513741867,85.80833333333334,No,2024-08
+0d4abde1-1991-41f4-8078-09029f7ebbb4,2024-10-24,Often Office Supplies,Office Supplies,Paper,154.98,4,0.1,21.75,West,Consumer,0.14034068912117695,38.745,No,2024-10
+39fd4eef-1b63-48cb-b66a-892dc9740662,2025-05-23,Rule Office Supplies,Office Supplies,Paper,499.18,10,0.3,75.96,West,Home Office,0.15216955807524338,49.918,Yes,2025-05
+47fb2994-1567-49d3-ba92-c81402855f2e,2024-12-21,Million Office Supplies,Office Supplies,Art,322.98,8,0.0,38.87,Central,Home Office,0.12034800916465414,40.3725,No,2024-12
+5f65c8c0-0563-4e5b-b9b7-1ac7fd8d3f50,2024-12-27,Different Office Supplies,Office Supplies,Binders,65.61,9,0.0,6.34,Central,Home Office,0.09663161103490321,7.29,No,2024-12
+a1ab79e7-bb04-4ffd-a6f7-14ed3b7ec314,2025-04-18,Life Furniture,Furniture,Chairs,833.38,2,0.0,118.55,East,Corporate,0.14225203388610239,416.69,No,2025-04
+63921a63-ed15-4007-a064-bbfb78d2614f,2024-12-25,Threat Office Supplies,Office Supplies,Binders,558.77,1,0.3,104.13,South,Home Office,0.18635574565563648,558.77,Yes,2024-12
+e806310c-c9f0-4624-a3a8-17b4abac86af,2024-11-20,Most Office Supplies,Office Supplies,Art,608.96,9,0.1,117.93,West,Corporate,0.19365803993694167,67.66222222222223,No,2024-11
+695fc60b-1603-4a34-94b9-12cbf035bb33,2025-03-29,Perhaps Furniture,Furniture,Chairs,93.49,3,0.0,8.15,Central,Home Office,0.08717509894106322,31.16333333333333,No,2025-03
+8f844891-bec1-4940-a824-714135cd707a,2024-12-28,Nothing Furniture,Furniture,Tables,379.12,5,0.3,42.2,West,Corporate,0.11131040303861575,75.824,Yes,2024-12
+997faf2f-c348-40cb-b4fc-4f720f8af753,2024-08-06,Keep Furniture,Furniture,Bookcases,650.83,2,0.2,41.77,East,Home Office,0.0641795860670221,325.415,No,2024-08
+b7081db6-af6f-4700-809a-30b95fc55922,2024-09-26,Bad Office Supplies,Office Supplies,Binders,726.5,10,0.1,72.65,Central,Corporate,0.1,72.65,No,2024-09
+58771b28-964b-4668-a54a-82edcaa3ef48,2025-05-04,Product Office Supplies,Office Supplies,Art,317.13,7,0.1,44.16,West,Corporate,0.1392488884684514,45.30428571428571,No,2025-05
+c3ac14b8-0e4f-4871-a39b-d21f80091ad3,2024-06-16,Player Technology,Technology,Accessories,793.75,3,0.0,116.6,South,Home Office,0.1468976377952756,264.5833333333333,No,2024-06
+d75680b7-b852-440b-9f0e-4e3e54a6b777,2024-08-11,Old Furniture,Furniture,Bookcases,368.97,3,0.1,37.36,Central,Consumer,0.10125484456730899,122.99000000000001,No,2024-08
+a2bacb8b-0e5f-427f-a1a7-ab38220816c3,2024-11-04,Memory Furniture,Furniture,Chairs,163.4,5,0.0,20.61,West,Consumer,0.12613219094247244,32.68,No,2024-11
+29b4292b-4bbd-4351-a2c4-b483d2d78b93,2025-03-23,More Office Supplies,Office Supplies,Art,343.4,10,0.1,47.93,East,Home Office,0.13957483983692487,34.339999999999996,No,2025-03
+7870afd9-3ef5-4162-990c-c52a4b8786dc,2025-04-05,School Technology,Technology,Phones,773.39,3,0.3,43.74,West,Home Office,0.0565562006232302,257.7966666666667,Yes,2025-04
+6daabb1c-2457-4be2-953d-e502751f3cce,2024-06-02,Over Furniture,Furniture,Bookcases,614.49,8,0.1,79.95,West,Corporate,0.13010789435141337,76.81125,No,2024-06
+cdffe579-d2ae-4409-8725-9809a0848b90,2024-12-27,Morning Furniture,Furniture,Tables,681.52,10,0.3,81.27,West,Corporate,0.11924815119145439,68.152,Yes,2024-12
+f70394a7-4513-468b-b7ef-1dc5a9e4e343,2024-06-04,Guess Furniture,Furniture,Tables,818.72,10,0.1,148.15,South,Consumer,0.18095319523158102,81.872,No,2024-06
+7a358dc6-2c65-4f8e-88b2-dda94406f31f,2024-10-04,Official Technology,Technology,Copiers,559.0,2,0.0,51.85,South,Corporate,0.09275491949910555,279.5,No,2024-10
+88994425-7465-4dca-b0f0-8945a46267a1,2024-07-06,Wrong Technology,Technology,Accessories,155.88,7,0.0,29.92,South,Home Office,0.19194251988709266,22.268571428571427,No,2024-07
+a7ddb1b0-bac4-4078-90ec-2699f5fb5cf4,2024-12-13,Admit Technology,Technology,Accessories,420.75,7,0.2,35.92,Central,Consumer,0.08537136066547832,60.107142857142854,No,2024-12
+4d317329-2ec7-4057-a404-3298256ebf9c,2025-04-04,All Technology,Technology,Accessories,325.5,2,0.2,54.91,West,Consumer,0.1686943164362519,162.75,No,2025-04
+c2d2310e-c69d-43c4-83c0-2ee8fcb0c65c,2025-02-14,Clear Technology,Technology,Phones,699.11,3,0.3,82.0,Central,Corporate,0.11729198552445251,233.03666666666666,Yes,2025-02
+a6960a60-05b4-4271-ac48-3de14e494541,2024-10-20,Lawyer Technology,Technology,Phones,223.5,3,0.3,14.9,East,Corporate,0.06666666666666667,74.5,Yes,2024-10
+4d00f254-e49b-4663-8943-cfcde93b1e9e,2025-04-16,Training Furniture,Furniture,Chairs,57.27,7,0.3,3.4,Central,Consumer,0.05936790640824166,8.181428571428572,Yes,2025-04
+c6fe9e43-574e-4be0-ba4b-918d7a05a8f1,2025-05-06,Budget Furniture,Furniture,Bookcases,520.22,4,0.1,48.74,East,Home Office,0.09369113067548344,130.055,No,2025-05
+afc7a697-3dd5-4af7-88c8-3f682fbf07a8,2025-04-07,Lose Technology,Technology,Copiers,574.96,3,0.0,73.9,Central,Consumer,0.12853068039515791,191.65333333333334,No,2025-04
+cf23812c-f0d3-4ba7-b071-e8d88736feb7,2025-03-03,Paper Furniture,Furniture,Chairs,874.6,1,0.3,172.43,East,Corporate,0.19715298422135835,874.6,Yes,2025-03
+f78b3694-be7c-45cd-bcfe-5637e8c45fe0,2024-07-30,Clearly Furniture,Furniture,Bookcases,790.63,6,0.1,126.45,East,Corporate,0.1599357474419134,131.77166666666668,No,2024-07
+efe930f3-88a1-4a65-a423-53bb3793f888,2024-12-31,Interview Office Supplies,Office Supplies,Paper,53.89,9,0.2,9.27,Central,Consumer,0.1720170718129523,5.987777777777778,No,2024-12
+a6a054f5-b860-420f-8335-6f58732ce371,2025-03-14,He Technology,Technology,Copiers,483.75,3,0.1,28.77,South,Home Office,0.05947286821705426,161.25,No,2025-03
+8d2c1943-c14b-42a6-826b-3ffb68edaa2b,2024-09-09,Tax Furniture,Furniture,Chairs,53.37,4,0.0,5.2,Central,Consumer,0.09743301480232341,13.3425,No,2024-09
+c9400b6a-172d-4fc8-b4ae-795aac2d2c7a,2025-04-08,Paper Furniture,Furniture,Bookcases,478.67,1,0.1,44.48,South,Home Office,0.09292414398228424,478.67,No,2025-04
+4196848d-3b21-4a3e-87f6-00d0936b19da,2024-09-18,Me Technology,Technology,Copiers,133.23,6,0.3,24.44,Central,Corporate,0.18344216767995197,22.205,Yes,2024-09
+6ea4c7ef-b10a-44a1-a601-107c3bf01acd,2024-06-19,Radio Office Supplies,Office Supplies,Binders,973.99,8,0.3,102.37,South,Corporate,0.10510374849844455,121.74875,Yes,2024-06
+5f72c99e-8e15-4be4-8a1b-92753e9af913,2024-11-26,Stock Office Supplies,Office Supplies,Binders,430.25,7,0.1,56.72,East,Home Office,0.13183033120278909,61.464285714285715,No,2024-11
+33e413a6-00e7-43fd-b202-9700740135b7,2024-10-25,Up Furniture,Furniture,Chairs,664.31,5,0.3,93.26,East,Corporate,0.14038626544835997,132.862,Yes,2024-10
+b5762b54-1e41-4083-983f-d4061c9c433f,2024-12-23,Mission Furniture,Furniture,Chairs,452.66,6,0.3,41.28,South,Corporate,0.09119427384792117,75.44333333333334,Yes,2024-12
+601b1149-4017-4b47-a13e-b3dacd4369df,2025-05-07,Page Technology,Technology,Phones,517.96,3,0.0,36.99,South,Corporate,0.07141478106417484,172.65333333333334,No,2025-05
+929eb836-fcb3-4760-a8ce-7f06b40be6bc,2025-05-20,Major Office Supplies,Office Supplies,Art,134.97,4,0.2,14.08,South,Consumer,0.10431947840260798,33.7425,No,2025-05
+035e02ab-f4fd-4d18-a68f-bb681bbdefa2,2024-08-18,Exist Office Supplies,Office Supplies,Paper,455.42,6,0.2,53.1,West,Home Office,0.11659566993105265,75.90333333333334,No,2024-08
+c9472470-bfac-4019-a41b-1d762892155b,2024-10-26,Raise Technology,Technology,Copiers,373.28,6,0.2,32.64,West,Home Office,0.0874410630090013,62.21333333333333,No,2024-10
+780bf193-a44f-42c2-9224-ac01489659a9,2024-10-02,Radio Technology,Technology,Phones,522.57,9,0.0,46.65,West,Corporate,0.08927033698834605,58.06333333333334,No,2024-10
+d82afeee-196e-4ec9-b8a5-fc28d67f2751,2024-06-14,Use Furniture,Furniture,Bookcases,996.4,5,0.3,79.74,South,Consumer,0.08002810116419108,199.28,Yes,2024-06
+257bbb69-2d10-42be-bf8f-eeaba3ef990b,2024-10-11,Hard Technology,Technology,Phones,899.69,8,0.0,154.37,South,Consumer,0.17158132245551244,112.46125,No,2024-10
+1c7fa4a5-c543-42ca-a2b4-077779847a20,2025-04-17,Food Furniture,Furniture,Bookcases,74.29,9,0.2,13.65,Central,Home Office,0.18373939965002017,8.254444444444445,No,2025-04
+7764afd9-b8ce-4ce1-9b7b-7fb830e8a245,2024-07-25,Class Technology,Technology,Copiers,513.67,2,0.1,86.71,West,Corporate,0.168804874725018,256.835,No,2024-07
+fd29c865-310b-47c3-99bd-df2c8366c82e,2025-05-20,May Technology,Technology,Accessories,558.48,6,0.3,95.25,East,Corporate,0.1705522131499785,93.08,Yes,2025-05
+f1a507f9-887b-4a30-82a5-f4d2c5a44967,2024-10-21,Into Office Supplies,Office Supplies,Paper,316.2,8,0.3,52.29,East,Consumer,0.16537001897533207,39.525,Yes,2024-10
+bc409f82-fe19-4fb5-847f-6cf72b563b45,2024-09-15,Either Office Supplies,Office Supplies,Paper,645.92,8,0.3,98.19,West,Corporate,0.15201572950210554,80.74,Yes,2024-09
+ad33073c-f541-4e7a-9654-c8eb086ae499,2025-03-11,Successful Furniture,Furniture,Chairs,438.29,1,0.0,55.98,West,Consumer,0.12772365328891827,438.29,No,2025-03
+966492dc-4188-48fe-a87f-4a9329ab7bf6,2024-12-20,Among Furniture,Furniture,Chairs,935.39,4,0.2,179.71,West,Corporate,0.19212307165994932,233.8475,No,2024-12
+3f092ad7-768b-4467-987b-9ac11fa70ce2,2024-10-22,Edge Office Supplies,Office Supplies,Binders,204.34,9,0.2,14.05,East,Corporate,0.06875795243222081,22.704444444444444,No,2024-10
+4f2581cb-0847-4880-8128-23ceb580fffb,2024-07-30,Central Furniture,Furniture,Bookcases,644.58,10,0.1,48.78,East,Home Office,0.07567718514381458,64.458,No,2024-07
+a83c39e5-bae9-4509-8968-e6a1bd98df9f,2025-03-14,Piece Office Supplies,Office Supplies,Art,50.78,1,0.0,2.89,Central,Home Office,0.056912170145726665,50.78,No,2025-03
+b5c1d23c-ed37-41f6-8bde-eea47c1dae76,2025-04-01,Group Office Supplies,Office Supplies,Art,218.7,10,0.3,31.21,Central,Home Office,0.14270690443529951,21.869999999999997,Yes,2025-04
+6401ac0e-c2d2-44d8-9db3-d3d4547a4d0a,2025-04-16,Meeting Technology,Technology,Accessories,957.08,8,0.1,163.38,Central,Home Office,0.17070673297947925,119.635,No,2025-04
+f69ab86c-0bb2-4c43-94e7-3ef21302db67,2024-10-08,Act Office Supplies,Office Supplies,Binders,82.24,1,0.1,9.53,Central,Corporate,0.11588035019455253,82.24,No,2024-10
+d7082fc9-4453-4049-89d5-eb67cb212430,2024-06-16,Tough Furniture,Furniture,Tables,610.59,6,0.2,97.77,West,Corporate,0.16012381467105585,101.765,No,2024-06
+601ce158-35d0-49fc-944a-ff6a1f6d8fab,2025-02-20,Certainly Furniture,Furniture,Tables,519.83,2,0.2,44.84,West,Corporate,0.08625896927841795,259.915,No,2025-02
+6df32c20-2bd0-4bab-a0d2-cad714d938cf,2024-07-15,Four Technology,Technology,Accessories,149.47,1,0.2,28.67,South,Consumer,0.1918110657657055,149.47,No,2024-07
+658b1949-faf4-4e8c-ad66-89b07d1396c5,2024-11-10,Site Office Supplies,Office Supplies,Binders,815.34,10,0.2,63.98,West,Consumer,0.07847033139549145,81.534,No,2024-11
+ead6a6b8-39e0-412f-93f0-8742fadcabf0,2024-12-23,From Technology,Technology,Accessories,880.28,8,0.0,55.9,South,Corporate,0.0635025219248421,110.035,No,2024-12
+95ebccd3-da67-4acd-852d-49d149b02296,2025-01-11,Expert Furniture,Furniture,Bookcases,222.99,6,0.0,12.84,South,Consumer,0.05758105744652226,37.165,No,2025-01
+b89b6e06-26ca-4210-b75f-8512ea803637,2025-05-28,Table Furniture,Furniture,Bookcases,541.32,2,0.3,37.94,South,Corporate,0.07008793320032512,270.66,Yes,2025-05
+25384426-b18c-4f78-bcda-366c39e67219,2025-05-23,Great Furniture,Furniture,Bookcases,372.28,7,0.0,50.46,Central,Corporate,0.1355431395723649,53.18285714285714,No,2025-05
+2c134fb7-bf99-4f73-80ab-1ee7ab41daa8,2025-01-08,Ever Technology,Technology,Accessories,392.49,8,0.2,68.21,Central,Consumer,0.1737878672068078,49.06125,No,2025-01
+8ea89fda-8253-4142-9d98-91ab481bda05,2025-05-24,Site Office Supplies,Office Supplies,Art,975.33,7,0.2,165.06,East,Consumer,0.16923502814432037,139.33285714285714,No,2025-05
+ef23e906-167c-45cf-8f9b-e51d43250cee,2024-09-21,Break Furniture,Furniture,Bookcases,207.07,9,0.3,25.89,Central,Consumer,0.12503018302989327,23.007777777777775,Yes,2024-09
+5e99346f-795b-4eac-98c1-30279122c4e6,2024-07-11,Teach Technology,Technology,Phones,339.71,8,0.3,24.57,West,Home Office,0.07232639604368432,42.46375,Yes,2024-07
+50f93c69-df8a-4660-aa49-fa3fa352cac5,2024-10-30,Behind Office Supplies,Office Supplies,Paper,325.34,7,0.2,45.24,Central,Home Office,0.13905452757115636,46.47714285714285,No,2024-10
+ffe06e79-6fb7-4d2e-bfab-93e226fbfbc8,2025-05-24,Reason Office Supplies,Office Supplies,Art,567.3,8,0.0,59.71,South,Home Office,0.10525295258240791,70.9125,No,2025-05
+f933b297-4725-4238-bc6d-d313b3df3dc3,2025-01-19,Way Office Supplies,Office Supplies,Paper,314.6,1,0.3,28.26,South,Home Office,0.0898283534647171,314.6,Yes,2025-01
+22bd1624-83d2-40c7-b31f-a629400018dc,2025-02-11,Whom Office Supplies,Office Supplies,Art,60.84,8,0.1,7.83,West,Home Office,0.128698224852071,7.605,No,2025-02
+4d6b3cf9-66ad-4682-ada1-a0f76c3f21d2,2025-04-22,Government Office Supplies,Office Supplies,Art,823.44,4,0.0,111.89,South,Consumer,0.13588118138540756,205.86,No,2025-04
+ae844ba4-1b33-4b32-a288-5b109780f13c,2025-03-07,Bar Office Supplies,Office Supplies,Paper,446.63,7,0.1,50.0,West,Consumer,0.11194948839083806,63.80428571428571,No,2025-03
+b271a7c3-483e-47f7-9a8f-a3485f3e9d99,2024-08-16,Away Technology,Technology,Accessories,730.13,3,0.1,97.93,South,Home Office,0.13412679933710436,243.37666666666667,No,2024-08
+ff1ebfa7-78e3-45b3-ab2b-5036364dd5c4,2025-04-03,Firm Office Supplies,Office Supplies,Binders,957.12,8,0.2,126.28,South,Corporate,0.1319374791039786,119.64,No,2025-04
+7917d328-3728-423f-8e6d-4d4417df63fd,2025-02-10,Type Office Supplies,Office Supplies,Art,489.34,4,0.2,65.43,Central,Home Office,0.13371071238811463,122.335,No,2025-02
+0a86a25a-1137-46f5-9ab5-bbbf445389ed,2024-12-08,Expect Technology,Technology,Accessories,215.21,8,0.2,26.25,Central,Home Office,0.12197388597184146,26.90125,No,2024-12
+9d2e3400-00ad-48e2-877b-a28bd5e36b29,2025-05-20,Already Office Supplies,Office Supplies,Art,130.66,9,0.3,24.09,Central,Corporate,0.1843716516148783,14.517777777777777,Yes,2025-05
+9986e4eb-e06c-4238-a03a-0534632bc682,2025-03-08,Rock Furniture,Furniture,Tables,51.65,2,0.2,9.74,West,Corporate,0.18857696030977736,25.825,No,2025-03
+ea07c4ee-7214-4f73-9ced-871fdeacf1a5,2025-02-17,Clear Office Supplies,Office Supplies,Binders,210.05,9,0.2,39.9,South,Consumer,0.18995477267317304,23.33888888888889,No,2025-02
+64cf5887-a967-4a5a-942e-f326d1640626,2025-01-10,Increase Office Supplies,Office Supplies,Binders,619.52,10,0.1,53.51,West,Consumer,0.08637332128099173,61.952,No,2025-01
+58f1462e-118a-4ce8-9ede-5317ad30bc52,2025-05-03,Investment Office Supplies,Office Supplies,Art,240.51,2,0.3,23.94,West,Home Office,0.09953848072845205,120.255,Yes,2025-05
+74631459-1e64-45cd-b220-b26bf351c8cf,2024-10-31,Eat Furniture,Furniture,Chairs,964.87,3,0.3,142.74,West,Consumer,0.14793702778612663,321.62333333333333,Yes,2024-10
+c5e29fc8-92fd-47db-8df2-39352fb88fd1,2025-01-17,Career Furniture,Furniture,Tables,327.96,1,0.0,48.49,West,Corporate,0.14785339675570194,327.96,No,2025-01
+f0b9436d-2e95-4355-b45f-d1dbdd06aeda,2024-12-02,Pressure Technology,Technology,Copiers,423.71,3,0.0,84.56,East,Consumer,0.19957046092846523,141.23666666666665,No,2024-12
+d1ea5dd4-9473-4cf1-98bb-96bf436841f5,2025-04-26,American Furniture,Furniture,Tables,962.51,5,0.0,49.46,West,Home Office,0.05138647910151583,192.502,No,2025-04
+d3fbf16e-964b-4150-aa86-e1fe9f4f5117,2024-06-06,Yourself Office Supplies,Office Supplies,Art,291.72,9,0.3,53.5,East,Corporate,0.1833950363362128,32.413333333333334,Yes,2024-06
+047d02d2-1bbd-4d8a-9468-5b183ed3a127,2025-02-20,Box Technology,Technology,Copiers,200.88,2,0.2,14.94,South,Corporate,0.07437275985663082,100.44,No,2025-02
+47b0578d-c7e4-453c-a81a-0352f3e0d8f6,2025-05-11,Ready Furniture,Furniture,Bookcases,194.34,6,0.2,26.27,Central,Home Office,0.13517546567870742,32.39,No,2025-05
+c2e32a0c-771c-4675-b6ac-76cbbb400807,2024-07-15,Produce Technology,Technology,Phones,520.13,2,0.3,78.22,South,Corporate,0.15038548055293868,260.065,Yes,2024-07
+a23d63a2-4e04-49dd-970d-b4b9e83ff9cf,2024-12-28,Agency Technology,Technology,Phones,936.47,1,0.2,100.7,South,Corporate,0.10753147458007198,936.47,No,2024-12
+dd49c711-4099-4799-8438-62bbd25573b3,2024-11-03,Improve Furniture,Furniture,Tables,586.64,10,0.0,52.35,Central,Corporate,0.08923701077321697,58.664,No,2024-11
+b46164a4-0c75-42e9-8932-873a8216177a,2024-06-30,Serve Furniture,Furniture,Bookcases,671.11,8,0.2,49.63,West,Consumer,0.07395210919223376,83.88875,No,2024-06
+207dedb7-aef2-44b2-9abe-1848d5f2a1af,2024-09-05,Environmental Office Supplies,Office Supplies,Art,126.24,5,0.2,17.95,Central,Home Office,0.1421894803548796,25.247999999999998,No,2024-09
+dee0117b-07fd-493c-9a06-04978932943d,2024-11-05,Your Technology,Technology,Phones,460.43,10,0.2,51.74,South,Consumer,0.11237321634124622,46.043,No,2024-11
+40ee2c18-372b-42c8-a147-7030dff61d7e,2024-08-14,Tonight Office Supplies,Office Supplies,Binders,683.54,10,0.0,88.06,West,Consumer,0.12882932966614977,68.354,No,2024-08
+efea0619-59db-40de-bfae-636bf6f760df,2024-12-04,See Office Supplies,Office Supplies,Art,918.07,2,0.0,160.03,Central,Consumer,0.17431132702299387,459.035,No,2024-12
+2bf117c6-0ec1-47d9-9980-ed48045c24cd,2025-05-28,Event Office Supplies,Office Supplies,Paper,334.84,9,0.3,22.58,West,Consumer,0.0674351929279656,37.20444444444444,Yes,2025-05
+defd9eb4-82c6-4be5-8e73-2d3cafa5b299,2024-09-17,Thus Technology,Technology,Copiers,899.9,8,0.0,106.2,South,Consumer,0.11801311256806313,112.4875,No,2024-09
+975cb87a-c9d6-4e71-9cee-09df92deddbd,2025-05-10,Specific Office Supplies,Office Supplies,Binders,67.16,8,0.2,10.64,South,Home Office,0.15842763549731986,8.395,No,2025-05
+770fd92e-9818-4c30-a455-f388f61754d4,2024-11-09,Call Furniture,Furniture,Tables,225.72,2,0.0,25.63,East,Home Office,0.11354775828460038,112.86,No,2024-11
+580376dc-bfcc-4a05-b1dc-e83f7a6562fc,2025-05-25,Claim Office Supplies,Office Supplies,Paper,986.28,8,0.0,91.79,East,Consumer,0.09306687756012492,123.285,No,2025-05
+0c74e2eb-4e0b-41cf-ba03-ceb8dcf9c8b4,2025-02-06,Service Technology,Technology,Phones,992.93,7,0.3,179.17,South,Corporate,0.18044575146284228,141.84714285714284,Yes,2025-02
+1db395bb-8d9b-4ceb-8b09-55cd20083b9d,2025-01-05,Down Furniture,Furniture,Tables,964.5,9,0.1,142.78,East,Home Office,0.14803525142560914,107.16666666666667,No,2025-01
+e01ad4fb-1e88-4820-9443-41f22092b288,2024-06-17,Economy Furniture,Furniture,Chairs,399.13,3,0.1,69.94,West,Home Office,0.17523112770275348,133.04333333333332,No,2024-06
+2fa01aba-543c-493e-b992-f1808c5e56b7,2024-10-26,Hand Technology,Technology,Accessories,721.9,7,0.3,125.25,South,Home Office,0.17350048483169414,103.12857142857142,Yes,2024-10
+1fa812b9-db33-4b00-bab8-e6f83fc4401f,2025-02-27,Sense Technology,Technology,Accessories,282.89,2,0.0,48.49,Central,Consumer,0.17140938173848494,141.445,No,2025-02
+a45639f2-6256-4653-86b4-66f3c9a427af,2025-01-15,Foot Furniture,Furniture,Bookcases,214.02,2,0.0,25.03,East,Consumer,0.1169516867582469,107.01,No,2025-01
+5df7fa2d-fc78-43b8-83cd-e49ba35c96ea,2024-06-21,Apply Office Supplies,Office Supplies,Art,743.14,7,0.3,63.28,East,Consumer,0.08515219204995021,106.16285714285713,Yes,2024-06
+b74f6203-04cd-4a89-b89e-40f61f235e27,2024-09-02,Chance Technology,Technology,Phones,993.55,4,0.2,135.74,West,Home Office,0.13662120678375525,248.3875,No,2024-09
+652e0c87-bd81-4474-9820-9b080e61fc7d,2024-11-28,College Office Supplies,Office Supplies,Binders,877.5,9,0.1,98.31,West,Corporate,0.11203418803418803,97.5,No,2024-11
+e24c1eba-4669-4475-a984-282cea9e2cd4,2024-08-06,Town Furniture,Furniture,Chairs,681.96,9,0.3,38.89,West,Home Office,0.057026805091207694,75.77333333333334,Yes,2024-08
+64f55d2f-f1b8-4195-a236-abdfa0fed745,2024-12-12,East Furniture,Furniture,Bookcases,325.55,7,0.3,23.56,South,Home Office,0.07236983566272462,46.50714285714286,Yes,2024-12
+e1d32b9e-15b4-44ba-a30a-9a158aa152d7,2024-06-10,Woman Furniture,Furniture,Chairs,850.85,5,0.1,145.38,South,Consumer,0.1708644296879591,170.17000000000002,No,2024-06
+f5033e90-6d38-48bb-a5bf-91799c5dff62,2025-01-03,Share Technology,Technology,Copiers,561.71,3,0.3,48.55,South,Corporate,0.08643250075661817,187.23666666666668,Yes,2025-01
+4dcc175a-b1b7-4cd6-856f-f3c05c0d7d5c,2024-10-18,Entire Technology,Technology,Accessories,848.66,2,0.1,48.99,East,Corporate,0.05772629792849905,424.33,No,2024-10
+68b45290-80c6-4257-9b73-81ab179bbdbb,2024-06-08,Site Furniture,Furniture,Bookcases,196.28,10,0.1,23.93,East,Consumer,0.12191766863664152,19.628,No,2024-06
+6ad99c48-10b7-4e0d-a633-26dd5bc831ce,2025-03-11,Minute Furniture,Furniture,Tables,937.79,2,0.3,175.52,East,Consumer,0.18716343744335087,468.895,Yes,2025-03
+e18241df-650f-443c-b1d6-42b407ac258b,2024-08-15,Thank Office Supplies,Office Supplies,Art,915.98,9,0.2,152.35,West,Corporate,0.16632459224000523,101.77555555555556,No,2024-08
+7d708983-a5d0-4cf0-b785-605f45e766fe,2025-05-05,Order Furniture,Furniture,Tables,268.95,9,0.3,32.25,Central,Corporate,0.11991076408254323,29.883333333333333,Yes,2025-05
+7a4d07f6-9604-483d-a50c-efd62e2c4850,2024-06-13,During Office Supplies,Office Supplies,Binders,377.0,7,0.0,50.66,Central,Consumer,0.1343766578249337,53.857142857142854,No,2024-06
+7e2733de-ba6e-4b28-ad52-594452baa650,2024-06-24,Effect Technology,Technology,Copiers,268.17,10,0.3,25.28,West,Consumer,0.09426856098743334,26.817,Yes,2024-06
+f3d8e56b-0f54-495a-8efc-9717cf564c94,2024-07-09,One Technology,Technology,Accessories,574.09,4,0.3,76.12,West,Corporate,0.1325924506610462,143.5225,Yes,2024-07
+4dda396a-eddd-49df-8e19-72ba96abad1e,2024-09-15,Run Office Supplies,Office Supplies,Binders,966.84,8,0.3,72.74,Central,Corporate,0.0752347854867403,120.855,Yes,2024-09
+83b14985-1d79-4370-9937-699e0e08cf45,2024-12-10,Experience Furniture,Furniture,Chairs,551.08,3,0.0,70.86,West,Home Office,0.12858387167017493,183.69333333333336,No,2024-12
+c17e07dd-4142-4045-a718-3e56a8fe22d9,2025-01-25,War Technology,Technology,Copiers,418.27,4,0.0,65.28,East,Consumer,0.15607143711000074,104.5675,No,2025-01
+5f89c961-fb2a-479f-8dd3-acc94c9879c0,2025-03-02,Hit Technology,Technology,Phones,69.85,10,0.3,10.4,South,Corporate,0.14889047959914103,6.984999999999999,Yes,2025-03
+08958847-8845-4a8a-b856-a538d8dee7e6,2025-03-20,Walk Technology,Technology,Phones,26.56,5,0.2,1.4,South,Consumer,0.05271084337349397,5.311999999999999,No,2025-03
+54956980-8d99-4078-acd2-65473002412e,2025-02-15,We Office Supplies,Office Supplies,Art,115.95,2,0.1,9.99,South,Consumer,0.08615782664941785,57.975,No,2025-02
+fc277975-21a4-4894-9b1a-efcc1ef54443,2024-07-18,Cultural Office Supplies,Office Supplies,Art,274.65,7,0.0,29.1,Central,Corporate,0.10595303113052978,39.23571428571428,No,2024-07
+de45089e-67e8-46e3-8c13-3b2052f6087b,2024-07-17,Situation Furniture,Furniture,Tables,233.6,2,0.0,14.96,West,Home Office,0.06404109589041096,116.8,No,2024-07
+47862924-2edf-43f4-9a83-45d9a796dca6,2025-04-21,Stock Furniture,Furniture,Tables,640.38,3,0.0,80.03,South,Consumer,0.12497267247571754,213.46,No,2025-04
+4bd1d729-38cf-4769-98d1-cefbc1801dfa,2025-02-28,Real Furniture,Furniture,Bookcases,977.56,2,0.0,82.57,Central,Home Office,0.08446540365808748,488.78,No,2025-02
+d02bd550-0a0b-4230-a0c3-2ccd0bc168f1,2024-11-13,Majority Office Supplies,Office Supplies,Art,56.1,2,0.2,10.37,South,Corporate,0.18484848484848482,28.05,No,2024-11
+2f622322-5331-4c77-aa83-6ed26ac6039a,2024-09-26,Machine Office Supplies,Office Supplies,Art,929.48,6,0.0,180.52,East,Consumer,0.194216120841761,154.91333333333333,No,2024-09
+f8dd8b31-5894-4b7d-b6a8-f5dc64c79e0a,2024-06-27,Whatever Office Supplies,Office Supplies,Paper,306.28,10,0.1,41.35,South,Consumer,0.13500718296983155,30.627999999999997,No,2024-06
+6ddb5318-f98c-4ee0-bd3a-1ca06f78669e,2025-05-25,Reflect Furniture,Furniture,Bookcases,758.05,3,0.0,94.85,Central,Corporate,0.12512367258096432,252.6833333333333,No,2025-05
+a4eda20c-a4da-4b5f-8a61-6875f85fddc7,2024-11-24,Top Furniture,Furniture,Chairs,239.82,2,0.2,33.76,East,Corporate,0.14077224585105497,119.91,No,2024-11
+758cac1a-8139-405e-bae7-5d3c1719ff2e,2024-12-26,Think Office Supplies,Office Supplies,Art,39.33,5,0.3,4.86,South,Corporate,0.12356979405034327,7.866,Yes,2024-12
+16f57273-b495-4d17-b0f4-bfab5bcb8b41,2024-12-13,Threat Furniture,Furniture,Bookcases,193.88,10,0.3,12.19,South,Corporate,0.06287394264493501,19.387999999999998,Yes,2024-12
+779bfe2f-4ae9-4173-8d0d-4cd4de26cc57,2024-12-23,Public Office Supplies,Office Supplies,Binders,82.77,5,0.1,8.86,West,Home Office,0.10704361483629334,16.554,No,2024-12
+0ba67202-835c-429c-a464-64920270544a,2025-01-12,Including Office Supplies,Office Supplies,Paper,367.09,2,0.0,70.28,South,Corporate,0.19145168759704706,183.545,No,2025-01
+e529ec4e-1697-4b6f-b604-3423331f71c2,2025-03-24,Although Furniture,Furniture,Tables,141.18,3,0.3,16.56,Central,Consumer,0.11729706757331065,47.06,Yes,2025-03
+77e82979-e269-44fa-a1bc-9dfe40996f04,2024-10-13,Job Office Supplies,Office Supplies,Art,36.0,6,0.0,5.02,South,Consumer,0.13944444444444443,6.0,No,2024-10
+23c2f805-2cc7-418e-ae35-669e94aae554,2024-12-02,Pretty Furniture,Furniture,Tables,419.67,2,0.1,56.99,East,Corporate,0.13579717397002405,209.835,No,2024-12
+3630da0a-8500-4982-b48a-084009e675a2,2024-11-27,Past Technology,Technology,Copiers,147.45,5,0.2,18.28,South,Consumer,0.12397422855205156,29.49,No,2024-11
+f68a77f9-7c40-42ba-b9d8-6bbca5876534,2025-05-13,Either Technology,Technology,Phones,426.89,8,0.0,44.47,South,Corporate,0.10417203495045563,53.36125,No,2025-05
+451f3e70-8384-49b3-a201-16dfb4cd0543,2024-09-09,Newspaper Technology,Technology,Copiers,620.5,8,0.0,43.64,South,Home Office,0.0703303787268332,77.5625,No,2024-09
+89d8d4bb-e759-4490-91cc-dbccaff59c20,2025-01-11,Exist Technology,Technology,Accessories,386.09,6,0.3,38.69,Central,Home Office,0.10020979564350281,64.34833333333333,Yes,2025-01
+0003095e-697d-461e-9389-840aebe9f064,2024-12-13,Usually Office Supplies,Office Supplies,Art,327.46,4,0.3,31.81,West,Corporate,0.09714163561961767,81.865,Yes,2024-12
+6633678c-f50b-46d5-92b3-46224dbbb477,2025-05-01,Example Furniture,Furniture,Tables,698.01,8,0.1,69.02,Central,Home Office,0.0988811048552313,87.25125,No,2025-05
+cb486ac5-2707-43a9-be65-85d65cbab47a,2024-07-09,Seem Furniture,Furniture,Tables,932.75,4,0.1,142.02,Central,Consumer,0.15225944786920398,233.1875,No,2024-07
+03d50e96-6445-49d9-a192-1c43a0df7eda,2025-03-31,Process Office Supplies,Office Supplies,Paper,217.55,5,0.0,37.6,South,Home Office,0.1728338313031487,43.510000000000005,No,2025-03
+f23ef563-0817-4747-8c21-f5fedd3d975a,2024-09-26,And Furniture,Furniture,Bookcases,637.0,4,0.2,94.79,South,Consumer,0.14880690737833596,159.25,No,2024-09
+726212ae-6170-407c-8085-cfd9506ff200,2025-05-02,Truth Office Supplies,Office Supplies,Binders,454.58,10,0.3,62.43,South,Consumer,0.1373355624972502,45.458,Yes,2025-05
+be47b475-9161-4362-a14b-6a3266b823ed,2024-11-26,Special Office Supplies,Office Supplies,Art,46.4,6,0.0,3.08,South,Home Office,0.0663793103448276,7.733333333333333,No,2024-11
+5511d8f3-c1d4-45c7-afd5-e0941fe7ed2d,2025-01-26,Sea Technology,Technology,Copiers,650.53,1,0.3,126.87,Central,Consumer,0.19502559451524143,650.53,Yes,2025-01
+8997adcc-bbb4-450e-b8d2-7df0b1633cec,2025-01-12,Available Furniture,Furniture,Tables,107.62,4,0.1,12.58,East,Consumer,0.11689277086043486,26.905,No,2025-01
+9574ebb5-b8f0-4e7e-a876-725a473139d7,2025-03-05,Some Furniture,Furniture,Tables,997.73,8,0.0,94.1,West,Corporate,0.09431409299108977,124.71625,No,2025-03
+685812c3-beca-413a-a990-40fd5922f7a0,2024-09-08,Should Technology,Technology,Phones,318.77,8,0.1,40.86,West,Corporate,0.1281801926153653,39.84625,No,2024-09
+64fd9cb5-c4bc-444c-92b4-b77a1ae75f36,2024-06-20,They Furniture,Furniture,Tables,724.77,8,0.2,43.54,East,Corporate,0.06007423044552065,90.59625,No,2024-06
+34dd1233-92cf-4bad-833b-1dbd6be68c4f,2024-10-28,Magazine Technology,Technology,Copiers,850.69,2,0.1,161.2,East,Consumer,0.1894932349034313,425.345,No,2024-10
+8b4232dd-1434-4fbf-b446-f335700a6ca8,2025-03-06,Argue Office Supplies,Office Supplies,Paper,168.53,9,0.3,32.66,West,Home Office,0.19379338990090783,18.725555555555555,Yes,2025-03
+213f211e-4b78-4d4e-90f9-48e80361542c,2025-04-11,Foreign Technology,Technology,Accessories,644.07,7,0.3,35.02,West,Consumer,0.0543729718819383,92.01,Yes,2025-04
+ea2c997f-9055-4e4d-9b6a-6805b32d1235,2024-11-03,Five Office Supplies,Office Supplies,Paper,435.26,1,0.1,35.2,South,Home Office,0.08087120341864633,435.26,No,2024-11
+925c8daf-df35-4d7f-ab1a-f6ff64f2b2bc,2025-03-01,Small Office Supplies,Office Supplies,Paper,195.09,6,0.1,23.14,East,Home Office,0.11861192270234251,32.515,No,2025-03
+8bbd95af-7ad3-406d-a43c-624a530731db,2024-07-14,Training Furniture,Furniture,Bookcases,966.26,6,0.3,136.92,South,Home Office,0.14170099145157616,161.04333333333332,Yes,2024-07
+3bdd6f25-f5dc-49cd-a303-45c26f9983c5,2024-08-05,College Office Supplies,Office Supplies,Paper,847.06,10,0.1,145.75,Central,Corporate,0.17206573324203717,84.70599999999999,No,2024-08
+71d2b17f-bdbf-45b9-af72-e2e4c946b962,2024-07-26,Technology Office Supplies,Office Supplies,Binders,142.61,2,0.1,13.66,East,Home Office,0.09578570927704928,71.305,No,2024-07
+11d85cde-b0c2-4e0e-877b-2df9f618693f,2024-09-01,Law Technology,Technology,Accessories,394.58,10,0.1,53.75,West,Home Office,0.13622079172791324,39.458,No,2024-09
+1cfe875e-52c8-4852-8210-79c91c58250d,2024-06-18,Everybody Furniture,Furniture,Chairs,542.01,3,0.1,66.91,South,Home Office,0.12344790686518699,180.67,No,2024-06
+a9067394-774f-47d3-9495-cf28937c97bc,2025-02-02,Mother Technology,Technology,Phones,623.22,6,0.0,76.46,Central,Corporate,0.1226854080421039,103.87,No,2025-02
+2bbcbfcb-393a-4aea-b33f-a108e92960ba,2024-08-01,Clearly Technology,Technology,Accessories,687.85,7,0.3,84.82,South,Corporate,0.12331176855419058,98.26428571428572,Yes,2024-08
+1581c729-573e-489e-b612-3a802427ab58,2025-02-23,Music Technology,Technology,Copiers,299.17,5,0.1,39.08,East,Consumer,0.13062807099642343,59.834,No,2025-02
+b90a2097-ecf3-42fa-b0a5-bb32088325fb,2024-09-08,Crime Technology,Technology,Accessories,515.7,10,0.0,46.51,South,Home Office,0.09018809385301531,51.57000000000001,No,2024-09
+e935f6c4-345e-42de-9ad6-617bcec9ac7c,2024-08-29,Effort Office Supplies,Office Supplies,Binders,446.95,4,0.3,29.21,East,Home Office,0.06535406645038595,111.7375,Yes,2024-08
+48c41e0a-51fa-4526-82db-fb10d56805ec,2024-12-05,Report Office Supplies,Office Supplies,Paper,455.24,6,0.0,52.74,Central,Consumer,0.11585097970301379,75.87333333333333,No,2024-12
+fd403a33-658e-49d4-8a2d-f2eacc0a572f,2024-11-16,Foreign Technology,Technology,Phones,592.04,6,0.3,44.34,West,Home Office,0.07489358827106278,98.67333333333333,Yes,2024-11
+21f189c5-00ca-484c-b1e3-2d4e38d012f7,2024-06-05,Share Technology,Technology,Phones,574.37,9,0.2,80.14,West,Consumer,0.13952678586973555,63.81888888888889,No,2024-06
+aaf75c3a-73be-4162-aadc-9f39cec47fd9,2024-11-24,Hear Technology,Technology,Accessories,577.01,9,0.0,40.59,Central,Corporate,0.07034540129287188,64.11222222222221,No,2024-11
+b44a5ce7-594c-4bb9-9328-15d79062bba2,2025-01-17,Party Furniture,Furniture,Chairs,135.62,3,0.1,9.76,Central,Home Office,0.07196578675711547,45.20666666666667,No,2025-01
+fb23e6e2-679e-43ed-8ad5-b951286a2b56,2024-08-16,Information Furniture,Furniture,Chairs,150.75,5,0.3,16.02,South,Corporate,0.10626865671641791,30.15,Yes,2024-08
+fff9a65f-01d8-469b-b540-d5e8deb588b7,2024-07-08,Wear Technology,Technology,Copiers,520.46,5,0.2,61.52,East,Corporate,0.11820312800215194,104.09200000000001,No,2024-07
+af8278d4-feb9-496f-b334-39583082d2ab,2024-11-10,Serve Furniture,Furniture,Tables,102.21,8,0.2,18.14,East,Home Office,0.17747774190392332,12.77625,No,2024-11
+beb0c757-5299-439a-8a00-a80874e5d186,2024-06-25,Evening Office Supplies,Office Supplies,Binders,826.6,8,0.2,81.36,West,Corporate,0.09842729252359061,103.325,No,2024-06
+36a1feff-9d2c-4d0f-a309-7f32bfd149f2,2024-06-09,Since Furniture,Furniture,Tables,853.9,6,0.0,48.58,West,Home Office,0.056891907717531325,142.31666666666666,No,2024-06
+e06b0b3a-5efd-472f-b8d2-f685e731ea99,2024-09-01,Take Office Supplies,Office Supplies,Binders,930.14,3,0.3,110.2,East,Consumer,0.11847678844044983,310.0466666666667,Yes,2024-09
+1f82b469-3a09-41ba-bd62-5c499c38f445,2024-11-04,Attention Furniture,Furniture,Chairs,308.85,5,0.0,45.77,West,Home Office,0.14819491662619394,61.77,No,2024-11
+ba76d23d-2988-4acc-b21e-8fbc455d4109,2025-04-22,Join Furniture,Furniture,Chairs,904.76,3,0.0,99.03,Central,Home Office,0.1094544409567178,301.58666666666664,No,2025-04
+36947486-7312-4d0c-8112-9a5b2cac76de,2024-11-08,Responsibility Furniture,Furniture,Bookcases,658.93,2,0.0,54.04,West,Corporate,0.08201174631599716,329.465,No,2024-11
+31ad0210-0b66-4a16-8b79-5ca0e6989ce7,2025-05-19,Kitchen Technology,Technology,Phones,683.18,1,0.0,105.44,West,Home Office,0.15433707075734068,683.18,No,2025-05
+04806e7d-aa3b-4a6d-9cdc-bddcd5bfea2d,2025-02-06,Top Technology,Technology,Accessories,80.12,7,0.0,12.79,West,Corporate,0.15963554667998,11.445714285714287,No,2025-02
+aaa44b5a-7af9-4b07-82a5-f63cf132c4d2,2024-07-15,Strong Technology,Technology,Phones,882.18,3,0.3,146.46,Central,Corporate,0.16602054002584507,294.06,Yes,2024-07
+1528473d-a3d7-43a7-b12b-2e7fdeb94f22,2024-11-03,Civil Technology,Technology,Copiers,535.2,1,0.1,62.09,West,Consumer,0.11601270553064275,535.2,No,2024-11
+ee502c06-a36c-483d-a5eb-255975a14b88,2024-08-19,Beautiful Office Supplies,Office Supplies,Paper,619.92,8,0.1,39.06,West,Corporate,0.06300813008130082,77.49,No,2024-08
+ce49697b-d58f-4abb-af0f-990c84ae0f26,2025-02-21,Country Technology,Technology,Phones,732.71,6,0.3,71.2,East,Home Office,0.09717350657149486,122.11833333333334,Yes,2025-02
+f90466ce-b3ae-423b-88ad-152b8078db0f,2024-10-27,Edge Technology,Technology,Phones,93.41,9,0.2,15.59,Central,Home Office,0.16689861899154265,10.378888888888888,No,2024-10
+0c057c52-ded5-4da2-9df0-8e23b6ecd083,2025-01-21,Gun Office Supplies,Office Supplies,Paper,522.57,9,0.1,84.75,Central,Consumer,0.1621792295768988,58.06333333333334,No,2025-01
+05cb727f-a387-45f3-bff1-ef7b15ffbd86,2024-06-05,Per Furniture,Furniture,Bookcases,499.94,2,0.1,62.46,East,Consumer,0.12493499219906389,249.97,No,2024-06
+641505f3-0a4b-4a80-97bc-a758a9ccad18,2025-02-28,Night Office Supplies,Office Supplies,Paper,934.59,3,0.3,167.41,East,Corporate,0.17912667586856268,311.53000000000003,Yes,2025-02
+5ed81165-8c15-4577-a9f2-3f84629ebbec,2024-10-06,Expert Office Supplies,Office Supplies,Binders,686.11,8,0.0,36.02,Central,Home Office,0.052498870443514895,85.76375,No,2024-10
+33fa5f1b-e85a-4391-9b88-3f8ad6eb89cc,2024-08-27,Real Technology,Technology,Phones,49.43,1,0.3,6.23,Central,Consumer,0.1260368197450941,49.43,Yes,2024-08
+e4f5f51c-8282-45aa-97ec-454d81a6a9c5,2025-05-10,Pay Office Supplies,Office Supplies,Art,704.79,2,0.1,64.57,South,Corporate,0.09161594233743384,352.395,No,2025-05
+ef27b4d9-3cbe-4e4a-823c-55b2b825dd99,2025-05-29,Read Furniture,Furniture,Chairs,541.03,7,0.0,52.22,West,Consumer,0.09651960150084099,77.28999999999999,No,2025-05
+f19e3004-835e-4906-b9fe-52c5d8e6a361,2024-11-04,Stage Furniture,Furniture,Bookcases,252.03,7,0.0,29.74,West,Consumer,0.11800182517954211,36.004285714285714,No,2024-11
+2b34ee1e-dfd4-430a-bd66-2acac39fe81b,2024-06-19,Leader Office Supplies,Office Supplies,Paper,744.28,3,0.0,38.63,Central,Home Office,0.05190250980813673,248.09333333333333,No,2024-06
+fd184663-b8c7-4278-b365-07bfc8d1e47c,2024-08-19,Case Technology,Technology,Copiers,501.45,6,0.2,37.63,East,Consumer,0.07504237710639147,83.575,No,2024-08
+a762f590-f4e8-4382-9952-51eb61d768be,2025-05-04,Which Technology,Technology,Copiers,887.55,1,0.2,151.83,Central,Home Office,0.17106641879330745,887.55,No,2025-05
+3211fe71-2c45-4ef7-8821-44e78d6a1b07,2025-01-20,Someone Furniture,Furniture,Bookcases,715.2,10,0.0,88.99,East,Corporate,0.1244267337807606,71.52000000000001,No,2025-01
+8ae15366-f85d-4119-8630-fa64481de6dd,2024-07-12,Appear Office Supplies,Office Supplies,Binders,860.77,3,0.2,63.35,East,Corporate,0.07359689580259536,286.92333333333335,No,2024-07
+1f73b825-f5e2-48e6-b16e-a977843d209c,2025-04-25,Someone Technology,Technology,Copiers,743.37,1,0.0,132.92,East,Consumer,0.1788073234055719,743.37,No,2025-04
+a0942051-6f4c-4e01-9acb-67c8517e13fa,2025-01-19,Easy Technology,Technology,Phones,370.34,3,0.1,70.24,East,Corporate,0.18966355241129773,123.44666666666666,No,2025-01
+095425cb-ba55-47df-adf3-ef7c28fdeb43,2024-10-14,Nor Technology,Technology,Copiers,328.58,7,0.2,29.8,South,Consumer,0.09069328626209752,46.94,No,2024-10
+81578e56-3e2e-45ce-bbb6-4a9a04d71823,2024-11-11,Live Technology,Technology,Copiers,507.02,1,0.1,42.32,Central,Consumer,0.083468107766952,507.02,No,2024-11
+4424f18a-854d-4b44-9371-3142fba4ddb5,2024-10-19,Commercial Office Supplies,Office Supplies,Paper,878.22,5,0.2,87.03,South,Consumer,0.09909817585570814,175.644,No,2024-10
+6087ad77-906e-4089-8f82-c7355d6946da,2024-06-27,Company Office Supplies,Office Supplies,Binders,208.66,10,0.2,33.58,East,Corporate,0.16093165915843957,20.866,No,2024-06
+244eec46-2666-43a4-9919-07091642842d,2024-08-05,Week Technology,Technology,Accessories,972.14,4,0.1,70.56,Central,Home Office,0.07258213837513115,243.035,No,2024-08
+22041549-3655-48fd-95b8-d8406c61baea,2024-08-26,Since Furniture,Furniture,Chairs,352.96,1,0.2,17.73,West,Home Office,0.05023232094288305,352.96,No,2024-08
+2e12d19b-5e3e-425f-92da-60c783a76263,2025-02-24,I Office Supplies,Office Supplies,Binders,213.14,4,0.3,26.39,Central,Consumer,0.12381533264520973,53.285,Yes,2025-02
+5cbda7d6-95af-4c93-935f-89d2193e5520,2024-06-04,Election Technology,Technology,Phones,53.46,4,0.3,8.29,Central,Consumer,0.15506921062476617,13.365,Yes,2024-06
+58a93ae3-36fa-45f5-9ce0-6ed975ea22df,2024-07-01,Simple Furniture,Furniture,Tables,104.62,3,0.3,6.41,East,Home Office,0.0612693557637163,34.873333333333335,Yes,2024-07
+cb54c1ff-cc49-482b-a434-656e29958fa7,2025-01-26,Guess Office Supplies,Office Supplies,Paper,964.58,4,0.2,85.99,South,Home Office,0.08914760828547139,241.145,No,2025-01
+012b9592-c4b4-49a4-86b7-8de3586324c5,2024-07-19,Live Furniture,Furniture,Tables,458.23,4,0.0,87.77,Central,Corporate,0.19154136568971913,114.5575,No,2024-07
+c5fd4792-b685-4738-ac07-d3717a57e644,2025-03-08,Time Technology,Technology,Copiers,114.6,8,0.3,11.13,East,Consumer,0.09712041884816755,14.325,Yes,2025-03
+31e11510-5b6e-45d5-9f43-b8de1967a335,2024-12-13,Degree Technology,Technology,Copiers,457.4,8,0.2,81.36,Central,Consumer,0.17787494534324444,57.175,No,2024-12
+ef180170-c72c-4e96-8ca0-76dc7d999256,2024-08-08,Travel Technology,Technology,Phones,699.91,1,0.1,122.76,Central,Home Office,0.1753939792259005,699.91,No,2024-08
+9ab255af-8146-4586-9c50-200219e88a05,2024-10-13,Degree Furniture,Furniture,Chairs,255.74,6,0.3,32.48,East,Home Office,0.12700398842574487,42.623333333333335,Yes,2024-10
+262e300e-7ce2-4a02-b17a-71db7656c16a,2024-09-03,Trouble Office Supplies,Office Supplies,Binders,40.77,7,0.3,5.44,Central,Consumer,0.13343144468972284,5.824285714285715,Yes,2024-09
+76f8471c-3e32-45a7-80f6-bb3c15d158a8,2024-09-05,Many Office Supplies,Office Supplies,Paper,110.89,3,0.0,5.74,East,Corporate,0.05176300838668951,36.96333333333333,No,2024-09
+d936b70d-ce46-4ed0-9dd9-116e243d080e,2024-08-13,Debate Technology,Technology,Phones,378.52,2,0.2,71.02,West,Corporate,0.18762548874564092,189.26,No,2024-08
+4df1ac46-7f39-46c7-8a92-a49e1189aa5e,2024-12-04,Administration Technology,Technology,Phones,903.47,8,0.1,57.64,East,Consumer,0.0637984659147509,112.93375,No,2024-12
+304d0004-45e2-4fa0-bd04-2e5cf4499abe,2024-09-04,Would Furniture,Furniture,Chairs,60.13,10,0.3,10.42,East,Corporate,0.17329120239481124,6.013,Yes,2024-09
+ed1075a6-ff61-4b0e-8642-65da35b3633a,2024-11-11,Drop Furniture,Furniture,Tables,686.38,3,0.2,56.43,East,Corporate,0.0822139339724351,228.79333333333332,No,2024-11
+4606f399-f859-48ad-a1bf-26c7422af32e,2024-08-31,Performance Technology,Technology,Accessories,884.59,1,0.1,130.12,Central,Corporate,0.1470963949400287,884.59,No,2024-08
+07448efa-fab7-465d-a441-40624cd703aa,2024-06-07,Pm Furniture,Furniture,Tables,96.84,7,0.1,10.93,South,Consumer,0.11286658405617513,13.834285714285715,No,2024-06
+b69f7eec-2210-4c2e-beb1-b6c56fbbc7ca,2025-03-24,Language Office Supplies,Office Supplies,Art,994.15,9,0.0,197.25,West,Home Office,0.19841070261027008,110.46111111111111,No,2025-03
+ee5d2a7f-4efa-4422-ba64-619ab2bdc610,2024-08-10,Onto Office Supplies,Office Supplies,Binders,783.62,6,0.2,84.83,South,Home Office,0.10825400066358694,130.60333333333332,No,2024-08
+ace4240b-fe63-48aa-966a-5e281b656277,2025-04-01,Bad Technology,Technology,Phones,226.83,5,0.0,38.86,Central,Home Office,0.17131772693206365,45.366,No,2025-04
+fedb869d-9656-4e37-a1b6-9cb2fb6dca2c,2024-12-12,Join Furniture,Furniture,Bookcases,999.61,3,0.0,87.14,Central,Home Office,0.08717399785916508,333.2033333333333,No,2024-12
+6bbf4af4-c375-4d13-8972-2ff80873fac4,2025-01-22,Beyond Technology,Technology,Accessories,579.94,7,0.2,110.35,East,Consumer,0.19027830465220538,82.84857142857143,No,2025-01
+9066d3bb-a767-4eb5-a251-8c1caa8d353b,2025-02-10,Create Technology,Technology,Phones,324.82,6,0.0,50.52,West,Home Office,0.15553229480943292,54.13666666666666,No,2025-02
+0fe932e8-91dd-4089-a5fd-56403e70e58e,2024-07-30,Each Furniture,Furniture,Bookcases,948.88,8,0.2,72.43,West,Home Office,0.07633209678779193,118.61,No,2024-07
+af0d6235-e9a1-46cd-9bca-5faa3ec57e61,2024-12-03,Seem Technology,Technology,Phones,605.65,1,0.3,30.34,East,Consumer,0.050094939321390246,605.65,Yes,2024-12
+24442c5f-119c-4a80-8df2-d581ed9eeee1,2024-12-27,Three Office Supplies,Office Supplies,Paper,719.77,6,0.0,38.35,West,Corporate,0.05328090917932118,119.96166666666666,No,2024-12
+ba23a98c-26e6-4d8a-a77a-c297340da82e,2025-02-02,New Office Supplies,Office Supplies,Art,848.02,6,0.0,89.92,West,Consumer,0.10603523501804203,141.33666666666667,No,2025-02
+6916bee2-9a83-4e02-8469-e68fefdd1029,2024-09-07,Interview Office Supplies,Office Supplies,Binders,308.75,3,0.1,49.35,East,Corporate,0.15983805668016196,102.91666666666667,No,2024-09
+79027c80-185e-4164-b5fe-49d60a86922c,2025-05-22,Example Furniture,Furniture,Bookcases,324.11,9,0.2,27.06,South,Home Office,0.08349017308938322,36.01222222222222,No,2025-05
+77e61ad9-fede-4adf-83f3-ee658de1284b,2024-10-09,Threat Office Supplies,Office Supplies,Paper,736.66,5,0.1,56.47,South,Corporate,0.07665680232400293,147.332,No,2024-10
+328479f8-76f5-4bf5-a794-bbf217a8d6dd,2024-06-17,Actually Technology,Technology,Copiers,42.06,10,0.2,7.91,South,Home Office,0.18806466951973372,4.206,No,2024-06
+526fc682-9368-4570-b90c-36262b5df345,2025-05-23,North Office Supplies,Office Supplies,Paper,149.24,2,0.1,15.23,East,Corporate,0.10205038863575448,74.62,No,2025-05
+d231e23c-86c9-4260-9613-2a9e56e51838,2025-03-02,Available Furniture,Furniture,Chairs,673.32,6,0.3,34.82,East,Home Office,0.05171389532465989,112.22000000000001,Yes,2025-03
+068fd0e1-ce1e-4229-bd89-647ce31cabf9,2025-01-28,This Technology,Technology,Phones,264.09,2,0.0,15.11,East,Corporate,0.05721534325419365,132.045,No,2025-01
+20492533-016e-4a33-9678-62ba720ba98f,2024-08-16,Executive Furniture,Furniture,Bookcases,885.71,8,0.3,90.95,South,Consumer,0.10268598073861647,110.71375,Yes,2024-08
+3d9441a7-f0aa-428d-92d3-5bfbb651a16c,2025-05-01,Yeah Furniture,Furniture,Chairs,654.46,4,0.1,77.03,South,Home Office,0.11770008862268129,163.615,No,2025-05
+8d4ee819-192b-4c79-ae45-62845407972b,2024-06-11,Write Technology,Technology,Accessories,268.52,2,0.0,27.19,East,Corporate,0.10125875167585284,134.26,No,2024-06
+1bc3f32a-1333-4bb0-9d0a-3b030a46fe82,2024-08-26,Only Furniture,Furniture,Chairs,942.42,2,0.2,131.09,East,Home Office,0.13909933999702895,471.21,No,2024-08
+c631c2e2-75c8-4486-bdf1-cef5eafa04db,2024-06-20,Them Office Supplies,Office Supplies,Binders,943.02,3,0.3,69.37,East,Corporate,0.07356153634069268,314.34,Yes,2024-06
+95cf0d29-20b1-45dd-b76b-df39cc88b4a1,2025-01-29,Evening Technology,Technology,Accessories,415.19,9,0.2,61.9,West,Consumer,0.14908836918037524,46.132222222222225,No,2025-01
+7eb40968-5174-466c-aa03-d91bd08453b8,2025-05-03,Growth Furniture,Furniture,Chairs,398.97,9,0.3,29.14,East,Consumer,0.07303807303807304,44.330000000000005,Yes,2025-05
+c3d32ec8-0b69-4449-876c-e37e4c85213a,2024-09-17,But Furniture,Furniture,Chairs,301.6,10,0.3,24.11,South,Consumer,0.07994031830238726,30.160000000000004,Yes,2024-09
+8be737e7-5178-46b2-9a72-92733fc83809,2025-01-18,Should Technology,Technology,Phones,298.89,2,0.3,52.77,West,Home Office,0.17655324701395164,149.445,Yes,2025-01
+7a37b728-e46c-4d5d-ad9c-30d2311a5ee5,2025-02-20,Picture Furniture,Furniture,Tables,895.93,5,0.0,131.06,South,Corporate,0.1462837498465282,179.18599999999998,No,2025-02
+1c8ef092-1010-460c-92c3-42fa8d663b6e,2024-07-08,Avoid Furniture,Furniture,Chairs,375.71,8,0.0,33.62,Central,Corporate,0.08948391046285699,46.96375,No,2024-07
+b63de41b-7770-4bac-be27-12efaae4d767,2025-02-21,Share Furniture,Furniture,Tables,568.6,3,0.0,35.74,West,Corporate,0.06285613788251847,189.53333333333333,No,2025-02
+a3426c13-7e02-42a6-9a1b-0d6f3a90810e,2025-05-23,American Furniture,Furniture,Bookcases,235.24,1,0.3,40.64,South,Home Office,0.17275973473898995,235.24,Yes,2025-05
+34ff66d6-fffc-44a2-aa54-1e8f05f4bdc4,2024-10-07,Whom Furniture,Furniture,Bookcases,882.84,8,0.2,54.6,South,Home Office,0.06184586108468126,110.355,No,2024-10
+e145c7fa-7931-4661-ab04-e1edb083b5eb,2024-07-22,Structure Office Supplies,Office Supplies,Paper,949.76,8,0.1,182.7,West,Consumer,0.19236438679245282,118.72,No,2024-07
+a0511133-789a-4080-a04d-67f6f5cdaf4a,2024-06-27,Term Technology,Technology,Phones,52.25,2,0.3,4.2,West,Consumer,0.08038277511961722,26.125,Yes,2024-06
+2685bcfe-5dfa-4dc3-9f96-0365873a9602,2024-12-10,Difference Office Supplies,Office Supplies,Paper,911.7,2,0.0,98.66,Central,Corporate,0.10821542173960731,455.85,No,2024-12
+382852ec-eac0-4a93-8301-384b7b14fb25,2024-07-15,Man Furniture,Furniture,Bookcases,524.49,1,0.3,35.08,Central,Corporate,0.06688402066769623,524.49,Yes,2024-07
+bc2c0234-df3b-4a6a-9812-754b2b9e5904,2024-06-22,Certainly Technology,Technology,Phones,567.06,2,0.2,102.14,East,Consumer,0.1801220329418404,283.53,No,2024-06
+caa52111-0010-486b-bbcc-b7bacc7c209e,2025-02-15,Down Furniture,Furniture,Tables,658.24,10,0.3,36.61,Central,Corporate,0.05561801166747691,65.824,Yes,2025-02
+d6d74e79-6976-4b44-bb7a-11c3b62253dc,2024-12-24,End Furniture,Furniture,Tables,612.57,7,0.0,67.0,West,Home Office,0.10937525507288962,87.51,No,2024-12
+2b5c0292-701e-4a5b-8b33-7c55fbc822c1,2024-05-31,Magazine Furniture,Furniture,Bookcases,748.29,5,0.2,39.69,West,Consumer,0.05304093332798781,149.658,No,2024-05
+7caefda0-e59a-4e5a-bb90-d986397dae94,2025-01-14,Modern Furniture,Furniture,Tables,859.65,2,0.1,60.31,Central,Corporate,0.07015645902402141,429.825,No,2025-01
+c8c9b2c0-3e6c-4184-91b8-45977c3c54da,2024-07-04,Mrs Office Supplies,Office Supplies,Binders,731.51,10,0.0,57.2,Central,Corporate,0.07819441976186245,73.151,No,2024-07
+76cff774-ef66-4b2b-9bd3-5fa019a727b0,2025-02-02,Seven Technology,Technology,Accessories,868.52,1,0.1,51.97,South,Home Office,0.05983742458435039,868.52,No,2025-02
+2d46bc94-9308-4cfe-9cf7-3e3229d45f2c,2025-04-04,Make Office Supplies,Office Supplies,Art,782.71,9,0.0,59.53,South,Consumer,0.07605626605000575,86.96777777777778,No,2025-04
+6a5eba3c-59b6-4d9a-ad01-4d10c9fe78f1,2025-05-14,Despite Technology,Technology,Phones,461.88,6,0.1,42.08,West,Consumer,0.09110591495626569,76.98,No,2025-05
+df84d76c-5f32-44e5-95e7-61323e9aa220,2024-08-31,There Furniture,Furniture,Bookcases,923.84,1,0.1,97.81,South,Home Office,0.10587331139591272,923.84,No,2024-08
+e008c97d-0699-4e8e-bf1c-b3fe1afc39c0,2024-10-29,Appear Office Supplies,Office Supplies,Binders,591.01,6,0.2,44.05,West,Corporate,0.0745334258303582,98.50166666666667,No,2024-10
+f49566ec-976f-4158-8aee-0d59731ab5b1,2025-02-20,Result Furniture,Furniture,Bookcases,37.18,1,0.1,6.62,East,Corporate,0.17805271651425497,37.18,No,2025-02
+7f4be9be-d466-427f-88a6-c2cbfcb2735f,2024-07-02,Behind Technology,Technology,Phones,214.66,7,0.0,38.57,West,Home Office,0.17967949315196124,30.665714285714284,No,2024-07
+45319052-e602-4cf5-962c-0dca55f74a63,2025-03-14,Test Office Supplies,Office Supplies,Paper,650.9,10,0.0,54.39,South,Consumer,0.08356122292210785,65.09,No,2025-03
+e358ce74-5b0d-4cca-aeab-efe6ea28cf56,2025-03-11,True Office Supplies,Office Supplies,Binders,896.53,6,0.3,78.72,Central,Corporate,0.08780520451072468,149.42166666666665,Yes,2025-03
+422d9205-06c0-473d-acc4-6326ad9a6ebd,2024-11-26,Want Furniture,Furniture,Tables,111.29,9,0.2,14.94,South,Home Office,0.1342438673735286,12.365555555555556,No,2024-11
+77d40139-5c9d-42b6-a534-5e4175eee873,2024-11-09,Name Office Supplies,Office Supplies,Art,687.57,8,0.0,69.06,Central,Corporate,0.10044068240324622,85.94625,No,2024-11
+c46a15f0-87b1-47d4-bcd7-a3df5202fc9c,2025-05-04,Than Furniture,Furniture,Bookcases,268.54,5,0.1,19.47,Central,Corporate,0.07250316526402024,53.708000000000006,No,2025-05
+10f03dab-49ab-4dad-8b5e-3da16ef52466,2025-01-28,Loss Technology,Technology,Phones,326.39,3,0.0,48.41,South,Home Office,0.14831949508256992,108.79666666666667,No,2025-01
+1736b2e5-a639-472e-a7ae-f2338286d5fb,2024-07-15,Debate Furniture,Furniture,Tables,394.39,1,0.1,40.02,South,Corporate,0.101473161084206,394.39,No,2024-07
+12547c12-edf5-472b-9563-653e75fa6d52,2024-10-07,Cold Office Supplies,Office Supplies,Paper,364.91,5,0.1,64.26,South,Home Office,0.17609821599846537,72.982,No,2024-10
+be2bc1e8-54e3-4980-be71-fd79c1ead48e,2024-11-17,Feel Office Supplies,Office Supplies,Paper,476.07,5,0.1,91.42,Central,Consumer,0.19203058373768564,95.214,No,2024-11
+4a8aa51e-c416-40b1-98d3-b140400ab692,2025-01-25,Fear Furniture,Furniture,Bookcases,361.73,5,0.3,60.85,East,Consumer,0.16821939015287646,72.346,Yes,2025-01
+340c543b-81de-43a7-a67b-4e24e659a47a,2025-01-15,According Furniture,Furniture,Tables,301.11,2,0.3,17.48,Central,Home Office,0.05805187473016506,150.555,Yes,2025-01
+9184b557-00cf-49ba-918e-4aa09b726933,2024-09-13,Teacher Office Supplies,Office Supplies,Art,890.53,9,0.0,160.41,East,Corporate,0.18012868741086768,98.94777777777777,No,2024-09
+f9a980da-375b-4675-9dcb-183dac8c59a5,2024-10-09,Society Furniture,Furniture,Bookcases,63.52,3,0.1,12.63,Central,Corporate,0.19883501259445843,21.173333333333336,No,2024-10
+467a7276-b41e-4540-9f19-7e91f9279a2d,2025-01-25,Bar Furniture,Furniture,Tables,323.22,3,0.0,39.8,South,Consumer,0.12313594455788625,107.74000000000001,No,2025-01
+629984b1-5d0e-410b-9039-9f158772a961,2024-08-18,Pull Office Supplies,Office Supplies,Paper,67.43,8,0.2,5.49,Central,Home Office,0.08141776657274209,8.42875,No,2024-08
+f4735cd7-5925-4699-afda-0a36fb8ac817,2024-06-22,Receive Technology,Technology,Copiers,787.36,2,0.1,111.94,West,Corporate,0.14217130664499086,393.68,No,2024-06
+04e4348c-3712-48c1-aebb-e87c1ae77337,2024-07-10,Question Office Supplies,Office Supplies,Binders,965.67,7,0.0,53.75,South,Corporate,0.05566083651765096,137.95285714285714,No,2024-07
+7dd2de60-3f9d-4dfb-8a01-03b425cf5e96,2025-05-11,Significant Technology,Technology,Copiers,893.09,9,0.1,47.05,Central,Consumer,0.052682260466470336,99.23222222222222,No,2025-05
+4c03c831-41a9-4b53-b667-41608af02fdc,2024-07-04,Painting Technology,Technology,Copiers,696.59,6,0.2,48.3,West,Consumer,0.06933777401340817,116.09833333333334,No,2024-07
+36b1d7e9-ffb0-4ebc-b673-80a330ec4a4f,2024-06-26,Middle Furniture,Furniture,Bookcases,74.63,1,0.2,14.35,Central,Consumer,0.19228192415918532,74.63,No,2024-06
+e1d23042-1e82-4203-926e-7aa4feab0be9,2024-10-31,Design Furniture,Furniture,Bookcases,889.09,3,0.2,177.3,Central,Corporate,0.19941738181736382,296.36333333333334,No,2024-10
+2da23991-fd94-404c-80a5-64ef8d802845,2024-10-29,Family Furniture,Furniture,Tables,948.6,7,0.0,79.93,West,Consumer,0.08426101623445077,135.5142857142857,No,2024-10
+8701b1d3-19ef-4b75-92b1-061a271e4f69,2025-05-19,Fund Office Supplies,Office Supplies,Paper,31.69,9,0.1,2.17,West,Home Office,0.06847585989271063,3.5211111111111113,No,2025-05
+b14b59a9-f28b-4fe2-8a89-a37443dc50a5,2024-08-10,Prove Office Supplies,Office Supplies,Art,877.78,5,0.0,122.09,East,Corporate,0.13908952129235116,175.55599999999998,No,2024-08
+a85eeab4-f808-40ca-b067-fdb5b00de25b,2025-01-25,Grow Technology,Technology,Copiers,837.76,1,0.0,94.26,East,Home Office,0.11251432391138275,837.76,No,2025-01
+e385e753-b8f0-4046-ba29-0670bd37eae6,2024-12-24,Analysis Furniture,Furniture,Chairs,704.85,4,0.0,67.08,Central,Corporate,0.09516918493296446,176.2125,No,2024-12
+bbe1f3fa-9149-44e5-84f0-d29b5d23c780,2025-03-18,Without Office Supplies,Office Supplies,Paper,609.58,3,0.3,106.43,Central,Home Office,0.17459562321598476,203.19333333333336,Yes,2025-03
+6c70b6f6-b4a1-4bac-af27-de110d721fe5,2024-10-09,Concern Technology,Technology,Copiers,122.87,2,0.3,9.8,East,Corporate,0.07975909497843249,61.435,Yes,2024-10
+fef516d8-d26f-41a4-8b32-b9f816299e74,2024-07-07,Pattern Technology,Technology,Accessories,706.4,5,0.1,39.5,West,Corporate,0.055917327293318234,141.28,No,2024-07
+4a9c4c11-2ebd-4ea5-a481-f510f5bfeb57,2025-04-09,Thought Furniture,Furniture,Chairs,242.16,1,0.0,45.05,South,Corporate,0.18603402708952757,242.16,No,2025-04
+6dfd435f-2e26-458b-9acd-4025d1c2149f,2024-10-31,West Office Supplies,Office Supplies,Art,949.95,9,0.0,150.6,South,Consumer,0.15853465971893257,105.55000000000001,No,2024-10
+902345f0-1bcd-4f5b-a452-4e6dc4e985dd,2024-09-27,Discover Technology,Technology,Accessories,988.78,5,0.2,118.3,West,Corporate,0.11964238758874572,197.756,No,2024-09
+1ba599b2-8b2b-4613-a494-669f5de3fbca,2024-12-19,Speech Technology,Technology,Phones,366.61,6,0.3,58.94,East,Corporate,0.16077030086467908,61.10166666666667,Yes,2024-12
+31758575-a5f2-418b-aca2-56fc1f529ec9,2025-02-19,Year Technology,Technology,Phones,666.72,3,0.2,69.09,East,Consumer,0.10362670986321094,222.24,No,2025-02
+4468e6a5-7242-4159-a10a-2faeb0c6bc3d,2024-07-21,Physical Furniture,Furniture,Bookcases,102.02,6,0.1,6.84,Central,Home Office,0.0670456773181729,17.003333333333334,No,2024-07
+67216868-bf9e-4766-abe0-421435ae733f,2024-06-18,Political Furniture,Furniture,Tables,693.0,8,0.3,102.1,Central,Corporate,0.1473304473304473,86.625,Yes,2024-06
+4e961119-aad6-4abf-8a5c-b27848d68969,2024-06-02,Evidence Technology,Technology,Phones,729.15,3,0.0,81.96,West,Home Office,0.11240485496811355,243.04999999999998,No,2024-06
+59cd304a-aa53-4106-9155-39895a32b75e,2024-06-24,Trade Office Supplies,Office Supplies,Binders,615.21,6,0.0,110.36,South,Consumer,0.1793859007493376,102.53500000000001,No,2024-06
+a720af0f-26e1-495a-bbf4-e0c6636d9b16,2024-12-13,Wrong Office Supplies,Office Supplies,Paper,121.81,7,0.3,6.93,South,Corporate,0.05689188079796404,17.40142857142857,Yes,2024-12
+598e12c4-7ccc-4c7a-8fe4-21a67fa052ef,2025-01-22,Project Furniture,Furniture,Bookcases,707.52,9,0.1,139.16,Central,Consumer,0.19668701944821348,78.61333333333333,No,2025-01
+0f646224-22eb-4a9a-9a56-daf1ccd31956,2024-06-02,Property Office Supplies,Office Supplies,Binders,665.1,4,0.3,67.75,East,Corporate,0.1018643812960457,166.275,Yes,2024-06
+a2f09eb8-c109-4139-a62b-347de3455d94,2024-09-03,Home Office Supplies,Office Supplies,Art,840.64,9,0.0,43.5,South,Consumer,0.05174628854206319,93.40444444444444,No,2024-09
+22e3dfe6-a54b-4683-9104-2535d973710a,2024-06-01,Live Technology,Technology,Copiers,870.72,2,0.3,85.41,South,Corporate,0.0980912348401323,435.36,Yes,2024-06
+a72bbced-c679-4951-b12a-264cbe8fc575,2024-11-12,Thought Furniture,Furniture,Tables,230.48,7,0.3,39.77,East,Home Office,0.17255293300937177,32.925714285714285,Yes,2024-11
+f6162232-1609-4597-9e20-987456abb5ef,2024-08-11,During Technology,Technology,Accessories,453.62,8,0.3,44.19,South,Home Office,0.09741633966756315,56.7025,Yes,2024-08
+d26568ca-b328-4738-909b-556602751860,2024-12-13,Own Furniture,Furniture,Bookcases,409.41,1,0.0,71.19,East,Consumer,0.1738843701912508,409.41,No,2024-12
+bc2fcbc0-f22a-456e-84d7-532e85da8b7a,2025-02-04,Everybody Office Supplies,Office Supplies,Art,566.71,8,0.2,59.22,Central,Home Office,0.10449789133772122,70.83875,No,2025-02
+2e2b6297-9d95-4fd5-90e9-a41b5952cf8c,2025-05-12,Rich Technology,Technology,Phones,564.55,10,0.3,88.92,South,Corporate,0.15750597821273582,56.455,Yes,2025-05
+5e174ccf-f083-4fce-8555-d6de570ede41,2024-10-27,Establish Furniture,Furniture,Bookcases,106.46,4,0.0,10.77,South,Consumer,0.10116475671613752,26.615,No,2024-10
+65b73975-9f5a-4c22-8235-541d51ac2503,2025-03-01,Over Office Supplies,Office Supplies,Binders,115.26,3,0.3,8.19,Central,Home Office,0.07105674128058302,38.42,Yes,2025-03
+0c2cc08a-5ed0-428e-b5e0-c8891cdbbe02,2024-11-30,Trade Office Supplies,Office Supplies,Art,261.75,4,0.1,17.83,South,Consumer,0.06811843361986628,65.4375,No,2024-11
+e3a0e411-6096-4bcc-b142-c400e6d6d2db,2024-12-28,Husband Furniture,Furniture,Chairs,719.62,2,0.3,41.0,South,Consumer,0.05697451432700592,359.81,Yes,2024-12
+5cd1cb6f-2f1c-4c04-953e-80951e86398b,2025-04-11,Former Office Supplies,Office Supplies,Art,462.81,10,0.1,90.05,East,Corporate,0.19457228668352022,46.281,No,2025-04
+36a286bc-5d7e-43d5-a7fa-f933d545b326,2025-05-15,Citizen Technology,Technology,Copiers,935.96,10,0.3,176.57,East,Home Office,0.1886512244112996,93.596,Yes,2025-05
+54f81651-c3bc-471a-bc15-4db02ac06d8f,2024-11-19,Worker Technology,Technology,Copiers,817.09,2,0.3,121.44,West,Home Office,0.14862499847018076,408.545,Yes,2024-11
+dcf06e49-258f-4d79-945a-2b2e26857fab,2025-01-25,Whether Office Supplies,Office Supplies,Binders,979.71,4,0.2,107.46,South,Corporate,0.10968551918424839,244.9275,No,2025-01
+14e9b1b0-c3b6-46c0-8f69-fdf38218b528,2025-01-02,Coach Furniture,Furniture,Tables,146.8,10,0.2,25.9,South,Consumer,0.17643051771117163,14.680000000000001,No,2025-01
+0eb1c5a7-d50e-41fa-8457-33b11478b4ed,2025-03-14,Already Office Supplies,Office Supplies,Binders,217.62,5,0.2,40.95,West,Consumer,0.1881720430107527,43.524,No,2025-03
+0c0fef24-029b-40b0-9be2-2a32a5ac775c,2024-09-27,Thousand Technology,Technology,Copiers,547.07,6,0.0,89.78,West,Home Office,0.16411062569689436,91.17833333333334,No,2024-09
+6b1de5c5-87e4-40e5-b706-00b92d32a15e,2024-12-03,Meeting Office Supplies,Office Supplies,Binders,750.39,9,0.2,136.29,South,Home Office,0.18162555471154998,83.37666666666667,No,2024-12
+335dc624-64c8-438a-81cf-41639dee73f3,2025-01-13,Imagine Furniture,Furniture,Chairs,387.06,1,0.0,30.96,East,Consumer,0.07998759882188808,387.06,No,2025-01
+93d93731-6a66-4204-b937-5f2ee401ac8b,2024-12-03,Buy Technology,Technology,Accessories,840.99,5,0.1,137.11,Central,Consumer,0.16303404321097756,168.198,No,2024-12
+05853e1c-78fb-44af-aefb-537c7112c6bc,2025-01-13,Guess Technology,Technology,Accessories,619.95,9,0.1,100.04,South,Consumer,0.16136785224614889,68.88333333333334,No,2025-01
+b580e1f9-bad4-49bb-965e-419d41b71425,2025-04-14,No Office Supplies,Office Supplies,Binders,786.46,5,0.0,148.62,West,Home Office,0.18897337436106096,157.292,No,2025-04
+fb13bf05-7aba-4a9b-9007-478b6d56c88e,2024-11-16,War Furniture,Furniture,Tables,63.26,5,0.1,9.05,Central,Home Office,0.14306038570976923,12.652,No,2024-11
+37d65cd4-ce2e-4381-8732-d7b5ae3261d9,2024-09-17,Movement Furniture,Furniture,Chairs,551.15,10,0.1,91.72,Central,Home Office,0.1664156763131634,55.114999999999995,No,2024-09
+bb779c47-796e-481c-b843-d35cf384dea7,2024-12-02,Economic Technology,Technology,Accessories,983.62,2,0.1,191.19,South,Consumer,0.19437384355747137,491.81,No,2024-12
+6a105e0a-9a55-4cb4-bc70-cf7317cd1f04,2025-01-05,Four Office Supplies,Office Supplies,Art,50.23,5,0.2,3.49,East,Corporate,0.06948039020505675,10.046,No,2025-01
+46ddb36c-81df-4350-ba24-ed0cb1cbdc1d,2025-01-03,They Office Supplies,Office Supplies,Binders,471.67,3,0.0,34.46,East,Corporate,0.07305955434943923,157.22333333333333,No,2025-01
+d481f6d6-0c7c-41aa-bfb8-935ab509e4bf,2025-01-21,Ground Furniture,Furniture,Bookcases,619.45,5,0.3,104.37,East,Home Office,0.16848817499394625,123.89000000000001,Yes,2025-01
+0ab99fac-6a2e-442a-a188-38d5ca2ebfc1,2024-08-13,Describe Office Supplies,Office Supplies,Binders,324.68,4,0.1,41.59,East,Home Office,0.12809535542688186,81.17,No,2024-08
+1ae5f83a-e0e7-4e5b-b4c7-d1500fca32fb,2025-04-16,Yard Office Supplies,Office Supplies,Paper,541.67,2,0.2,45.06,South,Home Office,0.08318718038658225,270.835,No,2025-04
+9c077660-2691-4c59-a666-f02f17c1d9d6,2025-03-15,Show Technology,Technology,Copiers,367.19,4,0.3,73.25,Central,Corporate,0.1994880034859337,91.7975,Yes,2025-03
+aff4be4b-d814-421b-9ff6-2ef5f1895a23,2025-02-20,Professor Office Supplies,Office Supplies,Paper,352.55,4,0.1,68.34,East,Home Office,0.19384484470287902,88.1375,No,2025-02
+801633e1-9503-4907-acd9-d5e60783d4cf,2025-04-08,Its Office Supplies,Office Supplies,Binders,392.02,9,0.2,21.05,South,Consumer,0.05369623998775573,43.55777777777777,No,2025-04
+1652eb65-8938-4a73-a5e0-912c63ca3497,2024-11-21,Reflect Office Supplies,Office Supplies,Binders,53.41,4,0.2,6.79,South,Corporate,0.127129750982962,13.3525,No,2024-11
+eba474ef-0e78-4ecf-9a05-cb12f1411aa0,2024-10-21,Think Technology,Technology,Phones,74.82,4,0.3,13.12,East,Home Office,0.17535418337342956,18.705,Yes,2024-10
+622d5fb1-0d3d-4ea1-8bbe-25eac6afb5a1,2024-12-01,Here Technology,Technology,Copiers,818.59,2,0.1,43.85,South,Home Office,0.05356772010408141,409.295,No,2024-12
+ed632a32-5ce5-499e-8673-d2ba3ac25215,2024-12-03,Sell Office Supplies,Office Supplies,Binders,82.52,3,0.2,11.03,East,Consumer,0.133664566165778,27.506666666666664,No,2024-12
+1a305f6d-8eaa-4242-ad00-5e2b418f84a7,2024-06-08,Technology Office Supplies,Office Supplies,Paper,394.15,7,0.3,38.41,Central,Corporate,0.09745020931117594,56.30714285714286,Yes,2024-06
+11106f3a-2531-4f37-b828-6efa997ef177,2024-10-14,Condition Furniture,Furniture,Bookcases,15.84,10,0.0,2.59,East,Home Office,0.163510101010101,1.584,No,2024-10
+f0d3575a-74f0-4128-a7e0-27f0ee74b3e1,2024-12-01,Around Office Supplies,Office Supplies,Paper,928.77,2,0.2,156.06,East,Corporate,0.16802868309699925,464.385,No,2024-12
+ca319dea-a58c-4dc7-85f2-953b5cc45e4c,2025-03-11,Difference Furniture,Furniture,Bookcases,767.62,8,0.3,83.88,East,Corporate,0.10927281727938302,95.9525,Yes,2025-03
+2fcd66bd-bbc0-45da-8f9f-f477ed00d570,2024-06-02,Dark Office Supplies,Office Supplies,Paper,538.13,3,0.3,91.22,South,Consumer,0.16951294296917102,179.37666666666667,Yes,2024-06
+9d1dc57a-8523-472e-90b1-367430d67deb,2024-10-10,Course Office Supplies,Office Supplies,Binders,680.52,6,0.0,90.53,West,Corporate,0.1330306236407453,113.42,No,2024-10
+594188b7-d03a-4080-9e98-7588444d7ffe,2025-01-06,Fact Office Supplies,Office Supplies,Paper,14.98,10,0.3,1.96,East,Consumer,0.1308411214953271,1.498,Yes,2025-01
+b580e3c8-a7e5-4e78-8c1c-93999d9b786e,2025-03-28,Conference Technology,Technology,Accessories,744.02,6,0.1,83.25,West,Home Office,0.11189215343673557,124.00333333333333,No,2025-03
+964b1f07-de08-4f78-b1a6-7b1329d3481a,2024-08-28,Collection Office Supplies,Office Supplies,Art,192.15,10,0.2,15.21,West,Consumer,0.07915690866510539,19.215,No,2024-08
+8ed5a680-c483-4d70-88bb-f5b86ed9d257,2024-12-10,Now Technology,Technology,Copiers,466.65,9,0.0,43.68,East,Home Office,0.09360334297653489,51.849999999999994,No,2024-12
+ff867694-112b-42b8-8afa-007641fd6b08,2024-12-12,Head Technology,Technology,Accessories,728.33,8,0.2,75.43,East,Consumer,0.10356569137616191,91.04125,No,2024-12
+4ee17901-e0ff-407c-8e23-bbc701b10fde,2025-01-06,Put Office Supplies,Office Supplies,Art,292.29,2,0.1,28.55,West,Consumer,0.09767696465838721,146.145,No,2025-01
+ab458e39-73ad-447d-b336-715c06c7cc66,2024-07-14,Difficult Furniture,Furniture,Tables,588.33,10,0.2,100.7,Central,Home Office,0.17116244284670168,58.833000000000006,No,2024-07
+cd400c60-b7a2-4e62-92eb-96f456f151d1,2025-03-12,Floor Furniture,Furniture,Chairs,253.71,4,0.3,23.21,East,Corporate,0.09148240116668638,63.4275,Yes,2025-03
+395199ef-63d7-4b34-850a-0b23082cfc73,2024-08-26,Weight Furniture,Furniture,Chairs,468.22,6,0.2,57.61,Central,Corporate,0.12304045107000981,78.03666666666668,No,2024-08
+0351a263-f9b8-4f34-afa3-645917c4caea,2024-09-25,Manager Technology,Technology,Phones,860.13,3,0.1,76.97,East,Corporate,0.0894864729750154,286.71,No,2024-09
+82792d13-bce4-4b83-9dba-dc0dc81a929b,2024-07-25,So Office Supplies,Office Supplies,Paper,851.09,1,0.3,140.75,East,Consumer,0.165376164682936,851.09,Yes,2024-07
+ac2aec06-3f02-4030-b932-aae0fd540ea6,2025-04-11,Population Technology,Technology,Phones,895.05,9,0.3,132.54,Central,Home Office,0.14808111278699515,99.44999999999999,Yes,2025-04
+9dc952a9-a94b-4164-a7c2-e1da41e8c185,2025-01-15,Song Technology,Technology,Accessories,892.52,10,0.2,62.55,South,Consumer,0.07008246313808093,89.252,No,2025-01
+b74f0957-0cb7-4f30-b057-371cda5b6ede,2025-03-14,Form Office Supplies,Office Supplies,Art,370.23,1,0.1,65.6,East,Corporate,0.17718715393133996,370.23,No,2025-03
+073b8985-cb49-4b86-a4bd-9e2f16c9ae4c,2024-07-19,Fish Office Supplies,Office Supplies,Art,148.97,3,0.1,20.1,West,Home Office,0.13492649526750353,49.656666666666666,No,2024-07
+6bf2ff1e-aea8-440d-ac1b-73b63a49daec,2024-09-07,Perhaps Office Supplies,Office Supplies,Art,734.68,6,0.0,60.85,West,Home Office,0.08282517558664998,122.44666666666666,No,2024-09
+9c84bc19-4aef-46c5-812f-e948c6b1ca9a,2024-06-10,Should Furniture,Furniture,Chairs,375.74,1,0.1,47.98,East,Corporate,0.1276946824932134,375.74,No,2024-06
+f8f28512-9857-47c4-aa04-3dbd2cb17606,2024-08-14,Feel Furniture,Furniture,Tables,882.74,1,0.2,57.81,South,Corporate,0.06548927203933208,882.74,No,2024-08
+97f14dc1-8ad2-4b8c-8180-5f2872797bd7,2025-03-17,Mention Office Supplies,Office Supplies,Art,270.68,9,0.1,28.83,Central,Home Office,0.10650953155016993,30.075555555555557,No,2025-03
+512126eb-524e-4556-bcec-e86b7829572c,2024-08-05,Former Furniture,Furniture,Tables,259.07,4,0.3,26.67,East,Home Office,0.10294514995947042,64.7675,Yes,2024-08
+ee0d7695-45f6-4aa0-9747-19683813cbe5,2025-02-20,Expert Furniture,Furniture,Tables,16.53,3,0.3,1.24,South,Home Office,0.0750151240169389,5.510000000000001,Yes,2025-02
+f1952deb-dda0-40d9-9d3a-ce17687c9981,2025-03-15,Read Technology,Technology,Copiers,158.74,3,0.2,22.27,Central,Consumer,0.1402923018772836,52.913333333333334,No,2025-03
+3bd9d1cf-7832-4b80-80c3-602d15010b4d,2024-07-01,Also Technology,Technology,Copiers,813.06,2,0.3,123.0,West,Corporate,0.1512803483137776,406.53,Yes,2024-07
+00b4ef42-1550-4d1b-9564-714b162fb216,2024-08-18,Product Furniture,Furniture,Chairs,835.03,1,0.1,47.16,West,Home Office,0.056477012801935254,835.03,No,2024-08
+66f02427-ad62-4afa-bd86-34c8e4469646,2024-10-10,No Office Supplies,Office Supplies,Art,633.25,1,0.1,36.97,West,Consumer,0.05838136596920647,633.25,No,2024-10
+1e4aa75f-6e6c-40ff-add9-56db519ebafc,2025-02-07,Leader Furniture,Furniture,Chairs,969.55,1,0.2,186.24,South,Home Office,0.1920891135062658,969.55,No,2025-02
+d879d0df-8845-4206-9705-7b8783129e1d,2025-03-23,Tend Technology,Technology,Accessories,178.86,7,0.1,30.26,South,Corporate,0.16918260091691825,25.551428571428573,No,2025-03
+48572f0b-be8b-4e0e-aa90-c026d02766dd,2024-11-02,Medical Technology,Technology,Copiers,726.94,6,0.3,101.39,Central,Consumer,0.13947505983987674,121.15666666666668,Yes,2024-11
+1279b61c-beda-400f-a94f-a9f72688889a,2024-09-06,Military Technology,Technology,Phones,140.89,1,0.1,18.09,South,Corporate,0.12839804102491306,140.89,No,2024-09
+045afb3d-6b9c-4427-aa06-e00ea7709db0,2024-07-15,Site Office Supplies,Office Supplies,Art,609.46,3,0.3,112.9,South,Consumer,0.1852459554359597,203.15333333333334,Yes,2024-07
+e43f2588-b7b7-4164-a026-6fc5bd493746,2024-06-21,Dinner Office Supplies,Office Supplies,Paper,487.42,3,0.0,89.95,East,Consumer,0.18454310450945796,162.47333333333333,No,2024-06
+67205103-6e07-4144-8ac0-a215ea3e36fa,2025-03-07,Begin Office Supplies,Office Supplies,Art,426.48,1,0.3,36.0,South,Home Office,0.08441193021947102,426.48,Yes,2025-03
+1a01187b-8239-42d1-be64-1102c1701696,2025-04-28,Ask Furniture,Furniture,Tables,806.57,10,0.0,91.81,Central,Home Office,0.11382769009509404,80.65700000000001,No,2025-04
+631bf17b-a547-43ce-80e6-56119de67442,2024-08-22,Drop Furniture,Furniture,Tables,290.43,9,0.3,25.75,West,Consumer,0.08866163963777847,32.27,Yes,2024-08
+2cf25499-be6f-4f31-8eff-42624b0d7c45,2024-11-27,Study Technology,Technology,Copiers,527.32,9,0.0,56.03,East,Home Office,0.10625426685883334,58.59111111111112,No,2024-11
+be6ac30c-f302-4636-af12-6e68d372845c,2024-09-10,That Technology,Technology,Copiers,368.65,3,0.3,54.46,Central,Corporate,0.147728197477282,122.88333333333333,Yes,2024-09
+d96e0804-12ff-4e71-abe0-7eb6d922ace5,2024-06-23,Black Furniture,Furniture,Tables,371.99,5,0.3,60.73,South,Home Office,0.16325707680313986,74.398,Yes,2024-06
+38679965-2b9b-4c79-a4f7-9c8505571010,2024-07-01,Do Furniture,Furniture,Bookcases,376.51,9,0.3,33.16,South,Consumer,0.08807202995936363,41.83444444444444,Yes,2024-07
+6698bb1b-53ec-43b1-a237-012f6993ea6f,2025-04-09,Table Furniture,Furniture,Bookcases,404.15,3,0.0,65.54,Central,Home Office,0.1621675120623531,134.71666666666667,No,2025-04
+e76398a2-00b2-4851-8e61-186491993915,2025-05-18,Young Furniture,Furniture,Bookcases,222.31,7,0.2,37.82,West,Consumer,0.1701228014934101,31.75857142857143,No,2025-05
+db75e23f-612c-400a-a094-bfece8491b2c,2025-04-14,Republican Office Supplies,Office Supplies,Art,395.21,1,0.0,68.56,East,Consumer,0.1734773917664027,395.21,No,2025-04
+34f46891-6947-40f0-bda4-6d0371d77ba0,2024-08-01,Lawyer Furniture,Furniture,Bookcases,73.44,4,0.2,4.55,South,Consumer,0.06195533769063181,18.36,No,2024-08
+001d8bf5-e4db-4679-ae96-a9f05f0c361a,2025-05-09,Sense Technology,Technology,Copiers,617.83,9,0.2,96.84,South,Corporate,0.15674214589773885,68.64777777777778,No,2025-05
+9370019f-2871-4a91-8546-c924d5dc1b6b,2025-04-26,Also Office Supplies,Office Supplies,Paper,499.42,1,0.1,88.69,West,Home Office,0.17758599975972128,499.42,No,2025-04
+1b63cf33-56ee-43ca-858d-77d985767cee,2024-07-21,Another Office Supplies,Office Supplies,Binders,786.12,9,0.1,111.85,West,Consumer,0.14228107668040502,87.34666666666666,No,2024-07
+d9a3d9da-7b67-40de-ab42-efd29acdcec1,2025-02-01,Like Office Supplies,Office Supplies,Paper,658.47,3,0.0,131.38,Central,Consumer,0.19952313696903426,219.49,No,2025-02
+7e4a5f72-39af-466c-a3aa-93e56f0a0e32,2024-12-25,Surface Furniture,Furniture,Tables,590.22,9,0.0,94.75,South,Corporate,0.16053336044186914,65.58,No,2024-12
+85b16cc4-5d8d-4b00-b7ff-89ecb667735f,2025-05-13,Political Technology,Technology,Phones,831.47,10,0.2,84.91,Central,Home Office,0.10212034108266083,83.147,No,2025-05
+21698e37-4297-4bf5-a7fe-2ef6182f11d9,2024-11-02,Side Furniture,Furniture,Chairs,930.42,10,0.0,82.96,West,Corporate,0.08916403344726037,93.042,No,2024-11
+6d62e642-d4e6-464e-8848-ec7dadb1e320,2024-07-09,Teach Furniture,Furniture,Bookcases,81.66,5,0.2,15.68,East,Home Office,0.19201567474895911,16.332,No,2024-07
+d8d79e25-03b9-4548-8ba9-5209dbd2923b,2025-01-14,Science Office Supplies,Office Supplies,Binders,448.34,7,0.3,74.2,Central,Home Office,0.16549939777847172,64.04857142857142,Yes,2025-01
+a2cd43ae-08fa-45ce-951e-35f8e6940e14,2024-12-31,Its Furniture,Furniture,Tables,863.4,8,0.0,76.56,South,Home Office,0.08867268936761641,107.925,No,2024-12
+0ed5e3ce-5172-4ab2-995f-86d84c963838,2024-06-07,Purpose Furniture,Furniture,Bookcases,704.16,6,0.3,136.13,West,Home Office,0.1933225403317428,117.36,Yes,2024-06
+3b883016-d51f-4dc7-9ce3-e69553f86919,2025-05-29,Available Office Supplies,Office Supplies,Art,833.86,4,0.2,53.33,East,Home Office,0.06395558007339361,208.465,No,2025-05
+be156641-34b2-4202-8f55-5ca38b56e4c9,2024-10-12,Coach Office Supplies,Office Supplies,Art,559.01,3,0.3,54.27,Central,Consumer,0.0970823419974598,186.33666666666667,Yes,2024-10
+b3bb7743-54e1-4df4-a4d1-4e98e0a8228d,2024-06-21,Old Technology,Technology,Copiers,947.65,4,0.3,152.16,Central,Consumer,0.16056560966601593,236.9125,Yes,2024-06
+a9781cb2-1757-4e92-a1e9-5550b6779d8e,2025-04-12,First Technology,Technology,Copiers,214.71,4,0.1,37.67,West,Corporate,0.1754459503516371,53.6775,No,2025-04
+740d2695-174f-4c9c-886e-9ef466e4a8b1,2024-09-01,Piece Furniture,Furniture,Chairs,920.99,8,0.0,151.63,East,Consumer,0.1646380525304292,115.12375,No,2024-09
+c453afd1-26cf-4f36-815f-ff7cfcdf7f4b,2025-04-12,Watch Office Supplies,Office Supplies,Paper,624.46,8,0.2,77.2,South,Corporate,0.12362681356692182,78.0575,No,2025-04
+f9c28a2f-0d31-4d68-8f4c-067469f23713,2024-12-10,Machine Office Supplies,Office Supplies,Binders,752.67,3,0.0,96.99,South,Consumer,0.12886125393598788,250.89,No,2024-12
+e17d2be2-cb47-4ba4-b607-4869b0a589f1,2025-04-06,Environment Furniture,Furniture,Tables,353.82,3,0.3,69.52,East,Home Office,0.19648408795432706,117.94,Yes,2025-04
+30a89386-2bff-41ed-958b-8fab12cc4d12,2024-12-22,Help Office Supplies,Office Supplies,Art,692.32,1,0.1,74.02,South,Corporate,0.10691587705107464,692.32,No,2024-12
+4fb5b76a-066a-4a2d-85a1-de058286aabc,2024-09-28,Poor Technology,Technology,Accessories,863.22,3,0.2,73.87,Central,Home Office,0.08557494033965848,287.74,No,2024-09
+c77a3ec8-3d90-4f3e-948a-9790d3837754,2024-07-22,Approach Furniture,Furniture,Bookcases,192.07,7,0.1,21.68,Central,Corporate,0.11287551413547145,27.43857142857143,No,2024-07
+595c9742-4a34-4f36-9111-e426f04c2ec9,2025-01-30,Force Furniture,Furniture,Tables,456.22,10,0.1,89.83,South,Corporate,0.19690061812283546,45.622,No,2025-01
+569ce3dd-c29a-46c2-9494-72f048708c86,2024-11-04,Become Office Supplies,Office Supplies,Paper,277.25,4,0.3,49.47,East,Home Office,0.17843101893597835,69.3125,Yes,2024-11
+556cc1d1-d742-4464-93cb-ee3e788b491e,2024-10-06,Only Technology,Technology,Phones,807.61,3,0.3,100.9,West,Corporate,0.12493654115228886,269.2033333333333,Yes,2024-10
+57e302d9-b8b3-4f8c-8128-460649c2f130,2024-07-08,West Office Supplies,Office Supplies,Art,307.03,9,0.0,33.7,Central,Corporate,0.10976126111454909,34.114444444444445,No,2024-07
+fbb73ad8-f28e-47b4-8b91-353430ed39fa,2024-07-24,Just Office Supplies,Office Supplies,Paper,815.68,8,0.0,95.82,East,Consumer,0.11747253825029423,101.96,No,2024-07
+e719be3b-2381-4934-a2f5-1982f5a63882,2024-06-23,Mention Furniture,Furniture,Tables,564.75,5,0.2,29.92,Central,Corporate,0.05297919433377601,112.95,No,2024-06
+fb9a74fd-b4ef-4d73-828f-9348efb97210,2024-06-05,Stand Technology,Technology,Accessories,580.14,9,0.1,114.23,West,Home Office,0.19690074809528735,64.46,No,2024-06
+8dc70ad9-b239-4e19-99d2-1fdecfee3bc7,2025-02-03,Mr Furniture,Furniture,Tables,515.34,8,0.0,55.22,Central,Home Office,0.10715255947529785,64.4175,No,2025-02
+e2094981-197c-4e1e-94f2-e423d3416add,2024-12-08,Political Furniture,Furniture,Tables,644.17,6,0.3,93.21,West,Consumer,0.14469782821304936,107.36166666666666,Yes,2024-12
+f2804ddc-0305-4e8c-a8cc-a4b81ccf1281,2025-02-19,Stop Office Supplies,Office Supplies,Binders,170.38,4,0.2,16.62,East,Consumer,0.09754666040615097,42.595,No,2025-02
+2eb3f75c-1e78-46e9-8850-b120636c3f82,2024-11-21,Eight Furniture,Furniture,Bookcases,648.2,5,0.3,108.34,Central,Home Office,0.1671397716754088,129.64000000000001,Yes,2024-11
+68f2b979-3c1f-484b-b8db-f847ea3b070e,2025-02-20,Receive Furniture,Furniture,Bookcases,175.64,1,0.1,27.96,South,Corporate,0.15918925074015033,175.64,No,2025-02
+442de9d3-4c06-45d4-bd02-4ef450d9c182,2025-03-27,Report Office Supplies,Office Supplies,Binders,175.24,2,0.0,10.44,East,Consumer,0.05957543939739785,87.62,No,2025-03
+cbe59b64-20d1-4c18-a76c-67ab62ac8580,2024-12-28,Commercial Furniture,Furniture,Bookcases,773.22,9,0.0,50.71,East,Consumer,0.06558288714725434,85.91333333333334,No,2024-12
+9f7b4d09-35cf-4d39-a6b6-46add753730f,2024-07-15,Traditional Office Supplies,Office Supplies,Paper,932.27,7,0.2,78.69,East,Home Office,0.0844068778358201,133.18142857142857,No,2024-07
+4f233ffc-3f94-4a9b-8f43-437ba4df81e6,2024-07-03,Pretty Office Supplies,Office Supplies,Binders,135.15,9,0.1,7.34,South,Home Office,0.05431002589715131,15.016666666666667,No,2024-07
+bb72cb12-947f-4f0e-a70f-76f38840c342,2025-05-04,Draw Office Supplies,Office Supplies,Binders,472.52,9,0.2,62.51,Central,Corporate,0.1322906966900872,52.50222222222222,No,2025-05
+bdd90d50-cb33-45b2-8084-f63b5a31892c,2024-10-14,Southern Technology,Technology,Copiers,601.61,10,0.3,77.32,West,Home Office,0.12852179983710377,60.161,Yes,2024-10
+25d6ecb3-a21e-43fc-9529-a098a722b13f,2025-03-30,Health Office Supplies,Office Supplies,Art,486.84,4,0.0,56.61,Central,Corporate,0.11628050283460686,121.71,No,2025-03
+38a3d51f-02c9-40e8-b2c5-7a73d0546306,2024-11-21,Suddenly Furniture,Furniture,Tables,310.54,1,0.1,31.55,Central,Consumer,0.10159721774972628,310.54,No,2024-11
+5c653172-7d75-43c9-bd01-5ddddbc0002f,2024-11-19,Soldier Furniture,Furniture,Bookcases,922.87,8,0.2,47.41,East,Home Office,0.05137234930163511,115.35875,No,2024-11
+79ada5b7-d57d-422c-859a-065056fabddc,2024-12-31,Condition Furniture,Furniture,Tables,552.73,4,0.3,100.78,West,Consumer,0.18233133718090205,138.1825,Yes,2024-12
+6af435fc-5440-47af-9523-a43638dc9242,2024-07-16,Fly Furniture,Furniture,Tables,717.79,7,0.3,59.64,West,Consumer,0.08308836846431408,102.54142857142857,Yes,2024-07
+5b107eee-4573-4edb-8acd-90b67ef3887e,2024-12-28,Democratic Technology,Technology,Accessories,766.89,10,0.2,71.09,West,Home Office,0.0926990833105139,76.689,No,2024-12
+2039616a-b1bc-445f-87bc-d33239e5432a,2025-01-30,Door Office Supplies,Office Supplies,Art,196.12,2,0.1,13.83,Central,Corporate,0.07051805017336324,98.06,No,2025-01
+7d5176ba-458a-4fc6-a80d-8f945c2f62fc,2024-08-04,Both Technology,Technology,Copiers,458.24,10,0.3,35.82,South,Home Office,0.07816864525139665,45.824,Yes,2024-08
+1c8b05e9-e75f-436b-9758-690895de1a15,2024-07-08,Add Technology,Technology,Phones,31.91,2,0.2,2.88,East,Home Office,0.09025383892196803,15.955,No,2024-07
+ab5cd836-2eac-4e1e-9d28-ded68095462a,2025-04-04,Responsibility Office Supplies,Office Supplies,Binders,99.3,1,0.3,8.2,East,Consumer,0.08257804632426989,99.3,Yes,2025-04
+cc43d4c7-20d0-4221-9537-8994e8cae7dc,2024-10-21,Other Furniture,Furniture,Tables,469.05,1,0.2,29.1,South,Corporate,0.06204029421170451,469.05,No,2024-10
+a096b6d5-ed61-4881-9b57-59d4369898a4,2024-09-26,Management Technology,Technology,Phones,80.67,8,0.1,6.36,Central,Corporate,0.07883971736705095,10.08375,No,2024-09
+5c64a602-65ae-477e-9b43-f13ed83a920e,2024-09-22,Door Furniture,Furniture,Tables,974.85,4,0.3,161.52,East,Consumer,0.16568702877365749,243.7125,Yes,2024-09
+5a5d6a8c-8d31-464c-b430-00058072410e,2024-08-23,Important Furniture,Furniture,Chairs,466.23,2,0.1,56.38,East,Consumer,0.12092743924672372,233.115,No,2024-08
+cb65a6fe-374f-4145-88be-aff996c94a96,2025-03-21,Fight Office Supplies,Office Supplies,Binders,632.87,1,0.0,55.69,Central,Consumer,0.08799595493545277,632.87,No,2025-03
+0de576aa-cfef-49fb-8a14-47ba9d132556,2024-08-05,Question Office Supplies,Office Supplies,Binders,888.64,4,0.0,75.89,West,Corporate,0.08540016204537271,222.16,No,2024-08
+963bd0ee-8c7a-4368-a502-499ecb60785b,2024-07-14,Indeed Furniture,Furniture,Tables,796.45,10,0.0,87.11,East,Consumer,0.10937284198631426,79.64500000000001,No,2024-07
+29e8c40d-fad3-4f0a-8aa0-dee752055324,2025-04-26,Art Technology,Technology,Phones,785.64,8,0.1,83.05,East,Home Office,0.1057099943994705,98.205,No,2025-04
+9700f9f3-7d9b-4c11-9569-fb5c1343e136,2025-02-10,Tax Technology,Technology,Phones,100.49,10,0.2,19.06,West,Corporate,0.18967061399144194,10.049,No,2025-02
+885f8984-9f6e-48e1-822e-b2b11516e870,2024-09-22,Let Office Supplies,Office Supplies,Paper,648.13,9,0.0,44.64,East,Corporate,0.06887507135914092,72.01444444444445,No,2024-09
+4d0e3a84-423d-4b55-8141-a1d239217dc5,2025-01-29,Future Technology,Technology,Accessories,735.86,1,0.3,76.33,Central,Corporate,0.10372897018454597,735.86,Yes,2025-01
+d1b48dc9-1147-4d76-9654-e9222ebc87e7,2024-11-04,Under Technology,Technology,Accessories,709.56,9,0.2,93.24,East,Corporate,0.13140537798072044,78.83999999999999,No,2024-11
+c9484918-ac5e-4da9-ac54-9282f4cb8446,2025-05-26,Physical Furniture,Furniture,Chairs,354.19,8,0.2,63.81,West,Home Office,0.1801575425619018,44.27375,No,2025-05
+a1b552cd-5372-4e6d-a9d0-b925872fdc96,2025-01-23,She Office Supplies,Office Supplies,Art,535.83,8,0.2,92.65,West,Consumer,0.1729093182539238,66.97875,No,2025-01
+1b782185-1251-4d9c-9055-ebb05fe85d41,2024-10-24,Upon Office Supplies,Office Supplies,Binders,778.16,9,0.3,124.54,South,Consumer,0.16004420684692094,86.46222222222222,Yes,2024-10
+e7b361ba-af5f-46f2-8de3-96bb3e790c43,2024-12-02,Person Technology,Technology,Copiers,246.4,2,0.3,19.34,Central,Home Office,0.07849025974025974,123.2,Yes,2024-12
+ca68f144-e66f-406c-a374-018abb0bbb1e,2024-11-01,Assume Office Supplies,Office Supplies,Binders,290.3,7,0.2,19.33,West,Home Office,0.06658629004478125,41.471428571428575,No,2024-11
+895490d2-0fff-49fe-91ab-ce61220e6022,2025-05-01,Cold Office Supplies,Office Supplies,Art,836.84,3,0.1,151.49,East,Consumer,0.1810262415754505,278.94666666666666,No,2025-05
+a9bff6b0-a02b-4151-8edc-9065b439c9cc,2025-03-18,Remember Technology,Technology,Phones,107.77,10,0.3,16.02,South,Consumer,0.14864990257028857,10.777,Yes,2025-03
+7b22942e-64c4-4245-b091-ff831f409388,2024-12-25,Simple Office Supplies,Office Supplies,Art,372.69,10,0.0,19.37,Central,Consumer,0.051973490031930025,37.269,No,2024-12
+1bc41706-222d-43d6-a30e-e62007b17f96,2025-02-23,Statement Technology,Technology,Copiers,473.38,1,0.2,63.29,South,Consumer,0.1336980861041869,473.38,No,2025-02
+1ece556c-9cae-4419-aad6-f4f9bedc1ac0,2024-09-26,Deep Furniture,Furniture,Tables,273.16,1,0.0,47.85,East,Home Office,0.17517206033094157,273.16,No,2024-09
+1995f81d-e06b-4d0e-93de-79c791b69198,2025-04-08,Wind Technology,Technology,Phones,727.92,9,0.3,57.08,East,Consumer,0.0784152104626882,80.88,Yes,2025-04
+90df06a4-76a8-41e8-808f-ddb66079bc4f,2024-09-15,Surface Office Supplies,Office Supplies,Art,629.07,3,0.3,101.86,West,Home Office,0.1619215667572766,209.69000000000003,Yes,2024-09
+bc92b445-c224-44c7-a66c-68e0acf9bcff,2024-06-22,Those Office Supplies,Office Supplies,Art,464.13,7,0.0,34.82,Central,Home Office,0.07502208432982138,66.30428571428571,No,2024-06
+d1cd80ab-a036-4d4c-88d0-383c3bca73ed,2025-02-22,Share Technology,Technology,Copiers,344.14,3,0.3,65.4,South,Home Office,0.1900389376416575,114.71333333333332,Yes,2025-02
+b7e3981c-d37f-4610-9314-f1938b2fbeea,2025-01-19,Ball Furniture,Furniture,Bookcases,418.22,7,0.2,59.08,Central,Corporate,0.14126536272775092,59.74571428571429,No,2025-01
+dae9728d-11b3-45a9-a02a-891c36100d23,2025-04-14,Party Office Supplies,Office Supplies,Art,768.05,5,0.2,149.19,West,Corporate,0.19424516633031705,153.60999999999999,No,2025-04
+0c3bc653-8ba5-483c-b38b-4b6d3070a657,2024-09-10,Sell Furniture,Furniture,Tables,44.32,5,0.0,5.66,East,Home Office,0.12770758122743683,8.864,No,2024-09
+5a1a2c24-cdf1-4070-bbc1-bcc414f40647,2025-03-14,Indicate Furniture,Furniture,Chairs,222.67,6,0.0,36.9,Central,Consumer,0.16571608209457941,37.111666666666665,No,2025-03
+90336d51-3c5c-44dd-b854-3f61479e992b,2024-09-19,Free Office Supplies,Office Supplies,Binders,47.36,6,0.1,3.35,West,Consumer,0.0707347972972973,7.8933333333333335,No,2024-09
+783676bd-2464-47a8-97cf-eb1582e7bc20,2025-04-08,Do Furniture,Furniture,Bookcases,263.68,5,0.0,35.75,West,Consumer,0.1355810072815534,52.736000000000004,No,2025-04
+f4318cda-c626-489b-abc2-567a3d171dc9,2025-03-27,Natural Office Supplies,Office Supplies,Paper,331.45,8,0.1,40.85,East,Home Office,0.12324634183134713,41.43125,No,2025-03
+96a122bf-868d-47e4-bfe8-5d894094b6b6,2025-01-13,Detail Office Supplies,Office Supplies,Art,645.83,1,0.3,39.89,East,Home Office,0.061765480079897184,645.83,Yes,2025-01
+97dcfd24-1a94-420c-8054-edd327d9f4dc,2024-07-01,Defense Technology,Technology,Accessories,422.36,2,0.1,68.49,Central,Corporate,0.16216024244720142,211.18,No,2024-07
+49c6b516-9564-4b8a-8455-4179b901e6b4,2025-04-11,Machine Office Supplies,Office Supplies,Paper,311.74,1,0.2,40.83,South,Consumer,0.13097453005709886,311.74,No,2025-04
+6e1fe85b-1c47-4346-a7db-3413e77cfcab,2024-11-18,Born Technology,Technology,Accessories,60.01,7,0.3,9.78,West,Consumer,0.1629728378603566,8.572857142857142,Yes,2024-11
+f93c2f55-cb5c-4a91-92c0-849f80eb61f7,2024-06-08,Share Office Supplies,Office Supplies,Art,437.62,7,0.1,30.56,East,Consumer,0.06983227457611627,62.51714285714286,No,2024-06
+680da01b-b684-493c-87ae-2c3bbf4fd79a,2024-11-12,Just Technology,Technology,Accessories,405.2,2,0.3,50.76,East,Home Office,0.12527147087857848,202.6,Yes,2024-11
+25a07d62-17fe-4b76-a0a7-f8a7fa753b53,2024-11-22,Figure Office Supplies,Office Supplies,Paper,563.7,8,0.3,83.34,West,Corporate,0.14784459819052687,70.4625,Yes,2024-11
+4636375c-f7df-43ba-9c15-85a309d9ea6e,2024-07-18,Director Technology,Technology,Copiers,80.93,7,0.2,12.36,West,Consumer,0.1527245767947609,11.561428571428573,No,2024-07
+2f2b5115-8a18-474d-ae70-d66193401d5d,2025-02-09,Learn Office Supplies,Office Supplies,Paper,419.45,6,0.2,32.96,East,Home Office,0.07857909166766004,69.90833333333333,No,2025-02
+5947790e-a014-4b22-b731-be6af6405b22,2024-08-23,Huge Furniture,Furniture,Bookcases,177.56,6,0.3,25.48,East,Corporate,0.1435007884658707,29.593333333333334,Yes,2024-08
+713567cd-b7be-4458-9d3e-47b69f76815e,2024-10-26,Authority Furniture,Furniture,Chairs,688.51,3,0.0,46.03,West,Consumer,0.06685451191703824,229.50333333333333,No,2024-10
+a17c3366-ca22-4a6d-a91c-332cedf5ffd5,2025-03-13,Network Technology,Technology,Phones,23.6,2,0.2,2.77,West,Corporate,0.1173728813559322,11.8,No,2025-03
+4f1026a8-2f6d-416a-89dd-69fb93de546e,2024-11-15,Director Technology,Technology,Accessories,542.63,4,0.2,71.8,West,Home Office,0.13231852275030867,135.6575,No,2024-11
+980f9dbc-cda8-475f-ab5d-d443ae184752,2025-04-21,Enough Office Supplies,Office Supplies,Art,701.77,1,0.3,96.46,West,Home Office,0.13745244168317255,701.77,Yes,2025-04
+4d74b719-0825-4cdc-9507-6f711a25bbdc,2024-11-23,During Office Supplies,Office Supplies,Art,178.62,5,0.1,30.08,East,Corporate,0.16840219460306796,35.724000000000004,No,2024-11
+cf8ef4bd-3692-4797-bdf5-dac7fc46105a,2025-02-28,As Office Supplies,Office Supplies,Binders,658.21,1,0.0,71.28,East,Corporate,0.10829370565624952,658.21,No,2025-02
+6aca82aa-c7b2-40b5-9494-5aeff0aaccc3,2024-08-08,What Furniture,Furniture,Bookcases,28.89,7,0.1,5.69,Central,Consumer,0.1969539633091035,4.127142857142857,No,2024-08
+5718383e-5436-47fc-a388-50a24b4ca5e2,2024-09-14,Better Office Supplies,Office Supplies,Art,489.82,10,0.0,38.19,East,Corporate,0.07796741660201706,48.982,No,2024-09
+78cebc42-1293-4eea-b20a-de5cfc6435ac,2024-08-30,Under Office Supplies,Office Supplies,Binders,254.92,9,0.2,25.5,East,Consumer,0.1000313823944767,28.324444444444442,No,2024-08
+bab44496-90d8-4d6d-950f-a11fb5eae397,2024-07-04,Quality Furniture,Furniture,Bookcases,353.31,6,0.2,50.8,West,Consumer,0.14378308001471796,58.885,No,2024-07
+6aeb1b1b-3d19-403a-9a94-6d93de85ee32,2025-02-22,Meeting Technology,Technology,Copiers,629.53,7,0.0,120.63,Central,Consumer,0.19161914444109096,89.93285714285715,No,2025-02
+0cb752ac-b7f6-40b5-a6c0-6f8ec2f54764,2025-02-17,Visit Furniture,Furniture,Chairs,898.2,3,0.0,143.25,West,Corporate,0.15948563794255177,299.40000000000003,No,2025-02
+b8d5b023-e1db-43ab-8fc3-0b7b33d6bbbd,2025-01-27,To Office Supplies,Office Supplies,Art,247.96,3,0.3,48.5,West,Corporate,0.19559606388127115,82.65333333333334,Yes,2025-01
+a1a43ef0-be48-4c89-971c-ee10494c33c8,2024-07-06,Air Office Supplies,Office Supplies,Binders,140.45,3,0.1,25.2,South,Home Office,0.17942328230687077,46.81666666666666,No,2024-07
+a31e7df7-0a85-4f0c-83fc-10c8ff3dc744,2024-08-21,Decision Furniture,Furniture,Bookcases,995.73,3,0.1,97.21,West,Corporate,0.09762686672089822,331.91,No,2024-08
+7fa3da8f-a35b-4cec-91be-5df9a6c7d073,2024-08-19,Become Office Supplies,Office Supplies,Art,324.42,3,0.0,53.47,East,Consumer,0.16481721225571788,108.14,No,2024-08
+70016686-0d91-4459-8a30-ab021f8f69c8,2024-06-02,Best Furniture,Furniture,Tables,748.15,5,0.1,124.84,Central,Corporate,0.16686493350263987,149.63,No,2024-06
+c06d0c51-13ad-4764-a7dd-2d17de965649,2025-01-20,Behind Technology,Technology,Phones,764.82,10,0.2,107.72,West,Consumer,0.14084359718626605,76.482,No,2025-01
+44da80ff-9cb5-49ae-b293-befa038e501b,2024-06-26,Couple Office Supplies,Office Supplies,Paper,690.5,6,0.0,105.8,West,Consumer,0.15322230267921796,115.08333333333333,No,2024-06
+6738b072-cc1d-42b1-a13b-499ffc32940a,2025-02-22,Human Furniture,Furniture,Chairs,653.07,3,0.3,80.8,South,Home Office,0.12372333746765277,217.69000000000003,Yes,2025-02
+5f8c0756-2101-4156-8c58-e3e841f0dcee,2024-11-11,Service Technology,Technology,Phones,41.91,1,0.2,8.07,West,Consumer,0.19255547602004297,41.91,No,2024-11
+57966f7e-2fdf-40da-8b91-81042a32b2e8,2025-03-22,Woman Technology,Technology,Copiers,75.47,8,0.3,11.56,West,Consumer,0.15317344640254407,9.43375,Yes,2025-03
+0dc2f7f2-cb41-482a-b4c2-88696dd860e7,2024-07-30,Management Furniture,Furniture,Chairs,778.45,10,0.3,123.02,South,Corporate,0.15803198664011817,77.845,Yes,2024-07
+0d971bb1-d406-4727-ab6f-76fa1633fa3f,2024-10-10,Guy Furniture,Furniture,Bookcases,118.22,8,0.0,21.48,East,Home Office,0.18169514464557604,14.7775,No,2024-10
+f82d7d8a-24a7-4073-ae6a-ece1795ec899,2025-02-22,Be Technology,Technology,Copiers,48.86,7,0.0,3.83,South,Home Office,0.07838722881702824,6.9799999999999995,No,2025-02
+c9c642e2-fb9e-4f4a-9335-da4805c5e8aa,2025-04-10,Organization Furniture,Furniture,Tables,466.73,7,0.2,66.26,Central,Corporate,0.14196644741070855,66.67571428571429,No,2025-04
+6b3adc33-16ce-4a62-a54f-8585fb212f6a,2024-10-31,Consider Technology,Technology,Copiers,831.59,8,0.0,131.72,West,Corporate,0.15839536309960436,103.94875,No,2024-10
+fcad29eb-a706-4b35-b4dc-50f9544dc025,2024-05-29,Available Technology,Technology,Phones,419.42,8,0.0,32.22,West,Corporate,0.07682037098850793,52.4275,No,2024-05
+1df39145-a6dd-406d-b844-6ad5f908bf14,2024-12-22,Maybe Office Supplies,Office Supplies,Art,99.28,6,0.1,15.66,West,Corporate,0.15773569701853343,16.546666666666667,No,2024-12
+cb19adf0-bd04-403d-8597-714046a1018a,2024-06-11,Usually Technology,Technology,Phones,454.9,6,0.0,58.49,East,Home Office,0.1285777093866784,75.81666666666666,No,2024-06
+49427e6f-33bb-4b9f-b041-d8d79428217c,2024-07-25,Morning Furniture,Furniture,Bookcases,554.84,1,0.1,103.67,West,Corporate,0.18684665849614301,554.84,No,2024-07
+240cf4cf-05e7-4737-95ac-559c649aa4e4,2024-10-17,Last Office Supplies,Office Supplies,Art,870.13,3,0.0,98.27,West,Consumer,0.11293714732281383,290.04333333333335,No,2024-10
+51470dc2-57f1-4dd6-bbfb-6cc95d579401,2025-02-15,Public Furniture,Furniture,Bookcases,630.19,2,0.1,122.3,South,Corporate,0.19406845554515303,315.095,No,2025-02
+9b5e1818-90c2-4763-af56-f27433a5efb9,2024-12-13,Case Technology,Technology,Copiers,464.06,8,0.0,65.52,Central,Consumer,0.14118863940007756,58.0075,No,2024-12
+dd5ff256-a181-43b4-a590-a1e4771f0136,2025-03-18,Example Furniture,Furniture,Chairs,662.88,8,0.3,77.08,West,Home Office,0.11628047308713492,82.86,Yes,2025-03
+08c90dea-e1f8-4dc8-9823-1524aa886115,2025-01-06,Necessary Office Supplies,Office Supplies,Art,883.35,5,0.1,50.65,East,Consumer,0.05733854078224939,176.67000000000002,No,2025-01
+2c9da6be-be63-4c9d-b767-b6347ce864f8,2024-07-05,Appear Technology,Technology,Phones,153.92,1,0.2,15.34,Central,Consumer,0.09966216216216217,153.92,No,2024-07
+debdafd5-a37e-4d4b-86f9-0e087ee4c918,2024-08-07,Address Technology,Technology,Phones,993.8,3,0.2,140.79,East,Corporate,0.14166834373113302,331.26666666666665,No,2024-08
+ddecb603-f67d-487f-9579-48ea0d98db1e,2025-03-22,Recent Office Supplies,Office Supplies,Art,751.84,6,0.0,48.09,West,Corporate,0.06396307725047883,125.30666666666667,No,2025-03
+5cbe4096-77fe-4f5a-b642-58462556cffc,2024-10-08,Somebody Furniture,Furniture,Tables,822.06,7,0.0,77.21,Central,Corporate,0.0939225847261757,117.43714285714285,No,2024-10
+c3f50176-7bd4-4607-b93c-251ef800a433,2025-02-14,Always Technology,Technology,Phones,531.78,9,0.1,82.09,Central,Corporate,0.1543683478130054,59.086666666666666,No,2025-02
+81d8883e-6b6c-4af5-9f3c-d94241b1fdef,2025-02-08,Number Office Supplies,Office Supplies,Paper,732.43,9,0.0,89.76,East,Home Office,0.12255096050134485,81.38111111111111,No,2025-02
+fd3dfa17-18f8-4bd3-a174-dfc3b7a552ed,2024-12-11,Plan Office Supplies,Office Supplies,Art,612.76,6,0.2,78.93,Central,Corporate,0.12881062732554346,102.12666666666667,No,2024-12
+358c9ac5-0d2c-4588-8de0-2f28170b7caa,2025-01-09,Media Office Supplies,Office Supplies,Binders,567.01,9,0.3,70.24,West,Home Office,0.12387788575157405,63.00111111111111,Yes,2025-01
+2d75d293-aea2-42c6-bcc5-d2f0fe1ed5cb,2025-05-25,Number Technology,Technology,Copiers,297.58,4,0.0,20.16,West,Home Office,0.06774648833927012,74.395,No,2025-05
+a8405865-dce4-4060-863c-c0481d2981e9,2024-06-22,Seven Furniture,Furniture,Bookcases,849.59,10,0.3,95.24,East,Home Office,0.11210113113384101,84.959,Yes,2024-06
+5ba85be7-0186-4a6e-8c6d-8ac9fadef195,2024-11-18,Growth Furniture,Furniture,Tables,644.21,5,0.2,108.57,West,Consumer,0.16853200043464087,128.842,No,2024-11
+7f289b0f-b6e4-45e8-b2b3-813ec64c3a8f,2024-08-29,Ready Furniture,Furniture,Tables,122.7,6,0.2,13.42,Central,Consumer,0.1093724531377343,20.45,No,2024-08
+a774c369-1efa-4c5a-8ca1-92ce103daba4,2024-07-22,Social Office Supplies,Office Supplies,Art,202.08,6,0.3,37.87,East,Consumer,0.18740102929532856,33.68,Yes,2024-07
+788ecfe9-ace1-40d0-8b27-84fc861dd4e5,2025-04-17,Relate Technology,Technology,Copiers,163.83,8,0.2,19.56,West,Corporate,0.11939205273759383,20.47875,No,2025-04
+f44ce2fa-78a2-45a4-abd3-3a8b53b87c95,2024-09-28,Open Furniture,Furniture,Bookcases,306.35,6,0.0,24.89,East,Home Office,0.08124693977476742,51.05833333333334,No,2024-09
+66f21fda-3f9e-4425-bd07-c1c9e44053de,2024-10-05,Address Office Supplies,Office Supplies,Binders,969.92,5,0.0,97.84,Central,Consumer,0.10087429891125042,193.98399999999998,No,2024-10
+953c05f1-9e77-46e5-a11d-76fcd66e898c,2024-09-23,Close Furniture,Furniture,Bookcases,609.63,3,0.0,109.54,West,Home Office,0.17968275839443598,203.21,No,2024-09
+689c5e32-35cf-4654-8875-fde02474774b,2025-02-13,Area Furniture,Furniture,Bookcases,41.31,7,0.0,5.15,Central,Home Office,0.12466715081094167,5.901428571428572,No,2025-02
+1d522adb-aa98-479a-83fc-df10a1e39218,2025-03-25,Weight Technology,Technology,Accessories,223.98,5,0.1,14.97,South,Corporate,0.0668363246718457,44.796,No,2025-03
+7de3fff8-a903-40e5-b7f9-c0571f1bcf51,2024-10-14,Kitchen Technology,Technology,Phones,510.93,8,0.1,40.12,East,Corporate,0.07852347679721292,63.86625,No,2024-10
+e4d72a2f-d367-4d36-8744-9485be346347,2025-05-06,Resource Furniture,Furniture,Bookcases,151.86,2,0.1,12.27,Central,Corporate,0.08079810351639667,75.93,No,2025-05
+17d1d6ef-ddf5-4626-9d67-9edc26f0b11c,2024-10-16,Challenge Technology,Technology,Accessories,866.16,2,0.0,83.71,South,Home Office,0.09664496166989932,433.08,No,2024-10
+13feebab-3bd2-428e-a8a1-838262dc6d50,2024-09-03,Law Technology,Technology,Copiers,472.21,1,0.0,60.48,East,Corporate,0.12807860909341182,472.21,No,2024-09
+daa1f093-0000-4e92-a8c4-f13dc56afe5e,2025-02-26,Chance Office Supplies,Office Supplies,Art,581.78,5,0.1,57.09,Central,Consumer,0.09812987727319607,116.356,No,2025-02
+61ba0737-a520-461e-8910-83234ccb7699,2024-08-09,Do Technology,Technology,Accessories,325.96,8,0.0,29.63,Central,Home Office,0.0909007240152166,40.745,No,2024-08
+f824d53f-9d06-4bc5-af84-00af7e803623,2024-08-02,Court Technology,Technology,Accessories,958.72,9,0.0,77.64,East,Consumer,0.08098297730307076,106.52444444444444,No,2024-08
+cbc2a3f1-b34d-4788-a67a-f9e404df730e,2025-01-15,Cup Furniture,Furniture,Bookcases,150.14,5,0.1,11.36,Central,Corporate,0.07566271479952046,30.028,No,2025-01
+d58c5a66-5ec6-4091-921d-5239763effa1,2024-12-14,Wide Furniture,Furniture,Bookcases,449.21,3,0.0,54.18,Central,Home Office,0.12061174061129538,149.73666666666665,No,2024-12
+fbff9382-195c-4801-a17f-553e2ffc2646,2024-11-25,Do Office Supplies,Office Supplies,Paper,63.26,7,0.3,4.86,East,Corporate,0.07682579829276004,9.037142857142857,Yes,2024-11
+c55f27a2-356f-4baa-8060-9eb1943f1dfe,2024-06-10,Include Office Supplies,Office Supplies,Art,362.07,6,0.1,56.82,South,Home Office,0.15693098019719945,60.345,No,2024-06
+b8f30fd6-e821-43c1-ab55-acc7ecc0eaee,2024-07-30,Per Office Supplies,Office Supplies,Art,572.11,2,0.3,36.95,East,Corporate,0.06458548181293808,286.055,Yes,2024-07
+f70ec8ed-7edc-45d9-8add-a5a588d64380,2025-03-19,Where Furniture,Furniture,Bookcases,239.38,4,0.1,42.89,South,Corporate,0.17917119224663716,59.845,No,2025-03
+9b457b8e-b1aa-4cec-acca-bfe10cb12a8e,2024-12-11,News Office Supplies,Office Supplies,Binders,191.52,6,0.2,22.6,Central,Corporate,0.11800334168755222,31.92,No,2024-12
+68554ac4-43f1-4a65-a546-f9314cf45eb0,2025-03-01,Course Technology,Technology,Phones,357.93,8,0.1,33.05,South,Consumer,0.09233649037521302,44.74125,No,2025-03
+1b8f7187-1250-40ef-bbee-b2a0ce3a4186,2025-02-27,Trial Furniture,Furniture,Bookcases,111.9,2,0.2,14.93,West,Home Office,0.13342269883824842,55.95,No,2025-02
+77e96c2e-51a2-478b-bd0e-e4d5909c9b52,2025-05-24,Image Technology,Technology,Accessories,594.63,4,0.1,78.61,South,Corporate,0.1321998553722483,148.6575,No,2025-05
+b270f27b-b8b6-47cf-a49c-8b81ed6775b6,2025-05-14,Technology Furniture,Furniture,Tables,216.16,10,0.3,36.24,East,Corporate,0.1676535899333827,21.616,Yes,2025-05
+04001daf-a190-43b9-95fc-29b9f5431b15,2024-09-16,Young Furniture,Furniture,Bookcases,697.19,3,0.0,112.18,Central,Home Office,0.1609030536869433,232.39666666666668,No,2024-09
+2a7db0dc-bd23-42be-923a-5a3da01b8478,2024-09-20,Might Office Supplies,Office Supplies,Art,596.24,8,0.2,79.46,South,Consumer,0.13326848249027237,74.53,No,2024-09
+8c78525d-5978-40e8-9b0c-a95f8c401615,2024-12-07,Ok Furniture,Furniture,Chairs,78.91,2,0.3,7.82,Central,Corporate,0.09910024078063617,39.455,Yes,2024-12
+9494eb85-eb96-421b-8a2b-8988a421c9a9,2024-07-28,News Office Supplies,Office Supplies,Art,225.44,3,0.0,36.87,East,Consumer,0.16354684173172462,75.14666666666666,No,2024-07
+58a3139f-58db-4c68-a6ac-3d36e7ed3fa4,2024-06-01,Two Office Supplies,Office Supplies,Paper,298.59,10,0.3,23.69,South,Home Office,0.07933956261093808,29.858999999999998,Yes,2024-06
+bd7e8d21-89dc-4f4e-be47-fd94a1b779d0,2024-11-03,Door Office Supplies,Office Supplies,Binders,796.4,5,0.3,125.57,Central,Home Office,0.15767202410848818,159.28,Yes,2024-11
+396c79b7-85ac-4681-887d-74a361b85dbc,2024-09-08,School Furniture,Furniture,Chairs,986.56,7,0.1,175.49,East,Home Office,0.17788071683425238,140.93714285714285,No,2024-09
+7a6377d1-09d3-453a-babe-2b3e4589eaa0,2025-05-25,Church Technology,Technology,Accessories,706.32,6,0.0,126.56,East,Consumer,0.17918224034431984,117.72000000000001,No,2025-05
+5afaf9bc-5b6f-4e0f-9567-f30267dc4515,2025-02-22,Or Technology,Technology,Phones,594.26,6,0.3,65.91,South,Home Office,0.11091104903577559,99.04333333333334,Yes,2025-02
+948d570c-636e-48bb-b42a-01f456d1651e,2025-01-01,Voice Furniture,Furniture,Bookcases,181.68,3,0.1,24.22,West,Home Office,0.13331131660061646,60.56,No,2025-01
+15a591ec-8fd9-4a39-bd78-65a67d85437d,2024-06-30,Significant Furniture,Furniture,Tables,997.48,3,0.1,51.61,West,Corporate,0.051740385772145805,332.49333333333334,No,2024-06
+19489ae7-4cc5-44ff-9ac9-90a5064e8433,2024-08-14,Bring Office Supplies,Office Supplies,Paper,886.04,7,0.1,55.55,West,Home Office,0.06269468647013679,126.57714285714285,No,2024-08
+43f4e2b8-b56b-4074-a07c-2a975e1d0ed2,2024-11-07,Serious Office Supplies,Office Supplies,Binders,608.39,7,0.1,71.89,South,Home Office,0.11816433537697858,86.91285714285713,No,2024-11
+ba455a51-ada3-4a49-894e-38545bbdff09,2024-10-25,Vote Furniture,Furniture,Bookcases,361.75,3,0.3,50.89,South,Corporate,0.1406772633033863,120.58333333333333,Yes,2024-10
+fcda0a2e-44c6-43cf-99f4-445d3d53f932,2024-12-19,Computer Office Supplies,Office Supplies,Binders,506.71,7,0.2,27.88,West,Home Office,0.0550216099938821,72.38714285714285,No,2024-12
+95162a44-8226-454a-8654-f23c11e24fce,2024-10-14,Fine Technology,Technology,Copiers,374.89,10,0.3,72.83,South,Home Office,0.19427031929365948,37.489,Yes,2024-10
+c3de1c13-b5dd-4cc7-833d-89f18adb4e43,2024-06-30,Unit Technology,Technology,Phones,521.78,9,0.0,45.28,Central,Corporate,0.0867798689102687,57.97555555555555,No,2024-06
+e7cf541f-2b93-425e-864b-471279dab0b8,2025-02-09,Third Office Supplies,Office Supplies,Art,637.35,10,0.2,90.48,East,Home Office,0.14196281477994824,63.735,No,2025-02
+907f55f3-709d-4014-95a1-bd4d4e59a513,2025-03-24,Road Furniture,Furniture,Bookcases,459.49,8,0.2,51.99,East,Corporate,0.11314718492241398,57.43625,No,2025-03
+c8a3ef46-a1fb-41f1-8877-40907a643f27,2025-01-18,Out Furniture,Furniture,Tables,698.1,10,0.2,111.03,West,Consumer,0.15904598195100988,69.81,No,2025-01
+74ca83d2-d843-49ed-8f9c-e4765a92a094,2025-03-14,Evening Office Supplies,Office Supplies,Binders,478.43,3,0.0,71.02,East,Home Office,0.14844386848650795,159.47666666666666,No,2025-03
+3a5cc248-c953-44b4-a7f1-376be94468fc,2024-09-07,Suggest Furniture,Furniture,Bookcases,489.91,3,0.0,87.07,East,Corporate,0.177726521197771,163.30333333333334,No,2024-09
+5e92b5f1-6284-45af-9fcd-1c72503c3947,2024-06-14,Child Furniture,Furniture,Tables,288.16,5,0.0,46.46,West,Home Office,0.16122987229317046,57.632000000000005,No,2024-06
+df73910f-311a-41c2-a8fc-19af6bf23afb,2024-10-04,Pass Office Supplies,Office Supplies,Paper,452.19,3,0.2,75.69,West,Home Office,0.1673853910966629,150.73,No,2024-10
+dda2382b-cb56-4050-8eea-21656e06e570,2024-10-13,Street Technology,Technology,Accessories,863.39,6,0.0,168.45,West,Home Office,0.19510302412582956,143.89833333333334,No,2024-10
+ebcbe016-21f6-431f-8975-cafa9fd78e3b,2024-07-23,Answer Office Supplies,Office Supplies,Paper,772.66,4,0.3,122.78,South,Corporate,0.15890559884036964,193.165,Yes,2024-07
+480d9036-9d4a-4f5b-9c29-b57831acddd8,2024-09-14,Kitchen Technology,Technology,Phones,645.84,2,0.0,48.53,Central,Consumer,0.07514245014245013,322.92,No,2024-09
+d758bd1e-b837-4691-921b-e0737b7588f4,2024-08-06,Serious Furniture,Furniture,Tables,748.69,9,0.1,80.09,Central,Corporate,0.10697351373732786,83.18777777777778,No,2024-08
+4cb8214e-b2d7-4dc9-9e11-77e29a1ad881,2025-02-22,Hope Office Supplies,Office Supplies,Binders,153.7,7,0.0,14.34,South,Corporate,0.09329863370201692,21.957142857142856,No,2025-02
+ee4b9107-a8d3-440d-a8ac-3e4cf6fa8cec,2024-12-24,Career Furniture,Furniture,Tables,686.05,1,0.0,128.74,Central,Home Office,0.18765396108155386,686.05,No,2024-12
+f681c7c7-4c3a-4884-a2f4-6f8f32a93929,2025-01-08,Process Office Supplies,Office Supplies,Binders,918.86,5,0.2,83.2,South,Home Office,0.09054698213003069,183.772,No,2025-01
+0387a67c-611a-40b6-a119-9e530d22b573,2024-07-22,Daughter Technology,Technology,Accessories,775.42,4,0.1,99.25,South,Corporate,0.12799515101493386,193.855,No,2024-07
+3decfdee-59f4-4dad-9a92-0c6cc61feed0,2024-08-01,Get Office Supplies,Office Supplies,Art,552.14,1,0.0,28.6,West,Corporate,0.051798456913101754,552.14,No,2024-08
+c4f7368f-6b7b-4c16-886b-6990dee62c1b,2025-04-25,Pull Technology,Technology,Copiers,451.48,4,0.2,39.63,East,Home Office,0.08777797466111456,112.87,No,2025-04
+4b301471-90e6-4e1f-8e88-3dd5b90620f3,2025-05-19,Standard Technology,Technology,Phones,939.12,4,0.0,146.7,East,Consumer,0.15621006900076667,234.78,No,2025-05
+cb3bfabf-f482-41a6-86cb-ba100cf36ae8,2025-03-30,Against Technology,Technology,Phones,659.83,10,0.1,121.67,West,Corporate,0.18439598078292893,65.983,No,2025-03
+5bdfed28-e8ff-42b4-b80e-ab7d9fc78a22,2024-12-20,Step Office Supplies,Office Supplies,Paper,472.29,2,0.3,88.98,Central,Corporate,0.188401194181541,236.145,Yes,2024-12
+652d3c0a-8dc7-410a-abe1-0e24c32d6a89,2024-09-12,Have Furniture,Furniture,Tables,170.35,2,0.2,28.37,Central,Corporate,0.16653947754622836,85.175,No,2024-09
+acf86459-3f01-4518-9054-0490c5dd24bf,2024-09-19,Shake Furniture,Furniture,Tables,265.66,5,0.1,30.84,Central,Consumer,0.11608823307987652,53.132000000000005,No,2024-09
+5c7451a9-9afa-4d5a-aa8f-d87fc99b918c,2024-10-02,Center Furniture,Furniture,Chairs,649.03,2,0.1,85.08,South,Consumer,0.13108793122043666,324.515,No,2024-10
+3aed86bf-cf34-40e5-a1f2-999bde48e7e9,2025-03-16,Civil Furniture,Furniture,Chairs,718.25,2,0.0,43.77,East,Corporate,0.060939784197702754,359.125,No,2025-03
+4e918154-03af-48f3-b239-e43c4beb62e7,2024-07-21,Be Office Supplies,Office Supplies,Art,28.58,8,0.1,4.23,Central,Corporate,0.14800559832050386,3.5725,No,2024-07
+73b4e499-8901-4d27-93ea-d4037120db69,2025-03-11,Down Technology,Technology,Phones,160.09,6,0.3,21.8,South,Corporate,0.13617340246111562,26.68166666666667,Yes,2025-03
+cf72f6e9-d4de-4650-a9eb-6664074d42bf,2025-03-12,Place Office Supplies,Office Supplies,Art,441.7,2,0.1,22.3,South,Corporate,0.050486755716549696,220.85,No,2025-03
+7d2d53d1-3286-487b-9ab7-8447c385e8a9,2024-12-03,Spring Office Supplies,Office Supplies,Binders,539.95,6,0.2,82.22,East,Home Office,0.1522733586443189,89.99166666666667,No,2024-12
+d635b6ce-022c-4b97-b5d1-ee43f9eb802b,2024-08-05,Resource Furniture,Furniture,Chairs,539.28,6,0.0,95.01,East,Corporate,0.17617935024477083,89.88,No,2024-08
+4ce1435f-eaf4-4c33-a1a4-f47cee57b2e1,2025-01-17,Information Furniture,Furniture,Bookcases,558.93,7,0.1,53.0,West,Consumer,0.09482403878839928,79.84714285714286,No,2025-01
+ed76b85a-29dc-4c20-8e71-beb5efafb2b7,2024-10-16,Career Furniture,Furniture,Chairs,94.01,8,0.1,6.67,Central,Corporate,0.07094989894692054,11.75125,No,2024-10
+75114a98-48e8-4885-ab23-6e226d73001d,2025-03-29,Four Technology,Technology,Phones,394.88,9,0.2,49.34,West,Corporate,0.12494935170178283,43.87555555555556,No,2025-03
+f2335de0-f11d-4330-9334-9a18077b1c32,2024-11-24,Edge Furniture,Furniture,Chairs,65.49,1,0.3,4.44,East,Corporate,0.06779661016949154,65.49,Yes,2024-11
+a750996a-e609-473c-b598-74fb13674feb,2025-03-21,Civil Office Supplies,Office Supplies,Art,871.5,9,0.1,140.45,South,Home Office,0.16115892139988525,96.83333333333333,No,2025-03
+4f1b9fd4-5426-4ea1-a754-adc78cbe1a46,2025-03-22,Visit Technology,Technology,Phones,150.17,1,0.3,27.94,East,Home Office,0.18605580342278752,150.17,Yes,2025-03
+c58c2fb9-5c04-42f8-846e-76da619ddd7b,2024-08-20,Wall Office Supplies,Office Supplies,Paper,652.3,1,0.1,94.52,West,Home Office,0.1449026521539169,652.3,No,2024-08
+2b04cc0c-e753-4a0d-ac15-732cad90ab80,2024-06-30,Occur Furniture,Furniture,Chairs,178.98,10,0.0,30.9,South,Home Office,0.17264498826684546,17.898,No,2024-06
+1e8d8452-b3ff-4a52-92bf-dcbe660869a1,2025-03-09,Institution Technology,Technology,Phones,801.18,4,0.0,136.74,South,Home Office,0.17067325694600466,200.295,No,2025-03
+1072be8d-26de-448a-902a-752535fa4816,2025-01-05,Early Furniture,Furniture,Tables,129.59,10,0.1,12.73,South,Corporate,0.0982328883401497,12.959,No,2025-01
+5437aed0-cbdc-4c0a-9637-3e2485d0bea0,2024-12-25,Audience Technology,Technology,Phones,72.59,5,0.1,11.88,West,Corporate,0.163658906185425,14.518,No,2024-12
+c6b6cc30-3059-406a-9511-de9fe760ce56,2025-02-10,Vote Technology,Technology,Copiers,173.36,4,0.0,12.14,Central,Home Office,0.07002768804799261,43.34,No,2025-02
+f306a895-2818-4c77-b009-99f318400a72,2024-06-21,Possible Office Supplies,Office Supplies,Art,25.47,8,0.0,1.3,South,Consumer,0.05104043973301924,3.18375,No,2024-06
+4ed58269-06d7-4c6d-aa48-608893cd902c,2024-06-07,Hear Technology,Technology,Phones,696.57,8,0.1,56.37,Central,Corporate,0.08092510444032903,87.07125,No,2024-06
+cce922f0-d06e-41ec-b903-e0d15739a2a2,2025-03-09,Throw Office Supplies,Office Supplies,Binders,246.86,3,0.0,34.42,South,Corporate,0.13943125658267844,82.28666666666668,No,2025-03
+e8bedc5a-6473-4f4c-9d0b-f655264f9ce2,2024-10-13,Like Office Supplies,Office Supplies,Binders,828.22,5,0.2,93.44,East,Home Office,0.11282026514694163,165.644,No,2024-10
+9b9a4d10-3452-4a9a-939a-7521c9150dc3,2024-11-25,Again Office Supplies,Office Supplies,Paper,986.74,2,0.2,177.03,West,Consumer,0.17940896284735594,493.37,No,2024-11
+c1d91be1-1e0b-4dfe-bde8-c06ee9ee8c92,2024-10-28,Authority Office Supplies,Office Supplies,Art,772.63,4,0.2,44.78,West,Corporate,0.057957884110117396,193.1575,No,2024-10
+6d01ab21-0050-42c6-b272-0875d841968e,2024-08-04,Capital Technology,Technology,Phones,184.56,1,0.0,27.08,South,Corporate,0.14672735153879496,184.56,No,2024-08
+4756a881-b6ea-4e30-8edf-2d9ae7351a48,2025-02-06,Training Furniture,Furniture,Chairs,340.95,8,0.0,22.39,South,Corporate,0.06566945299897346,42.61875,No,2025-02
+7851bc2a-57b5-4249-ba2e-c8fd0f470f58,2024-06-15,Traditional Technology,Technology,Copiers,787.64,8,0.0,47.75,West,Consumer,0.06062414300949673,98.455,No,2024-06
+8291f2e3-b2ae-482b-9551-ad753c477846,2025-03-22,Music Technology,Technology,Copiers,583.96,7,0.1,94.64,South,Home Office,0.16206589492430987,83.42285714285715,No,2025-03
+5fbd1fa7-b51d-4868-9a97-e37e4e61fbdf,2025-02-08,Collection Furniture,Furniture,Chairs,235.5,4,0.3,42.5,East,Corporate,0.18046709129511676,58.875,Yes,2025-02
+b96190d6-f9f9-43a8-acf5-e89ef7b77107,2024-06-09,Range Furniture,Furniture,Chairs,589.24,1,0.3,42.27,East,Corporate,0.07173647410223338,589.24,Yes,2024-06
+edadba1c-e9cb-49a3-9dc6-461448e9ede3,2024-06-11,Region Office Supplies,Office Supplies,Binders,379.75,8,0.1,54.99,West,Corporate,0.14480579328505597,47.46875,No,2024-06
+b5cba955-7604-4ad2-afea-fc5b79bdfc83,2025-04-14,Thing Furniture,Furniture,Chairs,41.77,10,0.0,3.85,Central,Consumer,0.09217141489107014,4.1770000000000005,No,2025-04
+0ab84035-7a69-4780-a467-4fe9164c2919,2025-05-17,Thank Technology,Technology,Accessories,179.49,6,0.1,32.84,South,Corporate,0.18296283915538472,29.915000000000003,No,2025-05
+5dbf0c1c-d592-4e74-907b-72269275c358,2024-07-21,Last Office Supplies,Office Supplies,Paper,970.43,4,0.0,108.45,West,Home Office,0.1117545830198984,242.6075,No,2024-07
+ab6241b9-df3b-4d91-8142-4dce054482d2,2025-03-09,Rule Office Supplies,Office Supplies,Binders,478.75,8,0.2,24.98,West,Home Office,0.052177545691906003,59.84375,No,2025-03
+58482ccb-7b92-48ee-990e-c3bcde50b7ae,2024-07-10,Morning Furniture,Furniture,Bookcases,334.02,10,0.1,61.38,West,Consumer,0.18376145141009523,33.402,No,2024-07
+9bbac58a-2b64-462f-b251-7745332f046a,2024-11-06,Join Office Supplies,Office Supplies,Paper,980.38,1,0.3,156.88,East,Corporate,0.1600195842428446,980.38,Yes,2024-11
+9183be47-8192-4c8a-aee6-a9d7bde93aec,2025-02-27,Off Office Supplies,Office Supplies,Paper,400.38,2,0.3,49.76,South,Home Office,0.12428193216444378,200.19,Yes,2025-02
+3f9dddcb-ed21-4364-8de8-12658fc726e6,2025-04-26,Federal Technology,Technology,Copiers,734.47,4,0.1,76.21,East,Home Office,0.10376189633341047,183.6175,No,2025-04
+8eb2ec70-4a44-47c7-b4a4-f71a648146fc,2025-03-27,Serious Technology,Technology,Copiers,484.99,5,0.1,75.41,East,Consumer,0.15548774201529927,96.998,No,2025-03
+1b919426-ffbd-40dc-8dc1-56acb288e362,2025-01-20,Decide Office Supplies,Office Supplies,Art,469.12,3,0.3,36.47,East,Corporate,0.0777413028649386,156.37333333333333,Yes,2025-01
+dbd0faca-4cda-45fc-b60d-90e033f0cf3e,2024-10-16,West Furniture,Furniture,Bookcases,637.07,2,0.3,117.23,South,Home Office,0.18401431553832387,318.535,Yes,2024-10
+c2fc5136-af86-4f1b-a6b2-095052bddb13,2024-10-08,Too Furniture,Furniture,Bookcases,431.64,5,0.1,72.58,East,Corporate,0.16814938374571403,86.328,No,2024-10
+9f09fde0-2f04-4785-8223-7a63e461166c,2024-09-24,Work Technology,Technology,Copiers,932.92,9,0.2,170.91,Central,Home Office,0.18319898812331176,103.65777777777777,No,2024-09
+d849b91e-ed9f-48da-9b6a-9b44e1658450,2024-11-12,Artist Technology,Technology,Accessories,622.94,6,0.2,47.52,Central,Corporate,0.0762834301858927,103.82333333333334,No,2024-11
+92a89322-ab3b-44c7-bb0b-0366758bbe1d,2025-04-06,Approach Office Supplies,Office Supplies,Art,712.24,4,0.1,140.44,East,Home Office,0.19718072559811298,178.06,No,2025-04
+bba38df2-3f04-4c96-a386-b41409c04b1f,2024-10-21,Half Technology,Technology,Copiers,483.71,10,0.1,78.83,East,Home Office,0.16296954786959128,48.370999999999995,No,2024-10
+65063542-1b9a-432e-afef-e6b3cc3aff1a,2024-08-11,One Technology,Technology,Accessories,508.53,7,0.2,29.58,Central,Corporate,0.058167659725089964,72.64714285714285,No,2024-08
+9f685fbb-f205-4c15-89b0-1d87029dd096,2024-09-19,Note Furniture,Furniture,Tables,506.44,2,0.3,79.24,South,Corporate,0.15646473422320512,253.22,Yes,2024-09
+897458c6-7200-4f7b-8497-db657a929620,2025-03-16,Town Office Supplies,Office Supplies,Art,624.74,2,0.1,114.82,Central,Corporate,0.18378845599769503,312.37,No,2025-03
+6b53964f-460b-40c5-952d-34e72eb3d986,2025-05-16,Front Furniture,Furniture,Chairs,898.97,5,0.0,59.7,East,Corporate,0.0664093351279798,179.794,No,2025-05
+e990d8ed-d8e9-47df-ace3-ce47e38ce6f8,2024-09-09,Arm Furniture,Furniture,Chairs,158.99,4,0.0,14.94,West,Corporate,0.09396817409899993,39.7475,No,2024-09
+48a211cc-8dd6-49cc-9614-187a134082a3,2025-03-31,Able Office Supplies,Office Supplies,Art,353.23,8,0.0,33.11,West,Corporate,0.09373496022421651,44.15375,No,2025-03
+29763f19-6ee7-4a8c-80f3-e2ef63030786,2024-06-25,Bill Technology,Technology,Phones,648.23,7,0.2,96.17,West,Home Office,0.1483578359532882,92.60428571428572,No,2024-06
+d66b26f2-f537-43e7-96c7-1bdf7c183eb5,2025-05-12,Carry Furniture,Furniture,Tables,311.04,3,0.2,23.56,South,Corporate,0.07574588477366254,103.68,No,2025-05
+4b8bdf5b-9041-40a1-bf2c-a7550e08c30d,2025-02-16,Imagine Furniture,Furniture,Chairs,971.02,1,0.1,99.98,South,Corporate,0.10296389363761818,971.02,No,2025-02
+6cd8d65d-e24a-4f0a-a901-f88930babb36,2024-11-17,Hour Furniture,Furniture,Chairs,539.96,3,0.1,94.98,West,Home Office,0.17590191866064153,179.98666666666668,No,2024-11
+745ae856-5850-4003-8429-03cab2a79019,2025-03-01,Soon Office Supplies,Office Supplies,Art,245.53,1,0.2,33.44,West,Consumer,0.1361951696330387,245.53,No,2025-03
+5b5011ad-45f7-4254-8a42-84014c416c4c,2024-07-31,Program Furniture,Furniture,Tables,213.1,1,0.2,41.92,Central,Consumer,0.196715157203191,213.1,No,2024-07
+8fe676f2-00c4-481b-ad1f-5384ec5350f1,2025-04-01,Meet Technology,Technology,Accessories,975.71,9,0.2,66.57,South,Home Office,0.06822723965112584,108.41222222222223,No,2025-04
+15c83fd4-604b-4225-9199-f988ee458a03,2025-03-13,Beyond Technology,Technology,Accessories,948.31,6,0.1,48.03,South,Consumer,0.05064799485400344,158.05166666666665,No,2025-03
+dfb8dbfe-79d8-413e-9f3a-9d90e216a0c2,2025-03-21,Price Office Supplies,Office Supplies,Art,708.4,8,0.2,138.45,Central,Home Office,0.1954404291360813,88.55,No,2025-03
+ae92ddc9-96cd-4134-8d0d-82a4c6b48a3e,2024-09-23,Religious Office Supplies,Office Supplies,Art,731.26,8,0.2,112.15,West,Home Office,0.15336542406257694,91.4075,No,2024-09
+e6c31d6f-a652-4132-a732-1bb3f4cb98a9,2025-02-22,All Office Supplies,Office Supplies,Binders,681.23,2,0.2,36.6,East,Consumer,0.0537263479294805,340.615,No,2025-02
+9e6f95c0-0bc0-401f-8476-1d88561d9d9f,2025-02-06,Wall Office Supplies,Office Supplies,Paper,101.56,1,0.1,13.97,South,Corporate,0.1375541551792044,101.56,No,2025-02
+4331c41c-06ff-442c-9661-05cf26060ff1,2024-07-15,Their Technology,Technology,Accessories,92.75,8,0.0,18.21,West,Consumer,0.19633423180592993,11.59375,No,2024-07
+30825ef8-c35e-459b-b709-cabf737bd932,2024-09-24,Politics Furniture,Furniture,Chairs,607.14,9,0.0,113.09,South,Corporate,0.18626675890239486,67.46,No,2024-09
+794915c1-2ba8-4e11-a0b6-486f21539440,2024-12-01,Region Furniture,Furniture,Tables,855.27,6,0.3,90.59,West,Home Office,0.10591976802647118,142.545,Yes,2024-12
+62177988-cdcd-47f2-a756-e376600002f4,2024-10-09,Small Furniture,Furniture,Tables,977.75,9,0.0,80.52,Central,Corporate,0.08235233955510099,108.63888888888889,No,2024-10
+490757b4-bc9a-48b4-a3e1-d36922d4aa35,2024-06-13,At Furniture,Furniture,Bookcases,295.75,7,0.3,20.98,South,Corporate,0.07093829247675401,42.25,Yes,2024-06
+cc25c43a-9e2c-4e5e-8566-3524e94109ba,2024-08-11,Total Office Supplies,Office Supplies,Art,215.71,8,0.2,12.92,East,Consumer,0.05989522970655046,26.96375,No,2024-08
+81fa0e81-53ab-4bcc-afa8-558bb3443f87,2024-12-16,Evidence Office Supplies,Office Supplies,Binders,415.37,5,0.3,31.67,East,Consumer,0.07624527529672341,83.074,Yes,2024-12
+0593f0bf-4025-4b24-8503-208a4b1aecbb,2025-03-06,Require Furniture,Furniture,Bookcases,194.15,7,0.2,25.84,West,Consumer,0.13309296935359258,27.735714285714288,No,2025-03
+d61195fa-617f-46ce-a140-ad4ad5981717,2025-04-04,Prevent Technology,Technology,Accessories,563.69,8,0.1,30.45,Central,Corporate,0.05401905302559917,70.46125,No,2025-04
+f350ee91-37fc-4e06-b0e8-9f10f8f0d240,2024-11-19,Memory Technology,Technology,Phones,956.47,8,0.0,141.63,Central,Corporate,0.14807573682394637,119.55875,No,2024-11
+71974429-afd7-4e40-850b-c1d7c25ab8f2,2024-11-14,Everyone Furniture,Furniture,Tables,907.73,4,0.0,61.64,West,Corporate,0.06790565476518348,226.9325,No,2024-11
+31cc486a-68f2-4395-a7d1-279e444e7935,2024-07-10,Different Furniture,Furniture,Tables,748.11,10,0.3,100.87,East,Home Office,0.1348331127775327,74.811,Yes,2024-07
+4ba76516-3188-4960-9156-3147086ca31a,2024-11-16,Fire Furniture,Furniture,Bookcases,820.1,6,0.0,144.99,South,Home Office,0.1767955127423485,136.68333333333334,No,2024-11
+96fd7243-d311-4835-99e7-1fc28d96b4f1,2024-06-20,Energy Technology,Technology,Copiers,326.48,3,0.2,24.32,East,Consumer,0.07449154618965939,108.82666666666667,No,2024-06
+93465b23-575d-4b92-a9ad-ea4a8b307e30,2024-10-03,Once Furniture,Furniture,Tables,912.98,6,0.0,85.34,South,Home Office,0.09347411772437512,152.16333333333333,No,2024-10
+6e321070-159a-48d4-be1b-b7b4638ac2c4,2024-07-11,Education Office Supplies,Office Supplies,Art,201.88,3,0.0,28.23,East,Home Office,0.13983554586883298,67.29333333333334,No,2024-07
+50c63704-f957-41b5-8743-38dea25c1e6f,2025-03-16,Feel Technology,Technology,Copiers,828.55,5,0.2,126.62,Central,Corporate,0.15282119365155997,165.70999999999998,No,2025-03
+298c87ca-b463-4285-a135-318cc117638f,2025-05-17,Road Office Supplies,Office Supplies,Binders,584.25,3,0.0,41.21,East,Home Office,0.07053487376979033,194.75,No,2025-05
+fde11570-e7ff-46a5-bbe1-8ce794a301cb,2024-07-03,Turn Furniture,Furniture,Tables,346.91,3,0.0,28.68,South,Corporate,0.08267273932720301,115.63666666666667,No,2024-07
+e1388faf-7c8c-4348-aaa4-74f3db07d23e,2024-11-04,Five Office Supplies,Office Supplies,Paper,617.29,9,0.0,69.51,West,Home Office,0.11260509647005461,68.58777777777777,No,2024-11
+efc079f3-5a52-4b9f-bbb3-a11f1f910989,2024-10-26,Newspaper Technology,Technology,Phones,484.72,5,0.2,34.34,West,Consumer,0.0708450239313418,96.944,No,2024-10
+741aa4c0-879c-4cc6-a407-54ce920665a4,2024-12-13,Owner Furniture,Furniture,Bookcases,712.8,1,0.0,59.41,Central,Consumer,0.08334736251402917,712.8,No,2024-12
+c968cdb4-85d4-41e2-8eaa-f4b154b25d75,2024-12-26,Including Office Supplies,Office Supplies,Paper,134.09,3,0.0,15.25,West,Corporate,0.11372958460735327,44.696666666666665,No,2024-12
+fa2980d6-f147-403d-8f2c-14dd4a3fd12f,2024-11-03,Author Technology,Technology,Phones,759.76,1,0.1,50.28,East,Corporate,0.06617879330314837,759.76,No,2024-11
+e400b76c-c93d-4e9d-98e4-2104c6540ea2,2024-07-23,Order Office Supplies,Office Supplies,Art,127.73,5,0.0,7.66,East,Corporate,0.059970249745557036,25.546,No,2024-07
+4abb72ab-d78a-4fc6-9652-a36106b829d0,2024-10-01,Believe Office Supplies,Office Supplies,Paper,920.9,4,0.1,71.57,East,Consumer,0.07771745032033879,230.225,No,2024-10
+417798e2-f357-4401-8b1e-da14619a587c,2025-05-29,Continue Furniture,Furniture,Chairs,847.4,5,0.2,87.14,East,Consumer,0.10283219258909607,169.48,No,2025-05
+edcbfea9-aeb9-4971-889f-6632a275bdb6,2025-01-04,Popular Office Supplies,Office Supplies,Art,574.53,2,0.0,74.3,West,Home Office,0.12932309888082433,287.265,No,2025-01
+bd0c3ed5-4212-4a35-949c-a93c829b6cb7,2024-12-26,Process Office Supplies,Office Supplies,Paper,902.64,9,0.0,176.95,Central,Consumer,0.19603607196667552,100.29333333333334,No,2024-12
+ec2be9bc-19da-41d2-ab4f-0c08ecf39877,2025-05-06,Animal Technology,Technology,Phones,701.15,3,0.3,105.89,South,Corporate,0.15102331883334522,233.71666666666667,Yes,2025-05
+27bf02ca-ff54-495c-80e7-c6f326c99d29,2024-07-28,Which Technology,Technology,Phones,429.85,9,0.1,47.77,Central,Corporate,0.11113179015935792,47.76111111111111,No,2024-07
+acdf49e6-256a-4a40-aa0a-df91412ebc45,2025-05-13,Thought Furniture,Furniture,Chairs,524.53,8,0.2,81.67,South,Consumer,0.1557012944922121,65.56625,No,2025-05
+90631637-9ed0-4ef9-be84-ce009863c2d6,2025-04-09,Word Office Supplies,Office Supplies,Art,334.83,2,0.3,30.99,East,Consumer,0.09255443060657648,167.415,Yes,2025-04
+e132603b-761f-45f0-b189-3cda9b162263,2024-07-26,Chance Office Supplies,Office Supplies,Art,976.42,8,0.1,129.95,Central,Home Office,0.1330882202330964,122.0525,No,2024-07
+6e007069-0a5e-4b98-8e92-2950f074c7cd,2024-05-31,Economic Furniture,Furniture,Tables,895.81,8,0.2,68.88,West,Consumer,0.07689130507585314,111.97625,No,2024-05
+b3cee81e-e9e4-42e2-8258-3a496bfb5e94,2025-03-17,Important Office Supplies,Office Supplies,Binders,443.68,2,0.0,31.73,East,Corporate,0.07151550667147494,221.84,No,2025-03
+409da3ef-2bf4-4a54-a9f3-b2c9fff92a32,2024-12-12,Officer Furniture,Furniture,Bookcases,926.04,3,0.0,96.82,East,Home Office,0.10455271910500626,308.68,No,2024-12
+885063fd-f029-48a0-8c98-b4007c3150b9,2025-05-03,Special Technology,Technology,Accessories,845.59,7,0.0,71.82,West,Home Office,0.0849347792665476,120.79857142857144,No,2025-05
+3f049a54-1d79-4d6d-bf27-e4941f3ac95c,2025-04-22,More Furniture,Furniture,Bookcases,767.17,10,0.2,125.39,South,Corporate,0.16344486880352466,76.717,No,2025-04
+c15e35d9-1499-4bfd-8ace-74923dd17498,2025-04-21,Behavior Office Supplies,Office Supplies,Binders,670.01,7,0.3,84.9,Central,Corporate,0.126714526648856,95.71571428571428,Yes,2025-04
+11e7e377-b27e-4bc3-84ae-9e0f1b08e0a9,2024-09-02,Later Technology,Technology,Accessories,258.18,8,0.1,37.24,East,Consumer,0.1442404523975521,32.2725,No,2024-09
+02fdd792-66b3-4241-b239-5f7634c35fc8,2025-05-29,Tv Technology,Technology,Phones,62.32,2,0.3,9.45,East,Home Office,0.1516367137355584,31.16,Yes,2025-05
+169261b6-fbeb-46dc-b89d-03ec7a25038b,2024-12-14,White Technology,Technology,Accessories,309.73,10,0.0,50.8,Central,Consumer,0.16401381848706936,30.973000000000003,No,2024-12
+fd9251b1-de8b-4b04-99b9-66724e9c3b6e,2024-08-26,Personal Office Supplies,Office Supplies,Art,209.91,8,0.3,26.39,South,Corporate,0.12572054690105283,26.23875,Yes,2024-08
+076fdab5-4c90-4405-828f-ad43d92424a2,2024-11-15,Six Office Supplies,Office Supplies,Binders,990.8,2,0.3,116.44,East,Consumer,0.1175211949939443,495.4,Yes,2024-11
+cc458627-d143-41d5-b17e-5192ff580ab4,2024-12-26,Note Furniture,Furniture,Tables,42.53,9,0.2,7.77,South,Consumer,0.18269456853985422,4.725555555555555,No,2024-12
+bd740512-7e29-46db-b1f2-4763a4a10f25,2024-09-09,Watch Technology,Technology,Accessories,319.34,7,0.3,52.56,South,Consumer,0.16458946577315717,45.62,Yes,2024-09
+b72a1da0-fa60-4cd2-8c3e-07ac46f27695,2024-09-03,Wrong Office Supplies,Office Supplies,Art,558.25,9,0.3,67.76,South,Home Office,0.1213793103448276,62.02777777777778,Yes,2024-09
+74063368-b670-4e22-b617-c663ba73a33e,2024-12-20,Rather Technology,Technology,Copiers,270.76,10,0.3,38.59,East,Corporate,0.14252474516176689,27.076,Yes,2024-12
+acee25c4-986a-41a7-b819-d23dfdacb98d,2024-09-18,Reflect Furniture,Furniture,Tables,37.87,1,0.1,6.65,Central,Consumer,0.17560073937153423,37.87,No,2024-09
+3f47fbe0-4474-4a80-bf34-f8bc098f27c2,2024-08-31,International Furniture,Furniture,Bookcases,347.84,2,0.3,35.4,East,Home Office,0.10177092916283349,173.92,Yes,2024-08
+354d25ab-59ef-4be2-b8c9-6d912a09dd68,2024-11-09,Exactly Furniture,Furniture,Tables,664.63,4,0.1,97.84,Central,Consumer,0.14720972571205032,166.1575,No,2024-11
+8bc8a762-ffac-4ed1-bdcd-1bc2fb10fcd1,2024-09-09,Unit Office Supplies,Office Supplies,Paper,123.33,3,0.0,16.13,East,Corporate,0.13078731857617773,41.11,No,2024-09
+0fd727b5-2240-4c79-8695-256333ca7610,2025-05-16,Training Technology,Technology,Accessories,519.61,7,0.2,27.57,South,Home Office,0.05305902503800927,74.23,No,2025-05
+c42fdefa-516e-435d-952c-c5bf7cab6711,2024-12-15,Husband Furniture,Furniture,Bookcases,383.96,7,0.2,52.17,East,Corporate,0.13587352849255133,54.85142857142857,No,2024-12
+e602c17d-4fcf-4ec6-ac1c-85d5fb2502b6,2024-07-22,Public Furniture,Furniture,Chairs,501.76,6,0.1,71.36,West,Corporate,0.14221938775510204,83.62666666666667,No,2024-07
+cfa90dbf-a5db-4ac2-8965-a103d24672d0,2025-02-17,Peace Furniture,Furniture,Tables,639.09,2,0.1,59.5,West,Corporate,0.0931011281666119,319.545,No,2025-02
+8aed9220-f0bf-4bb9-a8f4-c622cab8b738,2025-03-25,Community Technology,Technology,Accessories,628.33,2,0.0,87.2,South,Consumer,0.13878057708528957,314.165,No,2025-03
+7d2f0d3a-3d6a-49a6-880c-514708456ae4,2024-08-06,Scientist Furniture,Furniture,Chairs,217.64,2,0.2,27.36,South,Corporate,0.1257121852600625,108.82,No,2024-08
+4cc62849-6488-4642-b752-77ca405c642c,2025-03-29,There Furniture,Furniture,Tables,420.17,5,0.3,63.33,Central,Consumer,0.15072470666634932,84.034,Yes,2025-03
+45277e87-42a7-47b4-a332-ae1b71b73961,2025-05-22,Somebody Office Supplies,Office Supplies,Paper,706.3,3,0.3,57.88,East,Home Office,0.08194818065977631,235.4333333333333,Yes,2025-05
+cf5578a7-eab3-4833-90c3-263494305fd2,2024-08-07,Himself Office Supplies,Office Supplies,Binders,537.39,10,0.3,102.21,Central,Home Office,0.19019706358510577,53.739,Yes,2024-08
+37a40f07-048e-42ad-b2c7-fb01c4d37a55,2024-07-11,Look Office Supplies,Office Supplies,Art,208.64,8,0.1,17.95,East,Home Office,0.08603335889570553,26.08,No,2024-07
+2635f02e-e88d-4b21-b35a-939e0d7825ff,2024-08-14,Could Office Supplies,Office Supplies,Art,416.16,2,0.1,73.62,Central,Corporate,0.1769031141868512,208.08,No,2024-08
+b65b53c8-0b07-4db4-bac7-d5ad0570ad6e,2024-08-01,Write Furniture,Furniture,Tables,689.99,4,0.3,59.18,West,Corporate,0.08576935897621704,172.4975,Yes,2024-08
+65af90d7-ced7-4ec3-94eb-0f3568c93f5b,2024-06-05,Various Technology,Technology,Phones,799.07,5,0.3,98.13,East,Consumer,0.12280526111604739,159.81400000000002,Yes,2024-06
+83d6af88-073b-4c9b-97ff-b09676c0d514,2024-10-03,Worker Furniture,Furniture,Tables,167.76,3,0.0,14.89,East,Consumer,0.08875774916547449,55.919999999999995,No,2024-10
+12b0be5a-a3db-460e-962f-e9f10d6bf078,2025-01-16,Message Furniture,Furniture,Bookcases,854.0,8,0.0,49.79,West,Home Office,0.05830210772833724,106.75,No,2025-01
+782c2d66-e41e-47c7-b3df-52d9b9c71030,2025-05-26,Long Technology,Technology,Accessories,901.57,7,0.2,135.91,Central,Consumer,0.15074813935689962,128.7957142857143,No,2025-05
+7fece701-baac-4a87-9b11-2a0788513e8c,2024-11-11,Catch Technology,Technology,Accessories,120.81,9,0.0,15.5,West,Consumer,0.12830063736445657,13.423333333333334,No,2024-11
+b416f40b-d461-4961-a828-7cf920edaf06,2024-05-30,Public Office Supplies,Office Supplies,Art,885.72,4,0.0,147.01,Central,Corporate,0.16597796143250687,221.43,No,2024-05
+c6f2400a-79c8-4469-b4ad-50fddcd2087a,2024-08-15,List Furniture,Furniture,Tables,746.52,7,0.1,53.48,South,Home Office,0.07163907196056368,106.64571428571428,No,2024-08
+87eec04c-ea49-43c8-a7a9-4abfc460f4ef,2025-05-18,Born Technology,Technology,Phones,414.29,10,0.0,51.19,Central,Corporate,0.1235607907504405,41.429,No,2025-05
+96987dbd-dab9-40a9-bde7-fb1d71805495,2024-12-12,Station Furniture,Furniture,Bookcases,550.29,8,0.1,107.03,East,Corporate,0.1944974468007778,68.78625,No,2024-12
+bd1b8f3f-dca2-47f9-a534-d306e77342eb,2024-11-07,Decide Technology,Technology,Accessories,374.06,5,0.0,54.92,South,Home Office,0.14682136555632785,74.812,No,2024-11
+54868f04-3d23-4c4a-a293-8b79a8964f74,2024-11-01,Data Office Supplies,Office Supplies,Paper,918.28,4,0.2,122.05,East,Home Office,0.13291153025221067,229.57,No,2024-11
+7d4f9366-7c26-434a-97ed-27ce867fdd61,2024-10-22,Wrong Furniture,Furniture,Bookcases,130.83,4,0.3,14.17,Central,Home Office,0.10830849193610027,32.7075,Yes,2024-10
+9f79dc2a-493e-4632-82c5-213449ded706,2025-01-10,Minute Furniture,Furniture,Tables,936.96,4,0.2,76.42,Central,Consumer,0.08156164617486339,234.24,No,2025-01
+51369445-8f45-4658-9173-77c5118bfd04,2024-07-03,Reveal Technology,Technology,Accessories,412.23,1,0.2,74.19,Central,Home Office,0.17997234553525943,412.23,No,2024-07
+0f1dadb8-6056-4520-8dc6-8487f8e5ff4e,2025-01-02,Trip Furniture,Furniture,Tables,720.21,2,0.1,111.47,South,Corporate,0.154774301939712,360.105,No,2025-01
+3f9ac544-aa4d-42d8-aefb-24d600abbed8,2025-01-26,So Office Supplies,Office Supplies,Paper,606.09,9,0.2,71.51,Central,Corporate,0.11798577768978205,67.34333333333333,No,2025-01
+44d1edd9-259f-4a5a-9384-f9892647bcf4,2024-11-19,Structure Technology,Technology,Phones,448.97,3,0.0,49.43,West,Home Office,0.11009644296946343,149.65666666666667,No,2024-11
+d366ee69-688e-4c89-98de-a5f901b2d628,2024-06-26,Center Office Supplies,Office Supplies,Binders,91.41,3,0.1,11.65,Central,Home Office,0.1274477628268242,30.47,No,2024-06
+5972a622-54be-4a8e-bfba-5ed12cfb7dc4,2024-10-14,Early Office Supplies,Office Supplies,Paper,456.98,3,0.2,34.74,South,Corporate,0.07602083242155018,152.32666666666668,No,2024-10
+d0bffda2-4952-495c-b188-a9378989d67d,2024-09-15,Others Office Supplies,Office Supplies,Binders,93.55,6,0.1,10.2,Central,Consumer,0.10903260288615713,15.591666666666667,No,2024-09
+b85621cb-a99e-4466-ac99-72fab40f5163,2025-03-16,City Furniture,Furniture,Bookcases,948.63,9,0.1,176.47,West,Consumer,0.1860261640470995,105.40333333333334,No,2025-03
+f1ca8afd-e6b5-4980-a173-807b9e1cb664,2024-12-15,Mean Furniture,Furniture,Chairs,853.31,1,0.3,121.77,Central,Home Office,0.14270312078845906,853.31,Yes,2024-12
+5a0af03f-a81f-44fd-94fe-d458504330bd,2025-03-24,Computer Office Supplies,Office Supplies,Binders,958.45,3,0.0,49.95,West,Consumer,0.052115394647608115,319.48333333333335,No,2025-03
+dbdcccf4-05f0-4306-89fc-410203681b48,2024-12-21,And Office Supplies,Office Supplies,Binders,499.21,4,0.1,39.23,South,Home Office,0.07858416297750445,124.8025,No,2024-12
+06efae49-15e2-4fe8-9786-445fd9a48761,2024-09-10,Many Furniture,Furniture,Tables,138.9,4,0.1,27.68,South,Corporate,0.19928005759539236,34.725,No,2024-09
+88195f5a-0410-479a-a4c5-7ff6eb150916,2024-07-13,With Furniture,Furniture,Bookcases,188.57,3,0.0,17.64,West,Corporate,0.09354616322850931,62.85666666666666,No,2024-07
+d28c6705-dcc5-48cc-99cb-6b0944cc64e1,2024-10-20,But Furniture,Furniture,Chairs,375.94,8,0.0,19.38,South,Consumer,0.051550779379688244,46.9925,No,2024-10
+23a6cc3d-0c93-435f-bd7e-b8f218f92e87,2024-12-01,She Technology,Technology,Accessories,220.1,7,0.3,35.31,South,Home Office,0.1604270786006361,31.442857142857143,Yes,2024-12
+9d8f6487-8494-4bf4-8b1c-34e77603bf60,2025-03-23,Once Furniture,Furniture,Chairs,68.16,6,0.1,8.22,East,Home Office,0.1205985915492958,11.36,No,2025-03
+421b2e8c-28b2-46e9-85ee-215b854a19da,2024-06-18,Among Furniture,Furniture,Bookcases,261.12,10,0.3,24.9,East,Consumer,0.09535845588235294,26.112000000000002,Yes,2024-06
+2bffaf0e-061c-4e55-80a8-03b210b59c52,2024-10-19,Benefit Furniture,Furniture,Bookcases,968.38,9,0.0,132.74,Central,Consumer,0.13707428901877364,107.59777777777778,No,2024-10
+c92b0220-dd3b-46a3-9f5a-46072dd6b275,2025-04-28,Care Furniture,Furniture,Chairs,879.12,3,0.0,85.8,South,Corporate,0.09759759759759759,293.04,No,2025-04
+1b38a4b5-76e0-42d7-9ee7-0b95a7337482,2025-03-24,Wind Office Supplies,Office Supplies,Binders,125.67,1,0.1,15.69,West,Corporate,0.12485079971353544,125.67,No,2025-03
+3fb51513-4dc6-45a7-8cd7-32c8f77eaa8f,2024-08-30,Exist Furniture,Furniture,Bookcases,290.1,5,0.2,37.0,Central,Corporate,0.1275422268183385,58.02,No,2024-08
+e3a002d3-7cb2-42ac-97cd-36f86967e45b,2024-07-05,Produce Furniture,Furniture,Chairs,994.62,3,0.3,57.67,Central,Home Office,0.0579819428525467,331.54,Yes,2024-07
+15f01a57-dd4f-4cfb-a355-7f9c3bb18827,2024-12-25,Hundred Technology,Technology,Phones,45.5,5,0.1,7.09,West,Consumer,0.15582417582417582,9.1,No,2024-12
+cefbfdeb-3d3f-4607-abf1-c30d789f87ee,2024-11-28,Very Furniture,Furniture,Chairs,447.1,9,0.3,53.05,South,Consumer,0.11865354506821739,49.67777777777778,Yes,2024-11
+76e56390-77d3-441c-b143-9ea192d866df,2025-05-23,Southern Technology,Technology,Copiers,356.11,4,0.2,27.46,West,Consumer,0.07711100502653674,89.0275,No,2025-05
+c5615713-423e-409d-a2e7-0bf3cb2daed0,2024-12-02,Do Technology,Technology,Copiers,891.99,10,0.1,122.68,Central,Home Office,0.1375351741611453,89.199,No,2024-12
+4ff3ae63-14cf-423d-abc0-a47c86e21551,2025-04-22,Fine Technology,Technology,Copiers,921.21,4,0.3,139.6,West,Corporate,0.15153982262459156,230.3025,Yes,2025-04
+f0867d29-c444-4da2-97ac-b81e14f24787,2024-10-25,Specific Furniture,Furniture,Chairs,981.52,2,0.3,104.07,Central,Home Office,0.10602942375091694,490.76,Yes,2024-10
+06b7acbd-f1c7-4f25-a616-a675655f23ff,2025-01-05,Performance Technology,Technology,Accessories,90.25,8,0.3,13.02,West,Consumer,0.14426592797783933,11.28125,Yes,2025-01
+92cbacf1-14e8-41e4-ada2-eaaed9639e83,2024-08-21,Real Furniture,Furniture,Bookcases,970.07,10,0.3,95.78,East,Corporate,0.0987351428247446,97.007,Yes,2024-08
+9e7b4538-02a2-4684-a9bf-0ad8bea5d5dc,2024-07-23,These Office Supplies,Office Supplies,Art,864.65,5,0.2,146.75,West,Consumer,0.16972185277279825,172.93,No,2024-07
+8c4f7d6a-f542-4ad9-8823-2597d4a69ae2,2024-05-30,Man Office Supplies,Office Supplies,Paper,404.87,3,0.1,78.85,South,Consumer,0.19475387161311036,134.95666666666668,No,2024-05
+4abc3d8f-e3c7-4835-8f3e-5a96e41c1d4f,2024-07-24,Walk Furniture,Furniture,Chairs,171.31,7,0.2,25.2,East,Consumer,0.1471017453738836,24.472857142857144,No,2024-07
+c3d748d1-d2bf-42b8-9b3c-36c6f84dfd08,2024-08-19,Onto Office Supplies,Office Supplies,Paper,495.94,7,0.2,92.03,East,Corporate,0.18556680243577853,70.84857142857143,No,2024-08
+a5e2a0a9-e48b-4ff5-9010-3c6768a940b6,2025-01-22,Old Office Supplies,Office Supplies,Paper,105.15,6,0.1,12.98,Central,Home Office,0.12344270090347123,17.525000000000002,No,2025-01
+a4f5a1ea-3447-4891-ac8b-fa4f61e1f695,2024-10-24,Radio Furniture,Furniture,Tables,604.34,2,0.3,103.73,Central,Home Office,0.17164179104477612,302.17,Yes,2024-10
+86ceee8e-39c3-4f35-81a1-bdb9a3f0f438,2025-03-26,East Office Supplies,Office Supplies,Paper,431.76,1,0.2,84.62,South,Home Office,0.19598851213637208,431.76,No,2025-03
+28501f80-d8ba-4e34-a141-5c8cf9b1a6dd,2024-12-05,Try Office Supplies,Office Supplies,Paper,532.01,9,0.0,49.8,West,Corporate,0.09360726302137178,59.11222222222222,No,2024-12
+9f37d7e1-8271-4414-b56d-9f7dba7dc9c5,2024-07-10,Exactly Furniture,Furniture,Chairs,157.12,3,0.2,27.69,South,Corporate,0.1762347250509165,52.373333333333335,No,2024-07
+2439ec95-b252-4226-b0d3-d84afc6754f4,2025-01-26,Action Office Supplies,Office Supplies,Binders,57.25,2,0.0,7.27,Central,Home Office,0.12698689956331877,28.625,No,2025-01
+d0f51a07-c696-4bb1-8c65-53ea7455cd10,2024-08-10,Should Office Supplies,Office Supplies,Binders,470.01,10,0.2,48.56,South,Consumer,0.10331695070317654,47.001,No,2024-08
+bca1c06b-6c22-44ea-ac12-daaf1c8e7caf,2025-01-25,In Office Supplies,Office Supplies,Paper,743.11,8,0.1,124.79,East,Consumer,0.16792937788483536,92.88875,No,2025-01
+5e337ce2-270b-424c-8db9-5c7e7486c358,2024-08-29,Newspaper Furniture,Furniture,Chairs,877.99,5,0.2,121.23,East,Corporate,0.13807674347088236,175.598,No,2024-08
+ddc92a9e-58d6-4cdf-9e38-8d777058c28d,2024-07-06,Live Furniture,Furniture,Bookcases,809.76,6,0.1,66.13,South,Home Office,0.08166617269314365,134.96,No,2024-07
+911eec36-e94a-4df8-b7da-45bd85b80ede,2024-06-25,Police Technology,Technology,Copiers,115.27,9,0.0,5.86,Central,Home Office,0.05083716491715104,12.807777777777778,No,2024-06
+a1d27237-2166-4ce5-89ac-8e333827299d,2025-04-11,Order Technology,Technology,Phones,482.35,7,0.3,46.03,West,Home Office,0.09542863066238208,68.90714285714286,Yes,2025-04
+a239bc70-a029-4901-9864-9971b97560a9,2024-11-17,Indicate Office Supplies,Office Supplies,Binders,96.76,3,0.0,7.61,South,Corporate,0.07864820173625466,32.25333333333334,No,2024-11
+ed232739-f3fc-431b-afba-83768eb4783c,2024-12-13,Computer Technology,Technology,Copiers,217.14,3,0.1,25.05,West,Consumer,0.11536336004421112,72.38,No,2024-12
+61857c2f-f06c-4ab7-b99f-7754fdd94b65,2024-09-26,Both Office Supplies,Office Supplies,Art,307.91,8,0.1,37.29,West,Consumer,0.12110681692702412,38.48875,No,2024-09
+ac7fc82c-8af8-4eb9-b523-80a5df418de1,2024-08-22,Treat Technology,Technology,Phones,741.39,8,0.3,89.5,West,Consumer,0.12071918963028905,92.67375,Yes,2024-08
+3c964154-853f-4eca-a10b-7a5ffcda76c0,2024-09-15,Young Furniture,Furniture,Bookcases,301.88,7,0.0,30.21,West,Consumer,0.1000728766397244,43.12571428571429,No,2024-09
+15dd451c-0842-4cc4-b587-7d1a05ce1b0b,2024-10-15,Police Technology,Technology,Copiers,850.13,10,0.2,47.23,South,Corporate,0.05555620905038053,85.013,No,2024-10
+5aa02a3c-0bce-41c7-b4b7-3404145f2d8e,2024-12-29,Each Furniture,Furniture,Tables,717.15,9,0.0,81.25,South,Consumer,0.11329568430593322,79.68333333333334,No,2024-12
+d6cecef5-ec5f-407a-adcf-779def33b66c,2024-08-11,Sometimes Furniture,Furniture,Bookcases,893.95,7,0.3,60.38,East,Corporate,0.06754292745679288,127.70714285714287,Yes,2024-08
+6b2b4c88-da62-4261-9d4c-6947aca31f3e,2024-09-14,Because Office Supplies,Office Supplies,Art,700.54,1,0.1,65.29,Central,Corporate,0.0931995317897622,700.54,No,2024-09
+8b262c23-2748-4c45-b25d-dffd8cd8b015,2025-02-18,Step Technology,Technology,Accessories,239.78,4,0.2,45.14,Central,Corporate,0.18825590124280592,59.945,No,2025-02
+bdaf6cf9-caec-406f-acb2-04d3431fff0c,2025-05-20,Part Office Supplies,Office Supplies,Art,884.34,7,0.3,154.73,South,Consumer,0.17496664178935703,126.33428571428571,Yes,2025-05
+2c0cf205-2f90-4f65-8265-939cfaa9d969,2024-11-03,Will Office Supplies,Office Supplies,Art,801.76,3,0.1,74.06,Central,Corporate,0.09237178207942527,267.25333333333333,No,2024-11
+a2c0a1f7-cbd6-4fa3-b3f3-d6c9e64cfc69,2024-07-24,Father Office Supplies,Office Supplies,Paper,181.56,3,0.3,11.83,South,Consumer,0.06515752368363076,60.52,Yes,2024-07
