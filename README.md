@@ -1,4 +1,4 @@
-# ecommerce-sales-analysis
+# Ecommerce Sales Analysis
 
 Objective:
 To analyze an e-commerce sales dataset, uncover key business insights, and visualize them in an interactive Power BI dashboard.
