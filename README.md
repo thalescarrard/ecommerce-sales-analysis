@@ -19,6 +19,9 @@ This project analyzes sales, profit, and customer behavior from a simulated e-co
 
 ---
 
+![Dashboard Preview](ecommerce_screenshot.png)
+
+
 ## 🧰 Tools Used
 
 - **Python** (Pandas, Matplotlib, Seaborn)
